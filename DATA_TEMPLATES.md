@@ -122,3 +122,20 @@ If you would like to contribute new data to the **Bahrain API**, please use the 
   "url": "/public/history/photo.jpg"
 }
 ```
+
+---
+
+### 👤 Figure Template | نموذج الشخصيات
+**File:** `api/figures.json`
+```json
+{
+  "id": 0,
+  "name_ar": "اسم الشخصية",
+  "name_en": "Person Name",
+  "category": "Religious Scholar / Political Leader / Artist / etc.",
+  "description_ar": "وصف مفصل عن الشخصية وحياتها...",
+  "description_en": "Detailed description of the person and their life...",
+  "notable_for": "Key achievements or legacy",
+  "image_url": "/public/figures/person_name.jpg"
+}
+```

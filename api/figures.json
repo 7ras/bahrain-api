@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 1,
+        "name_ar": "الملك حمد بن عيسى آل خليفة",
+        "name_en": "King Hamad bin Isa Al Khalifa",
+        "category": "Political Leader",
+        "description_ar": "ملك مملكة البحرين الحالي، تولى الحكم في عام 1999. قاد مشروع الإصلاح الوطني وأعلن البحرين مملكة في عام 2002.",
+        "description_en": "The current King of Bahrain, who took office in 1999. He led the National Reform Project and declared Bahrain a Kingdom in 2002.",
+        "notable_for": "National Action Charter, Reform, Governance",
+        "image_url": "/public/figures/king-hamad.jpg"
+    },
+    {
+        "id": 2,
+        "name_ar": "الشيخ أحمد بن محمد آل خليفة (الفاتح)",
+        "name_en": "Sheikh Ahmed bin Mohammed Al Khalifa (The Conqueror)",
+        "category": "Historical Leader",
+        "description_ar": "فاتح البحرين ومؤسس حكم آل خليفة فيها عام 1783. لُقب بـ 'الفاتح' بعد قيادته الناجحة لتأمين الجزر وتوحيدها.",
+        "description_en": "The conqueror of Bahrain and the founder of the Al Khalifa rule in 1783. He was nicknamed 'The Conqueror' after his successful leadership in securing and unifying the islands.",
+        "notable_for": "Conquest of Bahrain, Foundation of the State",
+        "image_url": "/public/figures/ahmed-al-fateh.jpg"
+    },
+    {
+        "id": 3,
+        "name_ar": "السيد هاشم التوبلاني",
+        "name_en": "Sayyid Hashim Al-Tublani",
+        "category": "Religious Scholar",
+        "description_ar": "عالم ومحدث شيعي بحريني بارز من القرن السابع عشر، صاحب كتاب 'البرهان في تفسير القرآن'. يُعد من كبار المفسرين والمحدثين في تاريخ البحرين.",
+        "description_en": "A prominent 17th-century Bahraini Shia scholar and traditionist, author of 'Al-Burhan fi Tafsir al-Quran'. He is considered one of the great commentators and traditionists in Bahrain's history.",
+        "notable_for": "Tafsir, Hadith Scholarship",
+        "image_url": "/public/figures/hashim-al-tublani.jpg"
+    },
+    {
+        "id": 4,
+        "name_ar": "إبراهيم العريض",
+        "name_en": "Ibrahim Al-Arrayedh",
+        "category": "Poet & Intellectual",
+        "description_ar": "يُعد من كبار الشعراء والأدباء في البحرين والخليج العربي. تميز بشعره الرومانسى والوطني، وكان له دور بارز في النهضة الثقافية.",
+        "description_en": "Considered one of the greatest poets and writers in Bahrain and the Arabian Gulf. He was distinguished by his romantic and national poetry and played a prominent role in the cultural renaissance.",
+        "notable_for": "Poetry, Literature, Cultural Renaissance",
+        "image_url": "/public/figures/ibrahim-al-arrayedh.jpg"
+    },
+    {
+        "id": 5,
+        "name_ar": "عبد الله الزايد",
+        "name_en": "Abdullah Al-Zayed",
+        "category": "Media & Journalism",
+        "description_ar": "رائد الصحافة في البحرين، أسس أول جريدة في البحرين والخليج 'جريدة البحرين' عام 1939. ساهم بشكل كبير في نشر الوعي الثقافي والسياسي.",
+        "description_en": "A pioneer of journalism in Bahrain, he founded the first newspaper in Bahrain and the Gulf, 'Bahrain Newspaper', in 1939. He contributed significantly to spreading cultural and political awareness.",
+        "notable_for": "Journalism, First Newspaper in the Gulf",
+        "image_url": "/public/figures/abdullah-al-zayed.jpg"
+    },
+    {
+        "id": 6,
+        "name_ar": "الشيخ ميثم البحراني",
+        "name_en": "Sheikh Maitham Al-Bahrani",
+        "category": "Philosopher & Scholar",
+        "description_ar": "فيلسوف ومتكلم وفقيه بحريني من القرن الثالث عشر ميلادي. اشتهر بشرحه لنهج البلاغة ويُعد من أبرز المفكرين في التاريخ الإسلامي.",
+        "description_en": "A 13th-century Bahraini philosopher, theologian, and jurist. He is famous for his commentary on 'Nahj al-Balagha' and is considered one of the most prominent thinkers in Islamic history.",
+        "notable_for": "Philosophy, Theology, Nahj al-Balagha Commentary",
+        "image_url": "/public/figures/maitham-al-bahrani.jpg"
+    },
+    {
+        "id": 7,
+        "name_ar": "عبد الله المحرقي",
+        "name_en": "Abdullah Al-Muharraqi",
+        "category": "Artist",
+        "description_ar": "فنان تشكيلي ورسام كاريكاتير بحريني عالمي. تُعبر لوحاته عن التراث البحريني والخليجي بأسلوب سريالي فريد، وحصل على العديد من الجوائز الدولية.",
+        "description_en": "A world-renowned Bahraini fine artist and caricaturist. His paintings express Bahraini and Gulf heritage in a unique surrealist style, and he has received numerous international awards.",
+        "notable_for": "Fine Arts, Caricature, Cultural Heritage Art",
+        "image_url": "/public/figures/abdullah-al-muharraqi.jpg"
+    },
+    {
+        "id": 8,
+        "name_ar": "يوسف بن أحمد كانو",
+        "name_en": "Yousef Bin Ahmed Kanoo",
+        "category": "Business & Philanthropy",
+        "description_ar": "مؤسس عائلة كانو التجارية المرموقة. كان له دور رائد في التجارة والملاحة في الخليج، وعرف بأعماله الخيرية الكبيرة ودعمه للتعليم.",
+        "description_en": "Founder of the prestigious Kanoo merchant family. He had a pioneering role in trade and navigation in the Gulf and was known for his extensive charitable work and support for education.",
+        "notable_for": "Commerce, Shipping, Philanthropy",
+        "image_url": "/public/figures/yousef-kanoo.jpg"
+    },
+    {
+        "id": 9,
+        "name_ar": "الدكتور غازي القصيبي",
+        "name_en": "Dr. Gazi Al-Gosaibi",
+        "category": "Diplomat & Writer",
+        "description_ar": "رغم كونه سعودي المولد، إلا أن له جذوراً بحرينية عميقة ونشأ في المنامة. كان شاعراً وأديباً ودبلوماسياً بارزاً، وترك أثراً ثقافياً كبيراً في البحرين.",
+        "description_en": "Although Saudi-born, he had deep Bahraini roots and was raised in Manama. He was a prominent poet, writer, and diplomat, leaving a significant cultural impact on Bahrain.",
+        "notable_for": "Poetry, Novels, Diplomacy",
+        "image_url": "/public/figures/gazi-al-gosaibi.jpg"
+    },
+    {
+        "id": 10,
+        "name_ar": "طرفة بن العبد",
+        "name_en": "Tarafa bin al-Abd",
+        "category": "Historical Poet",
+        "description_ar": "من أشهر شعراء الجاهلية وصاحب إحدى المعلقات السبع. ولد في إقليم البحرين التاريخي ويُعد رمزاً أدبياً قديماً للمنطقة.",
+        "description_en": "One of the most famous pre-Islamic poets and author of one of the Seven Mu'allaqat. He was born in the historical region of Bahrain and is considered an ancient literary symbol for the area.",
+        "notable_for": "Arabic Poetry, Mu'allaqat",
+        "image_url": "/public/figures/tarafa-bin-al-abd.jpg"
+    },
+    {
+        "id": 11,
+        "name_ar": "علي بحر",
+        "name_en": "Ali Bahar",
+        "category": "Famous Singer",
+        "description_ar": "فنان ومطرب بحريني شهير، عُرف بلقب 'سفير الأغنية البحرينية'. أسس فرقة الإخوة البحرينية وحظي بشعبية جارفة في الخليج والوطن العربي.",
+        "description_en": "A famous Bahraini artist and singer, known as the 'Ambassador of Bahraini Song'. He founded the 'Al-Ekhwa' (The Brothers) band and enjoyed immense popularity in the Gulf and Arab world.",
+        "notable_for": "Music, Rock & Reggae in the Gulf",
+        "image_url": "/public/figures/ali-bahar.jpg"
+    },
+    {
+        "id": 12,
+        "name_ar": "الشيخ عزيز",
+        "name_en": "Sheikh Aziz",
+        "category": "Religious Figure",
+        "description_ar": "شخصية دينية تاريخية يرتبط اسمه بمقام 'الشيخ عزيز' في منطقة السهلة. يُعد مقامه مزاراً دينياً واجتماعياً هاماً في البحرين.",
+        "description_en": "A historical religious figure whose name is associated with the 'Sheikh Aziz' shrine in the Sehla area. His shrine is an important religious and social landmark in Bahrain.",
+        "notable_for": "Religious Heritage, Historical Shrine",
+        "image_url": "/public/figures/sheikh-aziz.jpg"
+    },
+    {
+        "id": 13,
+        "name_ar": "فاطمة النسيم",
+        "name_en": "Fatima Al-Naseem",
+        "category": "Famous Figure",
+        "description_ar": "شخصية تمثل جزءاً من الذاكرة الشعبية البحرينية في مجال العمل الاجتماعي والتربوي، ولها بصمة في التاريخ النسائي المبكر.",
+        "description_en": "A figure representing part of the Bahraini folk memory in social and educational work, with a mark in early women's history.",
+        "notable_for": "Social Work, Women's Empowerment",
+        "image_url": "/public/figures/fatima-al-naseem.jpg"
+    },
+    {
+        "id": 14,
+        "name_ar": "الشيخ عيسى أحمد قاسم",
+        "name_en": "Sheikh Isa Ahmed Qasim",
+        "category": "Religious Leader",
+        "description_ar": "عالم دين شيعي بحريني بارز، يُعتبر المرجعية الدينية العليا في البحرين. له دور كبير في الحياة السياسية والاجتماعية والدينية.",
+        "description_en": "A prominent Bahraini Shia religious scholar, considered the highest religious authority in Bahrain. He has played a major role in political, social, and religious life.",
+        "notable_for": "Religious Authority, Leadership",
+        "image_url": "/public/figures/isa-qasim.jpg"
+    },
+    {
+        "id": 15,
+        "name_ar": "الشيخ سلمان بن حمد آل خليفة",
+        "name_en": "Sheikh Salman bin Hamad Al Khalifa",
+        "category": "Political Leader",
+        "description_ar": "حاكم البحرين في الفترة من 1942 إلى 1961. شهد عهده طفرة في التعليم والصحة وتأسيس العديد من المرافق الخدمية الحديثة.",
+        "description_en": "Ruler of Bahrain from 1942 to 1961. His reign saw a boom in education and health and the establishment of many modern service facilities.",
+        "notable_for": "Service Infrastructure, Educational Growth",
+        "image_url": "/public/figures/salman-bin-hamad-historical.jpg"
+    },
+    {
+        "id": 16,
+        "name_ar": "الشيخ عيسى بن سلمان آل خليفة",
+        "name_en": "Sheikh Isa bin Salman Al Khalifa",
+        "category": "Political Leader",
+        "description_ar": "أمير دولة البحرين من عام 1961 حتى وفاته في عام 1999. في عهده استقلت البحرين عن بريطانيا عام 1971 وتحولت إلى دولة حديثة.",
+        "description_en": "Emir of Bahrain from 1961 until his death in 1999. During his reign, Bahrain gained independence from Britain in 1971 and transformed into a modern state.",
+        "notable_for": "Independence, Modernization, Leadership",
+        "image_url": "/public/figures/isa-bin-salman.jpg"
+    },
+    {
+        "id": 17,
+        "name_ar": "الأمير سلمان بن حمد آل خليفة",
+        "name_en": "Prince Salman bin Hamad Al Khalifa",
+        "category": "Political Leader",
+        "description_ar": "ولي العهد ورئيس مجلس الوزراء بمملكة البحرين. يقود الجهود التنموية والاقتصادية وبرز دوره الاستراتيجي في فريق البحرين.",
+        "description_en": "The Crown Prince and Prime Minister of Bahrain. He leads developmental and economic efforts and is known for his strategic role in 'Team Bahrain'.",
+        "notable_for": "Economic Reform, Team Bahrain, Leadership",
+        "image_url": "/public/figures/crown-prince-salman.jpg"
+    },
+    {
+        "id": 18,
+        "name_ar": "الشيخ خليفة بن سلمان آل خليفة",
+        "name_en": "Sheikh Khalifa bin Salman Al Khalifa",
+        "category": "Political Leader",
+        "description_ar": "رئيس وزراء البحرين السابق (1970-2020)، ويُعتبر أطول رئيس وزراء خدمة في العالم. ساهم بشكل جوهري في بناء الدولة الحديثة.",
+        "description_en": "The former Prime Minister of Bahrain (1970-2020), considered the world's longest-serving Prime Minister. He played a fundamental role in building the modern state.",
+        "notable_for": "State Building, Longest Service, Administration",
+        "image_url": "/public/figures/khalifa-bin-salman.jpg"
+    },
+    {
+        "id": 19,
+        "name_ar": "الشيخ عبد الأمير الجمري",
+        "name_en": "Sheikh Abdul-Amir Al-Jamri",
+        "category": "Religious & Political Leader",
+        "description_ar": "عالم دين وقائد وطني بارز، كان رمزاً للمطالبة بالإصلاحات الدستورية في التسعينيات وعضواً في المجلس الوطني الأول.",
+        "description_en": "A prominent religious scholar and national leader, he was a symbol of the call for constitutional reforms in the 1990s and a member of the first National Assembly.",
+        "notable_for": "Constitutional Reform, Spiritual Leadership, National Activism",
+        "image_url": "/public/figures/abdul-amir-al-jamri.jpg"
+    },
+    {
+        "id": 20,
+        "name_ar": "قاسم حداد",
+        "name_en": "Qassim Haddad",
+        "category": "Poet",
+        "description_ar": "شاعر بحريني معاصر من أبرز شعراء الحداثة في الوطن العربي. له العديد من الدواوين المترجمة لعدة لغات عالمية.",
+        "description_en": "A contemporary Bahraini poet and one of the most prominent modern poets in the Arab world. He has many collections translated into several world languages.",
+        "notable_for": "Modern Arabic Poetry, Literary Innovation",
+        "image_url": "/public/figures/qassim-haddad.jpg"
+    },
+    {
+        "id": 21,
+        "name_ar": "الشيخ أحمد بن خلف العصفور",
+        "name_en": "Sheikh Ahmed bin Khalaf Al-Asfoor",
+        "category": "Religious Scholar",
+        "description_ar": "عالم دين وقاضٍ شرعي بارز، عُرف بخطابته الحسينية المؤثرة ودوره الاجتماعي الكبير في الإصلاح وحل النزاعات.",
+        "description_en": "A prominent religious scholar and Sharia judge, known for his influential religious oratory and significant social role in reform and conflict resolution.",
+        "notable_for": "Religious Oratory, Judiciary, Social Reform",
+        "image_url": "/public/figures/ahmed-al-asfoor.jpg"
+    },
+    {
+        "id": 22,
+        "name_ar": "خالد الشيخ",
+        "name_en": "Khaled Al-Sheikh",
+        "category": "Musician & Composer",
+        "description_ar": "فنان وملحن بحريني متميز، عرف بتجديده في الموسيقى العربية والخليجية وتقديم أعمال ذات طابع فكري وفني عميق.",
+        "description_en": "A distinguished Bahraini artist and composer, known for his innovation in Arabic and Gulf music and for presenting works with deep intellectual and artistic character.",
+        "notable_for": "Music Composition, Renewal of Gulf Music",
+        "image_url": "/public/figures/khaled-al-sheikh.jpg"
+    },
+    {
+        "id": 23,
+        "name_ar": "رقية الغسرة",
+        "name_en": "Roqaya Al-Ghasra",
+        "category": "Athlete",
+        "description_ar": "عداءة بحرينية دولية، وأول امرأة بحرينية تفوز بميدالية ذهبية في الألعاب الآسيوية، ومثلت البحرين في الأولمبياد بالزي المحتشم.",
+        "description_en": "An international Bahraini sprinter, the first Bahraini woman to win a gold medal at the Asian Games, and represented Bahrain in the Olympics wearing modest attire.",
+        "notable_for": "Athletics, Asian Games Gold, Women's Sports",
+        "image_url": "/public/figures/roqaya-al-ghasra.jpg"
+    },
+    {
+        "id": 24,
+        "name_ar": "الشيخ يوسف البحراني",
+        "name_en": "Sheikh Yusuf Al-Bahrani",
+        "category": "Historical Religious Scholar",
+        "description_ar": "عالم دين وفقيه ومحدث بحريني من القرن الثامن عشر، صاحب الموسوعة الفقهية الشهيرة 'الحدائق الناضرة'.",
+        "description_en": "An 18th-century Bahraini religious scholar, jurist, and traditionist, author of the famous jurisprudential encyclopedia 'Al-Hada'iq al-Nadhira'.",
+        "notable_for": "Jurisprudence, 'Al-Hada'iq al-Nadhira', Scholarship",
+        "image_url": "/public/figures/yusuf-al-bahrani.jpg"
+    },
+    {
+        "id": 25,
+        "name_ar": "فوزية زينل",
+        "name_en": "Fawzia Zainal",
+        "category": "Political Leader",
+        "description_ar": "إعلامية وسياسية بحرينية، وهي أول امرأة تتولى رئاسة مجلس النواب في البحرين (2018-2022)، مما شكل علامة فارقة في تاريخ السياسة البحرينية.",
+        "description_en": "A Bahraini media figure and politician, she was the first woman to serve as Speaker of the Council of Representatives in Bahrain (2018-2022), marking a milestone in Bahraini political history.",
+        "notable_for": "Women in Politics, Parliament Leadership",
+        "image_url": "/public/figures/fawzia-zainal.jpg"
+    },
+    {
+        "id": 26,
+        "name_ar": "نبيل الحمر",
+        "name_en": "Nabeel Al-Hamer",
+        "category": "Media & Politics",
+        "description_ar": "صحافي ومستشار ملكي، أسس صحيفة الأيام البحرينية وشغل منصب وزير الإعلام سابقاً، وله دور كبير في صياغة المشهد الإعلامي.",
+        "description_en": "A journalist and royal advisor, he founded the Bahraini Al-Ayam newspaper and previously served as Minister of Information. He has played a major role in shaping the media landscape.",
+        "notable_for": "Journalism, Al-Ayam Newspaper, Public Service",
+        "image_url": "/public/figures/nabeel-al-hamer.jpg"
+    },
+    {
+        "id": 27,
+        "name_ar": "ماجدة الرومي (جذور بحرينية)",
+        "name_en": "Majida El Roumi",
+        "category": "Famous Singer",
+        "description_ar": "رغم كونها فنانة لبنانية عالمية، إلا أن لها جذوراً بحرينية تعود لعائلة 'الرومي' في المحرق، وهو ما تعتز به دائماً في لقاءاتها.",
+        "description_en": "Although a world-renowned Lebanese artist, she has Bahraini roots from the 'El Roumi' family in Muharraq, which she often expresses pride in during her interviews.",
+        "notable_for": "Vocal Excellence, Cultural Links",
+        "image_url": "/public/figures/majida-el-roumi.jpg"
+    },
+    {
+        "id": 28,
+        "name_ar": "السيد علوي الغريفي",
+        "name_en": "Sayyid Alawi Al-Ghareefi",
+        "category": "Religious Scholar",
+        "description_ar": "عالم دين بحريني بارز، عُرف بزده وتقواه ودوره في التعليم الديني والاجتماعي، ويحظى باحترام واسع في الأوساط العلمية.",
+        "description_en": "A prominent Bahraini religious scholar, known for his asceticism, piety, and role in religious and social education, holding wide respect in scholarly circles.",
+        "notable_for": "Piety, Religious Education, Social Guidance",
+        "image_url": "/public/figures/alawi-al-ghareefi.jpg"
+    },
+    {
+        "id": 29,
+        "name_ar": "آلاء حبيل",
+        "name_en": "A'ala Hubail",
+        "category": "Athlete",
+        "description_ar": "لاعب كرة قدم بحريني سابق، يُعد من أفضل الهدافين في تاريخ البحرين، وحصل على لقب هداف كأس آسيا 2004.",
+        "description_en": "A former Bahraini footballer, considered one of the best scorers in Bahrain's history, and won the Golden Boot at the 2004 AFC Asian Cup.",
+        "notable_for": "Football, Asian Cup Scorer, Golden Boot",
+        "image_url": "/public/figures/a-ala-hubail.jpg"
+    },
+    {
+        "id": 30,
+        "name_ar": "جمال عبد الرحيم",
+        "name_en": "Jamal Abdul Rahim",
+        "category": "Artist",
+        "description_ar": "فنان تشكيلي بحريني معاصر، يتميز بأعماله التي تجمع بين الخط العربي والفن الحديث، وله مقتنيات فنية في العديد من المتاحف الدولية.",
+        "description_en": "A contemporary Bahraini artist, distinguished by his works that blend Arabic calligraphy with modern art, with art pieces in many international museums.",
+        "notable_for": "Fine Arts, Calligraphy, International Exhibitions",
+        "image_url": "/public/figures/jamal-abdul-rahim.jpg"
+    },
+    {
+        "id": 31,
+        "name_ar": "الشيخ حصة بنت عيسى آل خليفة",
+        "name_en": "Sheikha Hessa bint Isa Al Khalifa",
+        "category": "Social & Cultural Leader",
+        "description_ar": "ابنة أمير البحرين الراحل، عُرفت بنشاطها الاجتماعي والخيري ودعمها للمشاريع الثقافية والإنسانية في المملكة.",
+        "description_en": "The daughter of the late Emir of Bahrain, known for her social and charitable activity and support for cultural and humanitarian projects in the Kingdom.",
+        "notable_for": "Social Work, Philanthropy, Cultural Support",
+        "image_url": "/public/figures/hessa-bint-isa.jpg"
+    },
+    {
+        "id": 32,
+        "name_ar": "محمد بن فارس",
+        "name_en": "Mohammed bin Faris",
+        "category": "Famous Singer & Musician",
+        "description_ar": "رائد فن الصوت في البحرين والخليج، أسس مدرسة غنائية متميزة حافظت على التراث الموسيقي الشعبي وطوره.",
+        "description_en": "A pioneer of 'Sout' music in Bahrain and the Gulf, he founded a distinct school of singing that preserved and developed traditional musical heritage.",
+        "notable_for": "Sout Music, Traditional Heritage, Performing Arts",
+        "image_url": "/public/figures/mohammed-bin-faris.jpg"
+    },
+    {
+        "id": 33,
+        "name_ar": "علي الشرقاوي",
+        "name_en": "Ali Al-Sharqawi",
+        "category": "Poet",
+        "description_ar": "شاعر وأديب بحريني، عرف بقصائده الشعبية والفصحى التي تغنت بحب الوطن وحياة الناس، وله مساهمات مسرحية بارزة.",
+        "description_en": "A Bahraini poet and writer, known for his colloquial and classical poems that celebrated patriotism and daily life, with prominent theatrical contributions.",
+        "notable_for": "Poetry, Theater, Cultural Heritage",
+        "image_url": "/public/figures/ali-al-sharqawi.jpg"
+    },
+    {
+        "id": 34,
+        "name_ar": "هدى نونو",
+        "name_en": "Houda Nonoo",
+        "category": "Diplomat",
+        "description_ar": "سياسية ودبلوماسية بحرينية، شغلت منصب سفيرة البحرين لدى الولايات المتحدة، وهي أول امرأة يهودية تمثل دولة عربية في الخارج.",
+        "description_en": "A Bahraini politician and diplomat, she served as Bahrain's Ambassador to the United States, being the first Jewish woman to represent an Arab country abroad.",
+        "notable_for": "Diplomacy, Interfaith Representation, International Relations",
+        "image_url": "/public/figures/houda-nonoo.jpg"
+    },
+    {
+        "id": 35,
+        "name_ar": "الشيخ باقر العصفور",
+        "name_en": "Sheikh Baqir Al-Asfoor",
+        "category": "Religious Scholar",
+        "description_ar": "عالم دين وأديب، عُرف بسعة علمه ومؤلفاته الدينية، وكان له دور بارز في الحياة العلمية والقضائية في البحرين.",
+        "description_en": "A religious scholar and man of letters, known for his vast knowledge and religious writings, with a prominent role in the scholarly and judicial life in Bahrain.",
+        "notable_for": "Religious Scholarship, Literature, Judiciary",
+        "image_url": "/public/figures/baqir-al-asfoor.jpg"
+    },
+    {
+        "id": 36,
+        "name_ar": "مريم جمال",
+        "name_en": "Maryam Jamal",
+        "category": "Athlete",
+        "description_ar": "عداءة بحرينية أولمبية، أحرزت أول ميدالية ذهبية أولمبية للبحرين في تاريخها خلال أولمبياد لندن 2012 في سباق 1500 متر.",
+        "description_en": "An Olympic Bahraini runner, she won Bahrain's first-ever Olympic gold medal in the 1500m at the London 2012 Olympics.",
+        "notable_for": "Olympic Gold Medal, Athletics, World Records",
+        "image_url": "/public/figures/maryam-jamal.jpg"
+    },
+    {
+        "id": 37,
+        "name_ar": "نزار البحارنة",
+        "name_en": "Nazar Al-Baharna",
+        "category": "Academic & Politics",
+        "description_ar": "أكاديمي وسياسي، شغل منصب وزير الدولة للشؤون الخارجية سابقاً، وله مساهمات في مجالات ريادة الأعمال وحقوق الإنسان.",
+        "description_en": "An academic and politician, he previously served as Minister of State for Foreign Affairs, with contributions in entrepreneurship and human rights.",
+        "notable_for": "Public Service, Academic Excellence, Human Rights",
+        "image_url": "/public/figures/nazar-al-baharna.jpg"
+    },
+    {
+        "id": 38,
+        "name_ar": "فيصل القاسم (إعلامي بحريني)",
+        "name_en": "Faisal Al-Qassem (Bahraini Media)",
+        "category": "Media",
+        "description_ar": "إعلامي بحريني برز في مجال التقديم التلفزيوني والإذاعي، وساهم في تطوير الخطاب الإعلامي المحلي.",
+        "description_en": "A Bahraini media figure who excelled in television and radio presentation, contributing to the development of local media discourse.",
+        "notable_for": "Media Presentation, Broadcasting",
+        "image_url": "/public/figures/faisal-al-qassem-bahraini.jpg"
+    },
+    {
+        "id": 39,
+        "name_ar": "الشيخ عبد الحسين السكري",
+        "name_en": "Sheikh Abdul-Hussein Al-Sitri",
+        "category": "Religious Scholar",
+        "description_ar": "عالم دين بارز من سترة، عُرف بزهده وعلمه الغزير ومكانته الاجتماعية المرموقة كمرجع ديني محلي.",
+        "description_en": "A prominent religious scholar from Sitra, known for his asceticism, vast knowledge, and high social status as a local religious authority.",
+        "notable_for": "Religious Authority, Asceticism, Social Trust",
+        "image_url": "/public/figures/abdul-hussein-al-sitri.jpg"
+    },
+    {
+        "id": 40,
+        "name_ar": "يوسف خليل المؤيد",
+        "name_en": "Yousif Khalil Almoayyed",
+        "category": "Business Leader",
+        "description_ar": "مؤسس مجموعة يوسف خليل المؤيد وأولاده، أحد أعمدة الاقتصاد والتجارة في البحرين، وعرف بدعمه الكبير للمشاريع الوطنية.",
+        "description_en": "Founder of the Y.K. Almoayyed & Sons Group, one of the pillars of economy and trade in Bahrain, known for his major support for national projects.",
+        "notable_for": "Entrepreneurship, Business Conglomerate, Economic Growth",
+        "image_url": "/public/figures/yousif-almoayyed.jpg"
+    },
+    {
+        "id": 41,
+        "name_ar": "الشيخة مي بنت محمد آل خليفة",
+        "name_en": "Sheikha Mai bint Mohammed Al Khalifa",
+        "category": "Cultural Leader",
+        "description_ar": "شخصية ثقافية عالمية، شغلت منصب رئيسة هيئة البحرين للثقافة والآثار، وقادت مشاريع ترميم البيوت التاريخية وحماية التراث.",
+        "description_en": "A global cultural figure, she served as President of the Bahrain Authority for Culture and Antiquities, leading projects to restore historical houses and protect heritage.",
+        "notable_for": "Heritage Preservation, Cultural Diplomacy, UNESCO Projects",
+        "image_url": "/public/figures/mai-al-khalifa.jpg"
+    },
+    {
+        "id": 42,
+        "name_ar": "جاسم الزياني",
+        "name_en": "Jassim Al-Zayani",
+        "category": "Business Leader",
+        "description_ar": "من أبرز رجالات الأعمال في البحرين، ساهم في تأسيس وتطوير قطاع السيارات والتجارة، وله دور كبير في دعم الاقتصاد الوطني.",
+        "description_en": "One of the most prominent businessmen in Bahrain, he contributed to the establishment and development of the automotive and trade sectors, playing a major role in supporting the national economy.",
+        "notable_for": "Automotive Industry, Trade, Economic Leadership",
+        "image_url": "/public/figures/jassim-al-zayani.jpg"
+    },
+    {
+        "id": 43,
+        "name_ar": "الدكتورة منيرة فخرو",
+        "name_en": "Dr. Munira Fakhro",
+        "category": "Academic & Political Activist",
+        "description_ar": "أكاديمية وسياسية بحرينية بارزة، عُرفت بنشاطها في الدفاع عن حقوق المرأة والمشاركة السياسية، وهي أستاذة في جامعة البحرين.",
+        "description_en": "A prominent Bahraini academic and politician, known for her activism in defending women's rights and political participation. She is a professor at the University of Bahrain.",
+        "notable_for": "Academic Research, Political Reform, Women's Rights",
+        "image_url": "/public/figures/munira-fakhro.jpg"
+    },
+    {
+        "id": 44,
+        "name_ar": "عبد الرحيم شريف",
+        "name_en": "AbdulRahim Sharif",
+        "category": "Artist",
+        "description_ar": "فنان تشكيلي بحريني رائد، يتميز بأسلوبه الفني الذي يجمع بين التجريد والواقعية، وساهم في تأسيس جمعية البحرين للفنون التشكيلية.",
+        "description_en": "A leading Bahraini fine artist, distinguished by his artistic style that blends abstraction and realism, and contributed to founding the Bahrain Contemporary Art Association.",
+        "notable_for": "Contemporary Art, Art Education, Fine Arts",
+        "image_url": "/public/figures/abdulrahim-sharif.jpg"
+    },
+    {
+        "id": 45,
+        "name_ar": "بلقيس فخرو",
+        "name_en": "Balqees Fakhro",
+        "category": "Artist",
+        "description_ar": "فنانة تشكيلية بحرينية عالمية، تُركز أعمالها على مفاهيم الذاكرة والمكان والآثار، وشاركت في معارض فنية في كبرى مدن العالم.",
+        "description_en": "A world-renowned Bahraini fine artist, her work focuses on concepts of memory, place, and antiquities, having participated in art exhibitions in major world cities.",
+        "notable_for": "Abstract Art, Memory & History in Art",
+        "image_url": "/public/figures/balqees-fakhro.jpg"
+    },
+    {
+        "id": 46,
+        "name_ar": "راشد الماجد (جذور بحرينية)",
+        "name_en": "Rashed Al-Majed",
+        "category": "Famous Singer",
+        "description_ar": "أحد أشهر الفنانين في الوطن العربي، ولد لأب سعودي وأم بحرينية ونشأ في البحرين، ويُعتبر سفيراً للأغنية الخليجية.",
+        "description_en": "One of the most famous artists in the Arab world, born to a Saudi father and a Bahraini mother and raised in Bahrain. He is considered an ambassador of Gulf songs.",
+        "notable_for": "Arab Music, Gulf Singing, Record Sales",
+        "image_url": "/public/figures/rashed-al-majed.jpg"
+    },
+    {
+        "id": 47,
+        "name_ar": "أحلام الشامسي (جذور بحرينية)",
+        "name_en": "Ahlam Al Shamsi",
+        "category": "Famous Singer",
+        "description_ar": "فنانة إماراتية ولدت في البحرين لأم بحرينية، وتعتز دائماً بارتباطها الوثيق بالمملكة وبداياتها الفنية في المحرق.",
+        "description_en": "An Emirati artist born in Bahrain to a Bahraini mother, she always takes pride in her close ties to the Kingdom and her artistic beginnings in Muharraq.",
+        "notable_for": "Arab Pop Music, Vocal Prowess",
+        "image_url": "/public/figures/ahlam.jpg"
+    },
+    {
+        "id": 48,
+        "name_ar": "فليبراتشي",
+        "name_en": "Flipperachi",
+        "category": "Famous Singer (Hiphop)",
+        "description_ar": "فنان هيب هوب بحريني، حقق شهرة واسعة في الخليج العربي بأسلوبه الذي يمزج بين اللغة العربية والإنجليزية والثقافة المحلية.",
+        "description_en": "A Bahraini hip-hop artist, he achieved wide fame in the Arabian Gulf for his style that blends Arabic, English, and local culture.",
+        "notable_for": "Hip Hop, Modern Music, Pop Culture",
+        "image_url": "/public/figures/flipperachi.jpg"
+    },
+    {
+        "id": 49,
+        "name_ar": "الشيخ حسين الأكرف",
+        "name_en": "Hussain Al-Akraf",
+        "category": "Religious Orator & Artist",
+        "description_ar": "رادود ومنشد ديني شهير، عرف بصوته القوي وأدائه المؤثر في المناسبات الدينية والوطنية، وله حضور واسع في العالم الإسلامي.",
+        "description_en": "A famous religious orator and chanter, known for his powerful voice and moving performances on religious and national occasions, with a wide presence in the Islamic world.",
+        "notable_for": "Religious Chanting, Oratory, Music Arts",
+        "image_url": "/public/figures/hussain-al-akraf.jpg"
+    },
+    {
+        "id": 50,
+        "name_ar": "مجيد مرهون",
+        "name_en": "Majeed Marhoon",
+        "category": "Musician & Activist",
+        "description_ar": "عازف ساكسفون وملحن ومناضل سياسي بحريني، عُرف بصموده وفنه الذي عبر عن تطلعات الشعب البحريني.",
+        "description_en": "A Bahraini saxophonist, composer, and political activist, known for his resilience and his art that expressed the aspirations of the Bahraini people.",
+        "notable_for": "Music, Political Activism, Composition",
+        "image_url": "/public/figures/majeed-marhoon.jpg"
+    },
+    {
+        "id": 51,
+        "name_ar": "سيد محمد جعفر",
+        "name_en": "Sayed Mohammed Jaffer",
+        "category": "Athlete",
+        "description_ar": "حارس مرمى منتخب البحرين لكرة القدم، وقائد المنتخب وواحد من أكثر اللاعبين مشاركة في تاريخ الكرة البحرينية.",
+        "description_en": "The goalkeeper of the Bahrain national football team, captain of the team, and one of the most capped players in Bahraini football history.",
+        "notable_for": "Football, Goalkeeping, Leadership",
+        "image_url": "/public/figures/sayed-mohammed-jaffer.jpg"
+    },
+    {
+        "id": 52,
+        "name_ar": "محمد سالمين",
+        "name_en": "Mohamed Salmeen",
+        "category": "Athlete",
+        "description_ar": "لاعب كرة قدم بحريني دولي سابق، قاد المنتخب في أزهى فتراته وكان صانع ألعاب من الطراز الرفيع.",
+        "description_en": "A former international Bahraini footballer, he led the national team during its peak periods and was a high-class playmaker.",
+        "notable_for": "Football, Midfield Mastery, National Team",
+        "image_url": "/public/figures/mohamed-salmeen.jpg"
+    },
+    {
+        "id": 53,
+        "name_ar": "إسماعيل عبد اللطيف",
+        "name_en": "Ismail Abdullatif",
+        "category": "Athlete",
+        "description_ar": "مهاجم منتخب البحرين لكرة القدم، ويُعتبر الهداف التاريخي للمنتخب، وصاحب أهداف حاسمة في البطولات القارية.",
+        "description_en": "A striker for the Bahrain national football team, considered the team's all-time top scorer, with decisive goals in continental championships.",
+        "notable_for": "Football, Goal Scoring, All-time Rank",
+        "image_url": "/public/figures/ismail-abdullatif.jpg"
+    },
+    {
+        "id": 54,
+        "name_ar": "وينفريد يافي",
+        "name_en": "Winfred Yavi",
+        "category": "Athlete",
+        "description_ar": "عداءة بحرينية أولمبية، حققت الميدالية الذهبية في سباق 3000 متر موانع في أولمبياد باريس 2024 مسجلة رقماً أولمبياً جديداً.",
+        "description_en": "An Olympic Bahraini runner, she won the gold medal in the 3000m steeplechase at the Paris 2024 Olympics, setting a new Olympic record.",
+        "notable_for": "Olympic Gold Medal, Athletics, World Titles",
+        "image_url": "/public/figures/winfred-yavi.jpg"
+    },
+    {
+        "id": 55,
+        "name_ar": "سلوى عيد ناصر",
+        "name_en": "Salwa Eid Naser",
+        "category": "Athlete",
+        "description_ar": "عداءة بحرينية دولية، فازت بالميدالية الذهبية في سباق 400 متر في بطولة العالم لألعاب القوى، والفضية في أولمبياد باريس 2024.",
+        "description_en": "An international Bahraini runner, she won the gold medal in the 400m at the World Athletics Championships and the silver at the Paris 2024 Olympics.",
+        "notable_for": "Athletics, 400m World Gold, Olympic Medalist",
+        "image_url": "/public/figures/salwa-eid-naser.jpg"
+    },
+    {
+        "id": 56,
+        "name_ar": "الدكتورة ندى حفاظ",
+        "name_en": "Dr. Nada Haffadh",
+        "category": "Political Leader & Professional",
+        "description_ar": "أول امرأة تشغل منصب وزيرة في تاريخ البحرين (وزيرة الصحة عام 2004)، وهي طبيبة وبرلمانية سابقة.",
+        "description_en": "The first woman to serve as a minister in Bahrain's history (Minister of Health in 2004), she is a doctor and former parliamentarian.",
+        "notable_for": "Women's Empowerment, Public Health, Politics",
+        "image_url": "/public/figures/nada-haffadh.jpg"
+    },
+    {
+        "id": 57,
+        "name_ar": "معصومة عبد الرحيم",
+        "name_en": "Masouma Abdelrahim",
+        "category": "Political Leader & Social Activist",
+        "description_ar": "طبيبة وسياسية بحرينية، عُرفت بنشاطها في المجال الصحي والاجتماعي ودفاعها عن قضايا المجتمع في مجلس النواب.",
+        "description_en": "A Bahraini doctor and politician, known for her activism in the health and social fields and her defense of community issues in the Council of Representatives.",
+        "notable_for": "Public Health Advocacy, Social Work, Politics",
+        "image_url": "/public/figures/masouma-abdelrahim.jpg"
+    },
+    {
+        "id": 58,
+        "name_ar": "مجيد العلوي",
+        "name_en": "Majeed Al Alawi",
+        "category": "Political Leader",
+        "description_ar": "سياسي بحريني شغل مناصب وزارية رفيعة منها وزير العمل، وقاد إصلاحات هامة في سوق العمل وقانون العمل في البحرين.",
+        "description_en": "A Bahraini politician who held high ministerial positions, including Minister of Labour, leading important reforms in the labor market and labor law in Bahrain.",
+        "notable_for": "Labor Reforms, Public Service, Politics",
+        "image_url": "/public/figures/majeed-al-alawi.jpg"
+    },
+    {
+        "id": 59,
+        "name_ar": "جواد العريض",
+        "name_en": "Jawad Al-Arrayedh",
+        "category": "Political Leader",
+        "description_ar": "سياسي بحريني مخضرم، شغل منصب نائب رئيس مجلس الوزراء، ويُعتبر من الشخصيات الإدارية والقانونية الرفيعة في الدولة.",
+        "description_en": "A veteran Bahraini politician who served as Deputy Prime Minister and is considered one of the high administrative and legal figures in the state.",
+        "notable_for": "Public Governance, Law, Long-term Service",
+        "image_url": "/public/figures/jawad-al-arrayedh.jpg"
+    },
+    {
+        "id": 60,
+        "name_ar": "الشيخ عبد الله السماهيجي",
+        "name_en": "Sheikh Abdullah Al-Samahiji",
+        "category": "Historical Religious Scholar",
+        "description_ar": "عالم دين وفقيه ومحدث بحريني من القرن السابع عشر والثامن عشر، له مؤلفات هامة في الفقه والحديث وتراجم العلماء.",
+        "description_en": "A 17th and 18th-century Bahraini religious scholar, jurist, and traditionist, author of important works in jurisprudence, hadith, and scholar biographies.",
+        "notable_for": "Hadith Scholarship, Jurisprudence, History",
+        "image_url": "/public/figures/abdullah-al-samahiji.jpg"
+    },
+    {
+        "id": 61,
+        "name_ar": "الشيخ صالح الكرزكاني",
+        "name_en": "Sheikh Salih Al-Karzakani",
+        "category": "Historical Religious Scholar",
+        "description_ar": "عالم دين بحريني من القرن السابع عشر، اشتهر بفقاهته وتدريسه في الحوزات العلمية، وله دور في نشر العلوم الدينية.",
+        "description_en": "A 17th-century Bahraini religious scholar, famous for his jurisprudence and teaching in religious seminaries, playing a role in spreading religious sciences.",
+        "notable_for": "Religious Teaching, Jurisprudence",
+        "image_url": "/public/figures/salih-al-karzakani.jpg"
+    },
+    {
+        "id": 62,
+        "name_ar": "سارة قائد",
+        "name_en": "Sara Qaed",
+        "category": "Artist & Cartoonist",
+        "description_ar": "فنانة ورسامة كاريكاتير متميزة، تُعبر رسوماتها عن القضايا الاجتماعية والسياسية بأسلوب فني فريد وجريء.",
+        "description_en": "A distinguished artist and cartoonist, her drawings express social and political issues in a unique and bold artistic style.",
+        "notable_for": "Caricature, Social Commentary, Digital Art",
+        "image_url": "/public/figures/sara-qaed.jpg"
+    },
+    {
+        "id": 63,
+        "name_ar": "محمد حداد",
+        "name_en": "Mohammed Haddad",
+        "category": "Musician & Composer",
+        "description_ar": "موسيقار وملحن وباحث موسيقي بحريني، له أعمال في الموسيقى التصويرية للمسرح والسينما ويهتم بتطوير الهوية الموسيقية.",
+        "description_en": "A Bahraini musician, composer, and music researcher with works in soundtracks for theater and cinema, focusing on developing musical identity.",
+        "notable_for": "Music Composition, Research, Soundtracks",
+        "image_url": "/public/figures/mohammed-haddad-musician.jpg"
+    },
+    {
+        "id": 64,
+        "name_ar": "ماجد المسقطي (ماجد جوردن)",
+        "name_en": "Majid Al-Maskati (Majid Jordan)",
+        "category": "Famous Singer",
+        "description_ar": "فنان بحريني وعضو في الثنائي العالمي 'ماجد جوردن'، حقق نجاحاً دولياً كبيراً في نوع 'R&B' بالتعاون مع منتجين عالميين.",
+        "description_en": "A Bahraini artist and member of the international duo 'Majid Jordan', achieving major international success in R&B in collaboration with world producers.",
+        "notable_for": "Contemporary R&B, International Music Charts",
+        "image_url": "/public/figures/majid-al-maskati.jpg"
+    },
+    {
+        "id": 65,
+        "name_ar": "عائشة المؤيد",
+        "name_en": "Aysha Almoayyed",
+        "category": "Artist",
+        "description_ar": "فنانة بحرينية معاصرة، تستكشف في أعمالها العلاقة بين المكان والهوية والذاكرة الجماعية من خلال وسائط فنية متعددة.",
+        "description_en": "A contemporary Bahraini artist exploring the relationship between place, identity, and collective memory through multiple artistic media.",
+        "notable_for": "Contemporary Art, Multimedia Arts, Exhibitions",
+        "image_url": "/public/figures/aysha-almoayyed.jpg"
+    },
+    {
+        "id": 66,
+        "name_ar": "خليل الهاشمي",
+        "name_en": "Khalil Al Hashimi",
+        "category": "Artist (Sculptor)",
+        "description_ar": "من أبرز النحاتين في البحرين والوطن العربي، تتميز منحوتاته بالبساطة والعمق الفلسفي واستخدام مواد متنوعة مثل الحجر والبرونز.",
+        "description_en": "One of the most prominent sculptors in Bahrain and the Arab world, his sculptures are characterized by simplicity, philosophical depth, and the use of various materials like stone and bronze.",
+        "notable_for": "Sculpture, Fine Arts, Public Monuments",
+        "image_url": "/public/figures/khalil-al-hashimi.jpg"
+    },
+    {
+        "id": 67,
+        "name_ar": "محمد المهدي",
+        "name_en": "Mohammed Al Mahdi",
+        "category": "Artist",
+        "description_ar": "فنان تشكيلي بحريني، تعبر لوحاته عن تفاصيل الحياة اليومية بأسلوب عفوي وألوان نابضة بالحياة تعكس البيئة المحلية.",
+        "description_en": "A Bahraini fine artist, his paintings express details of daily life in a spontaneous style and vibrant colors reflecting the local environment.",
+        "notable_for": "Fine Arts, Modern Painting, Cultural Art",
+        "image_url": "/public/figures/mohammed-al-mahdi.jpg"
+    },
+    {
+        "id": 68,
+        "name_ar": "فايقة الحسن",
+        "name_en": "Faika Al Hassan",
+        "category": "Artist",
+        "description_ar": "فنانة تشكيلية بحرينية، تشتهر بأعمالها التي تتناول موضوعات الطبيعة والإنسان والارتباط بالأرض بشكل فني مميز.",
+        "description_en": "A Bahraini fine artist, famous for her works addressing themes of nature, humanity, and connection to the land in a distinct artistic way.",
+        "notable_for": "Contemporary Painting, Art Exhibitions",
+        "image_url": "/public/figures/faika-al-hassan.jpg"
+    },
+    {
+        "id": 69,
+        "name_ar": "عمر الراشد",
+        "name_en": "Omar Al Rashid",
+        "category": "Artist",
+        "description_ar": "فنان تشكيلي بحريني، يستمد إلهامه من التراث الشعبي البحريني والرموز التاريخية ويقدمها في قوالب فنية حديثة.",
+        "description_en": "A Bahraini fine artist, drawing inspiration from Bahraini folklore and historical symbols, presenting them in modern artistic forms.",
+        "notable_for": "Folcloric Art, Modern Interpretation, Fine Arts",
+        "image_url": "/public/figures/omar-al-rashid.jpg"
+    },
+    {
+        "id": 70,
+        "name_ar": "فراس بن حمد آل خليفة",
+        "name_en": "Firas bin Hamad Al Khalifa",
+        "category": "Historical Figure",
+        "description_ar": "أحد الشخصيات التاريخية الهامة في أسرة آل خليفة، ارتبط اسمه بمواقف سياسية واجتماعية في فترات سابقة من تاريخ البحرين.",
+        "description_en": "One of the important historical figures in the Al Khalifa family, his name is associated with political and social stances in earlier periods of Bahrain's history.",
+        "notable_for": "Historical Legacy, Family History",
+        "image_url": "/public/figures/firas-bin-hamad.jpg"
+    },
+    {
+        "id": 71,
+        "name_ar": "خليفة بن أحمد الظهراني",
+        "name_en": "Khalifa bin Ahmed Al Dahrani",
+        "category": "Political Leader",
+        "description_ar": "رئيس مجلس النواب البحريني الأسبق، يُعتبر من الشخصيات الوطنية التي ساهمت في تعزيز العمل البرلماني والحوار الوطني.",
+        "description_en": "Former Speaker of the Bahraini Council of Representatives, considered one of the national figures who contributed to enhancing parliamentary work and national dialogue.",
+        "notable_for": "Parliamentary Leadership, National Dialogue, Politics",
+        "image_url": "/public/figures/khalifa-al-dahrani.jpg"
+    },
+    {
+        "id": 72,
+        "name_ar": "الشيخ عيسى بن علي آل خليفة",
+        "name_en": "Sheikh Isa bin Ali Al Khalifa",
+        "category": "Historical Leader",
+        "description_ar": "حاكم البحرين (1869-1932)، شهد عهده بدايات النهضة الحديثة وتأسيس أول مدرسة نظامية في البحرين والخليج.",
+        "description_en": "Ruler of Bahrain (1869-1932), his reign witnessed the beginnings of modern renaissance and the establishment of the first formal school in Bahrain and the Gulf.",
+        "notable_for": "Modern Education, Longest Reign, State Foundation",
+        "image_url": "/public/figures/isa-bin-ali.jpg"
+    },
+    {
+        "id": 73,
+        "name_ar": "الشيخ حمد بن عيسى آل خليفة (الأول)",
+        "name_en": "Sheikh Hamad bin Isa Al Khalifa (I)",
+        "category": "Historical Leader",
+        "description_ar": "حاكم البحرين (1932-1942)، في عهده تم اكتشاف النفط في البحرين وبداية التحول الاقتصادي الكبير في البلاد.",
+        "description_en": "Ruler of Bahrain (1932-1942), during whose reign oil was discovered in Bahrain, marking the beginning of a major economic transformation in the country.",
+        "notable_for": "Oil Discovery, Economic Transformation, Modernization",
+        "image_url": "/public/figures/hamad-bin-isa-i.jpg"
+    },
+    {
+        "id": 74,
+        "name_ar": "الشيخ سلمان بن أحمد آل خليفة",
+        "name_en": "Sheikh Salman bin Ahmed Al Khalifa",
+        "category": "Historical Leader",
+        "description_ar": "حاكم البحرين الثاني بعد الفتح، اشتهر بقوته وحكمته في تثبيت أركان الحكم وحماية الجزر من الأطماع الخارجية.",
+        "description_en": "The second ruler of Bahrain after the conquest, known for his strength and wisdom in consolidating rule and protecting the islands from foreign ambitions.",
+        "notable_for": "State Stability, Defense, Historical Leadership",
+        "image_url": "/public/figures/salman-bin-ahmed.jpg"
+    },
+    {
+        "id": 75,
+        "name_ar": "الشيخ عبد الله بن أحمد آل خليفة",
+        "name_en": "Sheikh Abdulla bin Ahmed Al Khalifa",
+        "category": "Historical Leader",
+        "description_ar": "حاكم البحرين في فترة تاريخية هامة، عُرف بشجاعته ومواقفه السياسية المؤثرة في استقرار المشهد المحلي والخليجي.",
+        "description_en": "Ruler of Bahrain during an important historical period, known for his courage and influential political stances in stabilizing the local and Gulf scene.",
+        "notable_for": "Military Leadership, Political Stances, History",
+        "image_url": "/public/figures/abdulla-bin-ahmed.jpg"
+    },
+    {
+        "id": 76,
+        "name_ar": "الشيخ ناصر بن حمد آل خليفة",
+        "name_en": "Sheikh Nasser bin Hamad Al Khalifa",
+        "category": "Political & Sports Leader",
+        "description_ar": "ممثل جلالة الملك للأعمال الإنسانية وشؤون الشباب، وقائد الحرس الملكي. رياضي متميز وقائد ملهم للشباب في مختلف المجالات.",
+        "description_en": "Representative of His Majesty the King for Humanitarian Works and Youth Affairs, and Commander of the Royal Guard. A distinguished athlete and inspiring leader for youth in various fields.",
+        "notable_for": "Youth Empowerment, Humanitarian Work, Endurance Sports",
+        "image_url": "/public/figures/nasser-bin-hamad.jpg"
+    },
+    {
+        "id": 77,
+        "name_ar": "الشيخ خالد بن حمد آل خليفة",
+        "name_en": "Sheikh Khalid bin Hamad Al Khalifa",
+        "category": "Sports & Political Leader",
+        "description_ar": "النائب الأول لرئيس المجلس الأعلى للشباب والرياضة، ورئيس الهيئة العامة للرياضة. رائد في دعم الرياضات القتالية والمبادرات الإنسانية.",
+        "description_en": "First Deputy Chairman of the Supreme Council for Youth and Sports, and President of the General Sports Authority. A pioneer in supporting combat sports and humanitarian initiatives.",
+        "notable_for": "Sports Innovation (MMA), Youth Initiatives, Leadership",
+        "image_url": "/public/figures/khalid-bin-hamad.jpg"
+    },
+    {
+        "id": 78,
+        "name_ar": "الأميرة سبيكة بنت إبراهيم آل خليفة",
+        "name_en": "Princess Sabeeka bint Ibrahim Al Khalifa",
+        "category": "Social Leader",
+        "description_ar": "قرينة ملك البحرين ورئيسة المجلس الأعلى للمرأة. تقود الجهود الوطنية لتمكين المرأة البحرينية وادماج احتياجاتها في التنمية.",
+        "description_en": "Consort of the King of Bahrain and President of the Supreme Council for Women. She leads national efforts to empower Bahraini women and integrate their needs into development.",
+        "notable_for": "Women's Empowerment, Social Development, Leadership",
+        "image_url": "/public/figures/sabeeka-bint-ibrahim.jpg"
+    },
+    {
+        "id": 79,
+        "name_ar": "الدكتور علي فخرو",
+        "name_en": "Dr. Ali Fakhro",
+        "category": "Political Leader & Intellectual",
+        "description_ar": "طبيب وسياسي ومفكر بحريني، شغل منصب وزير الصحة ووزير التربية والتعليم سابقاً، وله كتابات هامة في شؤون القومية العربية والديمقراطية.",
+        "description_en": "A Bahraini doctor, politician, and intellectual, he previously served as Minister of Health and Minister of Education. He has important writings on Arab nationalism and democracy.",
+        "notable_for": "Cabinet Leadership, Intellectual Contributions, Public Health",
+        "image_url": "/public/figures/ali-fakhro.jpg"
+    },
+    {
+        "id": 80,
+        "name_ar": "الشيخ محمد بن مبارك آل خليفة",
+        "name_en": "Sheikh Mohammed bin Mubarak Al Khalifa",
+        "category": "Political Leader & Diplomat",
+        "description_ar": "سياسي مخضرم، شغل منصب وزير الخارجية لعقود، ثم نائباً لرئيس مجلس الوزراء، ويُعتبر مهندس الدبلوماسية البحرينية الحديثة.",
+        "description_en": "A veteran politician who served as Foreign Minister for decades, then as Deputy Prime Minister. He is considered the architect of modern Bahraini diplomacy.",
+        "notable_for": "Diplomacy, International Relations, Political Stability",
+        "image_url": "/public/figures/mohammed-bin-mubarak.jpg"
+    },
+    {
+        "id": 81,
+        "name_ar": "الشيخ راشد بن عبد الله آل خليفة",
+        "name_en": "Sheikh Rashid bin Abdulla Al Khalifa",
+        "category": "Political Leader",
+        "description_ar": "وزير الداخلية بمملكة البحرين، يقود جهود الحفاظ على الأمن والاستقرار الوطني وتعزيز مفهوم المواطنة والهوية البحرينية.",
+        "description_en": "The Minister of Interior of Bahrain, leading efforts to maintain national security and stability and promoting the concept of citizenship and Bahraini identity.",
+        "notable_for": "National Security, Internal Affairs, Community Police",
+        "image_url": "/public/figures/rashid-bin-abdulla.jpg"
+    },
+    {
+        "id": 82,
+        "name_ar": "الشيخ خالد بن أحمد بن محمد آل خليفة",
+        "name_en": "Sheikh Khalid bin Ahmed bin Mohammed Al Khalifa",
+        "category": "Political Leader & Diplomat",
+        "description_ar": "مستشار جلالة الملك للشؤون الدبلوماسية، وشغل منصب وزير الخارجية سابقاً، عُرف بحضوره الدبلوماسي القوي وتفاعله الإعلامي.",
+        "description_en": "Advisor to HM the King for Diplomatic Affairs, and former Foreign Minister. He is known for his strong diplomatic presence and media interaction.",
+        "notable_for": "Diplomacy, Regional Relations, Public Policy",
+        "image_url": "/public/figures/khalid-bin-ahmed.jpg"
+    },
+    {
+        "id": 83,
+        "name_ar": "عهدية أحمد",
+        "name_en": "Ahdeya Ahmed",
+        "category": "Media & Journalism",
+        "description_ar": "إعلامية بحرينية بارزة، وهي أول امرأة تفوز برئاسة جمعية الصحفيين البحرينية، ولها دور كبير في تمكين المرأة في المجال الإعلامي.",
+        "description_en": "A prominent Bahraini media figure, the first woman to win the presidency of the Bahrain Journalists Association, playing a major role in empowering women in media.",
+        "notable_for": "Journalism, Media Leadership, Women Empowerment",
+        "image_url": "/public/figures/ahdeya-ahmed.jpg"
+    },
+    {
+        "id": 84,
+        "name_ar": "يوسف الشيراوي",
+        "name_en": "Yousuf Al-Shirawi",
+        "category": "Political Leader",
+        "description_ar": "وزير بحريني سابق، ساهم بشكل كبير في تخطيط السياسات الصناعية والنفطية في البحرين خلال فترات النمو الاقتصادي.",
+        "description_en": "A former Bahraini minister, he contributed significantly to planning industrial and oil policies in Bahrain during periods of economic growth.",
+        "notable_for": "Industrial Planning, Oil Industry, Public Service",
+        "image_url": "/public/figures/yousuf-al-shirawi.jpg"
+    },
+    {
+        "id": 85,
+        "name_ar": "إبراهيم شوaiter",
+        "name_en": "Ebrahim Showaiter",
+        "category": "Heritage & Business Leader",
+        "description_ar": "من أبرز رواد صناعة الحلوى البحرينية التقليدية، ساهم في نشر اسم البحرين عالمياً من خلال هذا المنتج التراثي العريق.",
+        "description_en": "One of the most prominent pioneers of the traditional Bahraini 'Halwa' industry, contributing to spreading Bahrain's name globally through this ancient heritage product.",
+        "notable_for": "Traditional Sweets, Culinary Heritage, Business",
+        "image_url": "/public/figures/ebrahim-showaiter.jpg"
+    },
+    {
+        "id": 86,
+        "name_ar": "عباس الموسوي",
+        "name_en": "Abbas Al-Mosawi",
+        "category": "Artist",
+        "description_ar": "فنان تشكيلي بحريني، عُرف بأعماله التي تمجد الطبيعة والريف البحريني والبيئة المحلية بأسلوب انطباعي ساحر.",
+        "description_en": "A Bahraini fine artist, known for his works that glorify nature, the Bahraini countryside, and the local environment in a charming impressionist style.",
+        "notable_for": "Fine Arts, Impressionism, Environmental Art",
+        "image_url": "/public/figures/abbas-al-mosawi.jpg"
+    },
+    {
+        "id": 87,
+        "name_ar": "عبد الكريم العريض",
+        "name_en": "Abdul-Karim Al-Orrayed",
+        "category": "Artist & Writer",
+        "description_ar": "فنان وباحث في التراث الفني البحريني، له مساهمات كبيرة في توثيق تاريخ الفن التشكيلي في المملكة.",
+        "description_en": "An artist and researcher in Bahraini artistic heritage, he has significant contributions in documenting the history of fine arts in the Kingdom.",
+        "notable_for": "Art History, Painting, Research",
+        "image_url": "/public/figures/abdul-karim-al-orrayed.jpg"
+    },
+    {
+        "id": 88,
+        "name_ar": "لؤلؤة آل خليفة",
+        "name_en": "Lulwa Al-Khalifa",
+        "category": "Artist",
+        "description_ar": "فنانة تشكيلية بحرينية، تتميز أعمالها بالأسلوب التجريدي واستخدام تقنيات مبتكرة تعبر عن الهوية والمشاعر الإنسانية.",
+        "description_en": "A Bahraini fine artist, her works are characterized by an abstract style and the use of innovative techniques expressing identity and human emotions.",
+        "notable_for": "Abstract Painting, Modern Art, Exhibitions",
+        "image_url": "/public/figures/lulwa-al-khalifa.jpg"
+    },
+    {
+        "id": 89,
+        "name_ar": "أمينة العباسي",
+        "name_en": "Amina Al-Abasi",
+        "category": "Artist & Designer",
+        "description_ar": "فنانة ومصممة بحرينية شابة، استطاعت دمج الفن التشكيلي بالتصميم العصري وإنشاء علامة تجارية فنية ناجحة.",
+        "description_en": "A young Bahraini artist and designer, who succeeded in merging fine arts with modern design and creating a successful artistic brand.",
+        "notable_for": "Contemporary Design, Fine Arts, Entrepreneurship",
+        "image_url": "/public/figures/amina-al-abasi.jpg"
+    },
+    {
+        "id": 90,
+        "name_ar": "محمد هردان",
+        "name_en": "Mohammed Hardan",
+        "category": "Athlete",
+        "description_ar": "لاعب منتخب البحرين لكرة القدم، يُعد من الركائز الشابة في خط الوسط، ومثل البحرين في العديد من المحافل الدولية.",
+        "description_en": "A player for the Bahrain national football team, considered one of the young pillars in midfield, representing Bahrain in many international arenas.",
+        "notable_for": "Football, Midfield Player, National Team",
+        "image_url": "/public/figures/mohammed-hardan.jpg"
+    },
+    {
+        "id": 91,
+        "name_ar": "جاسم مرهون",
+        "name_en": "Jasim Marhoon",
+        "category": "Athlete",
+        "description_ar": "أحد الأسماء البارزة في تاريخ الرياضة البحرينية، ساهم في تمثيل المملكة في بطولات قارية ودولية.",
+        "description_en": "One of the prominent names in the history of Bahraini sports, contributing to representing the Kingdom in continental and international championships.",
+        "notable_for": "Athletics, Sports Representation",
+        "image_url": "/public/figures/jasim-marhoon.jpg"
+    },
+    {
+        "id": 92,
+        "name_ar": "سيد شبر علوي",
+        "name_en": "Sayed Shubbar Alawi",
+        "category": "Athlete",
+        "description_ar": "حارس مرمى بحريني متميز، ساهم في تحقيق إنجازات هامة مع المنتخب والأندية المحلية، ويتمتع بخبرة ميدانية واسعة.",
+        "description_en": "A distinguished Bahraini goalkeeper, he contributed to achieving important successes with the national team and local clubs, possessing extensive field experience.",
+        "notable_for": "Football, Goalkeeping, Experience",
+        "image_url": "/public/figures/sayed-shubbar-alawi.jpg"
+    },
+    {
+        "id": 93,
+        "name_ar": "طارق المؤيد",
+        "name_en": "Tariq Almoayyed",
+        "category": "Political Leader & Media",
+        "description_ar": "وزير الإعلام البحريني الأسبق، لعب دوراً جوهرياً في تطوير الإعلام الرسمي وتأسيس المؤسسات الإعلامية الحديثة في المملكة.",
+        "description_en": "Former Bahraini Minister of Information, played a fundamental role in developing official media and establishing modern media institutions in the Kingdom.",
+        "notable_for": "Media Development, Ministry Leadership, Public Service",
+        "image_url": "/public/figures/tariq-almoayyed.jpg"
+    },
+    {
+        "id": 94,
+        "name_ar": "حبيب العصفور",
+        "name_en": "Habeeb Al-Asfoor",
+        "category": "Historical Religious Scholar",
+        "description_ar": "عالم دين بحريني من أسرة العصفور العريقة، عُرف باهتماماته العلمية والبحثية وله مكانة في الذاكرة الدينية للمنطقة.",
+        "description_en": "A Bahraini religious scholar from the ancient Al-Asfoor family, known for his scholarly and research interests, holding a place in the religious memory of the region.",
+        "notable_for": "Scholarship, Religious Lineage",
+        "image_url": "/public/figures/habeeb-al-asfoor.jpg"
+    },
+    {
+        "id": 95,
+        "name_ar": "حسن المسقطي",
+        "name_en": "Hassan Al-Maskati",
+        "category": "Business & Social Leader",
+        "description_ar": "رجل أعمال بحريني بارز، ساهم في دعم المبادرات الاجتماعية والخيرية والاقتصادية في المجتمع البحريني.",
+        "description_en": "A prominent Bahraini businessman, he contributed to supporting social, charitable, and economic initiatives in Bahraini society.",
+        "notable_for": "Business Leadership, Philanthropy",
+        "image_url": "/public/figures/hassan-al-maskati.jpg"
+    },
+    {
+        "id": 96,
+        "name_ar": "أحمد بن فارس (اللغوي)",
+        "name_en": "Ahmed bin Faris",
+        "category": "Historical Scholar (Linguist)",
+        "description_ar": "أحد كبار علماء اللغة العربية والنحو في التاريخ الإسلامي، له أصول ترتبط بالمنطقة التاريخية للبحرين وعُرف بعلمه الغزير.",
+        "description_en": "One of the greatest scholars of Arabic language and grammar in Islamic history, with origins linked to the historical region of Bahrain, known for his vast knowledge.",
+        "notable_for": "Linguistics, Grammar, Historical Scholarship",
+        "image_url": "/public/figures/ahmed-bin-faris-linguist.jpg"
+    },
+    {
+        "id": 97,
+        "name_ar": "الشيخ عبد الله بن عيسى آل خليفة",
+        "name_en": "Sheikh Abdullah bin Isa Al Khalifa",
+        "category": "Historical Leader",
+        "description_ar": "شخصية تاريخية من أسرة آل خليفة، ساهم في الحياة السياسية والاجتماعية في بدايات القرن العشرين.",
+        "description_en": "A historical figure from the Al Khalifa family, who contributed to political and social life in the early 20th century.",
+        "notable_for": "Governance, Historical Role",
+        "image_url": "/public/figures/abdullah-bin-isa-historical.jpg"
+    },
+    {
+        "id": 98,
+        "name_ar": "الأميرة سحاب بنت عبد الله آل سعود (جذور بحرينية/عائلية)",
+        "name_en": "Princess Sahab bint Abdullah Al Saud",
+        "category": "Social Figure",
+        "description_ar": "شخصية ارتبط اسمها بالبحرين من خلال الروابط العائلية والنشاط الاجتماعي والخيري المستمر.",
+        "description_en": "A figure whose name is associated with Bahrain through family ties and continuous social and charitable activity.",
+        "notable_for": "Philanthropy, Social Work",
+        "image_url": "/public/figures/sahab-bint-abdullah.jpg"
+    },
+    {
+        "id": 99,
+        "name_ar": "سحر المسقطي",
+        "name_en": "Sahar Al-Maskati",
+        "category": "Business Leader & Professional",
+        "description_ar": "خبيرة في القطاع المالي والمصرفي، لها دور في تمكين المرأة في المناصب القيادية في السوق البحريني.",
+        "description_en": "An expert in the financial and banking sector, playing a role in empowering women in leadership positions in the Bahraini market.",
+        "notable_for": "Finance, Leadership, Women empowerment",
+        "image_url": "/public/figures/sahar-al-maskati.jpg"
+    },
+    {
+        "id": 100,
+        "name_ar": "الشيخ علي بن محمد آل خليفة",
+        "name_en": "Sheikh Ali bin Mohammed Al Khalifa",
+        "category": "Sports Leader",
+        "description_ar": "رئيس الاتحاد البحريني للكرة الطائرة، ساهم بشكل جوهري في تطوير اللعبة وتحقيق إنجازات قارية ودولية للبحرين.",
+        "description_en": "President of the Bahrain Volleyball Association, he contributed substantially to developing the game and achieving continental and international successes for Bahrain.",
+        "notable_for": "Sports Management, Volleyball Development, Leadership",
+        "image_url": "/public/figures/ali-bin-mohammed.jpg"
+    },
+    {
+        "id": 101,
+        "name_ar": "حمد الفردان",
+        "name_en": "Hamad Al Fardan",
+        "category": "Athlete (Racing)",
+        "description_ar": "سائق سباقات بحريني محترف، أول بحريني يتسابق في سلسلة 'فورمولا 3' البريطانية والألمانية، ويُعد رائد رياضة السيارات في المملكة.",
+        "description_en": "A professional Bahraini racing driver, the first Bahraini to compete in the British and German Formula 3 series, and a pioneer of motorsports in the Kingdom.",
+        "notable_for": "Motorsports, Formula 3, Racing Pioneer",
+        "image_url": "/public/figures/hamad-al-fardan.jpg"
+    },
+    {
+        "id": 102,
+        "name_ar": "طارق الفرساني",
+        "name_en": "Tareq Al-Farsani",
+        "category": "Athlete (Bodybuilding)",
+        "description_ar": "بطل كمال أجسام بحريني عالمي، حقق العديد من الميداليات الذهبية في البطولات الآسيوية والعالمية ورفع اسم البحرين في المحافل الدولية.",
+        "description_en": "A world-class Bahraini bodybuilding champion, who won several gold medals in Asian and world championships, raising Bahrain's profile in international arenas.",
+        "notable_for": "Bodybuilding, Gold Medalist, International Sports",
+        "image_url": "/public/figures/tareq-al-farsani.jpg"
+    },
+    {
+        "id": 103,
+        "name_ar": "سيد محمد عدنان",
+        "name_en": "Sayed Mohamed Adnan",
+        "category": "Athlete",
+        "description_ar": "مدافع صلب في منتخب البحرين لكرة القدم، خاض تجارب احترافية ناجحة في أستراليا والخليج، ورُشح لجائزة أفضل لاعب في آسيا.",
+        "description_en": "A solid defender for the Bahrain national football team, with successful professional stints in Australia and the Gulf. He was nominated for the Asian Footballer of the Year award.",
+        "notable_for": "Football, Professional Career, National Defense",
+        "image_url": "/public/figures/sayed-mohamed-adnan.jpg"
+    },
+    {
+        "id": 104,
+        "name_ar": "روبا العميري",
+        "name_en": "Rupa Al-Omari",
+        "category": "Athlete (Para-athletics)",
+        "description_ar": "بطلة بحرينية في رياضة ذوي العزيمة، حققت ميداليات ذهبية في رمي الرمح ودفع الجلة في بطولات إقليمية ودولية.",
+        "description_en": "A Bahraini champion in para-athletics, winning gold medals in javelin throw and shot put at regional and international championships.",
+        "notable_for": "Para-athletics, Determination, Medalist",
+        "image_url": "/public/figures/rupa-al-omari.jpg"
+    },
+    {
+        "id": 105,
+        "name_ar": "أحمد بن سلمان المسلم",
+        "name_en": "Ahmed bin Salman Al Musallam",
+        "category": "Political Leader",
+        "description_ar": "رئيس مجلس النواب البحريني الحالي، يقود العمل التشريعي ويعمل على تعزيز التعاون بين السلطتين التنفيذية والتشريعية.",
+        "description_en": "The current Speaker of the Bahraini Council of Representatives, leading legislative work and enhancing cooperation between the executive and legislative branches.",
+        "notable_for": "Parliamentary Leadership, Legislation, Politics",
+        "image_url": "/public/figures/ahmed-al-musallam.jpg"
+    },
+    {
+        "id": 106,
+        "name_ar": "إيمان حسن شويطر",
+        "name_en": "Eman Hasan Showaiter",
+        "category": "Political Leader",
+        "description_ar": "عضو مجلس النواب البحريني، تنشط في لجان الشؤون الخارجية والدفاع والأمن الوطني، ولها دور بارز في العمل السياسي النسائي.",
+        "description_en": "Member of the Bahraini Council of Representatives, active in foreign affairs, defense, and national security committees, with a prominent role in women's political participation.",
+        "notable_for": "Politics, Legislation, Women Leadership",
+        "image_url": "/public/figures/eman-showaiter.jpg"
+    },
+    {
+        "id": 107,
+        "name_ar": "كريم العريض",
+        "name_en": "Karim Al-Arrayedh",
+        "category": "Business Leader",
+        "description_ar": "من الشخصيات الاقتصادية البارزة، ساهم في تطوير القطاع التجاري والصناعي وله حضور قوي في مجتمع الأعمال.",
+        "description_en": "A prominent economic figure who contributed to the development of the commercial and industrial sectors and has a strong presence in the business community.",
+        "notable_for": "Entrepreneurship, Industry, Business Development",
+        "image_url": "/public/figures/karim-al-arrayedh.jpg"
+    },
+    {
+        "id": 108,
+        "name_ar": "يوسف الشاهين",
+        "name_en": "Yousif Al-Shaheen",
+        "category": "Architect & Scholar",
+        "description_ar": "معماري وباحث بحريني، اهتم بتوثيق العمارة التقليدية البحرينية والحفاظ على الهوية العمرانية للمدن القديمة.",
+        "description_en": "A Bahraini architect and researcher, interested in documenting traditional Bahraini architecture and preserving the urban identity of old cities.",
+        "notable_for": "Architecture, Heritage Preservation, Research",
+        "image_url": "/public/figures/yousif-al-shaheen.jpg"
+    },
+    {
+        "id": 109,
+        "name_ar": "الشيخ عبد الحسين آل عصفور",
+        "name_en": "Sheikh Abdul-Hussein Al-Asfoor",
+        "category": "Religious Scholar",
+        "description_ar": "عالم دين وقاضٍ شرعي، عُرف ببحوثه الفقهية واسهاماته في المجلس الأعلى للشؤون الإسلامية.",
+        "description_en": "A religious scholar and Sharia judge, known for his jurisprudential research and contributions to the Supreme Council for Islamic Affairs.",
+        "notable_for": "Jurisprudence, Judiciary, Religious Leadership",
+        "image_url": "/public/figures/abdul-hussein-al-asfoor.jpg"
+    },
+    {
+        "id": 110,
+        "name_ar": "أنور أحمد",
+        "name_en": "Anwar Ahmed",
+        "category": "Artist (Actor)",
+        "description_ar": "ممثل ومخرج بحريني قدير، شارك في العديد من الأعمال الدرامية والمسرحية التي ناقشت قضايا المجتمع البحريني.",
+        "description_en": "A veteran Bahraini actor and director, participated in numerous drama and theater works that discussed Bahraini community issues.",
+        "notable_for": "Drama, Theater, Performing Arts",
+        "image_url": "/public/figures/anwar-ahmed.jpg"
+    },
+    {
+        "id": 111,
+        "name_ar": "قحطان القحطاني",
+        "name_en": "Qahtan Al-Qahtani",
+        "category": "Artist (Actor)",
+        "description_ar": "فنان بحريني تميز بأدواره المتنوعة في التلفزيون والسينما، وشغل مناصب إدارية في قطاع الإعلام والثقافة.",
+        "description_en": "A Bahraini artist distinguished by his diverse roles in television and cinema, holding administrative positions in the media and culture sector.",
+        "notable_for": "Acting, Media Administration, Culture",
+        "image_url": "/public/figures/qahtan-al-qahtani.jpg"
+    },
+    {
+        "id": 112,
+        "name_ar": "فوزية عزت",
+        "name_en": "Fawzia Izzat",
+        "category": "Artist (Actress)",
+        "description_ar": "ممثلة بحرينية من الجيل الرائد، ساهمت في تأسيس الحركة المسرحية والدرامية في المملكة ولها بصمة واضحة في الفن المحلي.",
+        "description_en": "A Bahraini actress from the pioneering generation, she contributed to establishing the theater and drama movement in the Kingdom and has a clear mark on local art.",
+        "notable_for": "Theater, Drama, Pioneering Arts",
+        "image_url": "/public/figures/fawzia-izzat.jpg"
+    },
+    {
+        "id": 113,
+        "name_ar": "سعد البوعينين",
+        "name_en": "Saad Al-Buainain",
+        "category": "Artist (Actor)",
+        "description_ar": "ممثل كوميدي وتراجيدي بحريني محبوب، اشتهر بأدواره في المسلسلات الشعبية التي تعكس حياة البسطاء.",
+        "description_en": "A beloved Bahraini comedian and tragic actor, famous for his roles in popular series reflecting the lives of simple people.",
+        "notable_for": "Popular Drama, Comedy, Television",
+        "image_url": "/public/figures/saad-al-buainain.jpg"
+    },
+    {
+        "id": 114,
+        "name_ar": "إبراهيم بحر",
+        "name_en": "Ibrahim Bahar",
+        "category": "Artist (Actor)",
+        "description_ar": "ممثل ومؤلف مسرحي بحريني رحل وترك إرثاً غنياً من الأعمال الدرامية والمسرحية التي لامست وجدان الجمهور.",
+        "description_en": "A Bahraini actor and playwright who passed away, leaving a rich legacy of drama and theater works that touched the public's conscience.",
+        "notable_for": "Theater, Playwriting, Drama",
+        "image_url": "/public/figures/ibrahim-bahar-actor.jpg"
+    },
+    {
+        "id": 115,
+        "name_ar": "أحمد جمشير",
+        "name_en": "Ahmed Jamshir",
+        "category": "Political Leader",
+        "description_ar": "عضو مجلس الشورى البحريني، من الشخصيات الوطنية ذات الخبرة الطويلة في العمل البرلماني والاجتماعي.",
+        "description_en": "Member of the Bahraini Shura Council, a national figure with long experience in parliamentary and social work.",
+        "notable_for": "Legislation, Shura Council, Public Service",
+        "image_url": "/public/figures/ahmed-jamshir.jpg"
+    },
+    {
+        "id": 116,
+        "name_ar": "محمد بن علي كمال الدين",
+        "name_en": "Mohammed bin Ali Kamal Al-Deen",
+        "category": "Historical Poet & Scholar",
+        "description_ar": "أديب ومؤرخ وشاعر بحريني، وثق الكثير من أحداث التاريخ البحريني من خلال مؤلفاته وقصائده الوطنية.",
+        "description_en": "A Bahraini writer, historian, and poet, documenting many Bahraini historical events through his writings and national poems.",
+        "notable_for": "History, Literature, National Poetry",
+        "image_url": "/public/figures/mohammed-kamal-aldeen.jpg"
+    },
+    {
+        "id": 117,
+        "name_ar": "إبراهيم سند",
+        "name_en": "Ebrahim Sanad",
+        "category": "Writer (Children's Literature)",
+        "description_ar": "كاتب بحريني متخصص في أدب الأطفال، حصل على جوائز عديدة لمساهماته في تنمية خيال الطفل وترسيخ القيم الوطنية.",
+        "description_en": "A Bahraini writer specializing in children's literature, receiving numerous awards for his contributions to developing children's imagination and instilling national values.",
+        "notable_for": "Children's Literature, Storytelling, Education",
+        "image_url": "/public/figures/ebrahim-sanad.jpg"
+    },
+    {
+        "id": 118,
+        "name_ar": "الشيخة حصة بنت خليفة آل خليفة",
+        "name_en": "Sheikha Hessa bint Khalifa Al Khalifa",
+        "category": "Social Leader",
+        "description_ar": "عضو المجلس الأعلى للمرأة، تشغل منصب رئيسة مجلس إدارة 'إنجاز البحرين'، وتعمل على تمكين الشباب اقتصادياً.",
+        "description_en": "Member of the Supreme Council for Women, Chairperson of Injaz Bahrain, working on economic empowerment for youth.",
+        "notable_for": "Youth Empowerment, Social Work, Leadership",
+        "image_url": "/public/figures/hessa-bint-khalifa.jpg"
+    },
+    {
+        "id": 119,
+        "name_ar": "جاسم بوعلاي",
+        "name_en": "Jassim Buallay",
+        "category": "Diplomat",
+        "description_ar": "دبلوماسي بحريني مخضرم، مثل البحرين في العديد من المحافل الدولية والمنظمات العالمية، وساهم في تعزيز مكانة المملكة دبلوماسياً.",
+        "description_en": "A veteran Bahraini diplomat who represented Bahrain in many international arenas and global organizations, contributing to enhancing the Kingdom's diplomatic status.",
+        "notable_for": "Diplomacy, International Representation",
+        "image_url": "/public/figures/jassim-buallay.jpg"
+    },
+    {
+        "id": 120,
+        "name_ar": "عباس الصايغ",
+        "name_en": "Abbas Al-Sayegh",
+        "category": "Journalist & Activist",
+        "description_ar": "صحفي بحريني من الرعيل الأول، واكب نهضة الصحافة في البحرين وله مساهمات في توثيق الحياة الاجتماعية والسياسية.",
+        "description_en": "A Bahraini journalist from the first generation, witnessing the rise of journalism in Bahrain with contributions in documenting social and political life.",
+        "notable_for": "Journalism, Social Documentation, Media",
+        "image_url": "/public/figures/abbas-al-sayegh.jpg"
+    },
+    {
+        "id": 121,
+        "name_ar": "علي عبد الله خليفة",
+        "name_en": "Ali Abdullah Khalifa",
+        "category": "Poet & Cultural Researcher",
+        "description_ar": "شاعر وباحث في التراث الشعبي، أسس مجلة 'الثقافة الشعبية' وله دور كبير في الحفاظ على الموروث الشفهي والموسيقي البحريني.",
+        "description_en": "A poet and researcher in folklore, founder of 'Folk Culture' magazine, and has a major role in preserving Bahraini oral and musical heritage.",
+        "notable_for": "Poetry, Folklore Research, Cultural Preservation",
+        "image_url": "/public/figures/ali-abdullah-khalifa.jpg"
+    },
+    {
+        "id": 122,
+        "name_ar": "لطيفة بنت إبراهيم آل خليفة",
+        "name_en": "Latifa bint Ibrahim Al Khalifa",
+        "category": "Artist",
+        "description_ar": "فنانة تشكيلية بحرينية، تتميز أعمالها بالبساطة والعمق، وتعكس جماليات الطبيعة والبيئة المحلية بأسلوب فني معاصر.",
+        "description_en": "A Bahraini fine artist whose works are characterized by simplicity and depth, reflecting the aesthetics of nature and the local environment in a contemporary style.",
+        "notable_for": "Fine Arts, Contemporary Painting",
+        "image_url": "/public/figures/latifa-al-khalifa.jpg"
+    },
+    {
+        "id": 123,
+        "name_ar": "فهد المسلم",
+        "name_en": "Fahad Al-Musalam",
+        "category": "Athlete (Racing)",
+        "description_ar": "سائق سباقات بحريني حقق نجاحات في بطولات 'بورشه' وبطولات تحدي الخليج، وهو من الوجوه الشابة البارزة في رياضة السيارات.",
+        "description_en": "A Bahraini racing driver who succeeded in Porsche championships and Gulf challenge championships, being one of the prominent young faces in motorsports.",
+        "notable_for": "Motorsports, Racing Success",
+        "image_url": "/public/figures/fahad-al-musalam.jpg"
+    },
+    {
+        "id": 124,
+        "name_ar": "سامي قنبر",
+        "name_en": "Sami Qanbar",
+        "category": "Athlete",
+        "description_ar": "لاعب كرة طائرة بحريني دولي سابق، حقق بطولات عديدة مع نادي المحرق والمنتخب، ويُعد من أساطير اللعبة في المملكة.",
+        "description_en": "A former international Bahraini volleyball player, winning numerous championships with Muharraq Club and the national team, considered a legend of the game in the Kingdom.",
+        "notable_for": "Volleyball, Sports Achievement, Legend",
+        "image_url": "/public/figures/sami-qanbar.jpg"
+    },
+    {
+        "id": 125,
+        "name_ar": "جاسم شريدة",
+        "name_en": "Jassim Sharida",
+        "category": "Artist (Singer)",
+        "description_ar": "مطرب بحريني شعبي، تميز بصوته العذب في غناء 'الفنون البحرية' والحفاظ على الأغنية البحرينية القديمة.",
+        "description_en": "A popular Bahraini singer, distinguished by his sweet voice in singing 'maritime arts' and preserving old Bahraini songs.",
+        "notable_for": "Folk Singing, Musical Heritage",
+        "image_url": "/public/figures/jassim-sharida.jpg"
+    },
+    {
+        "id": 126,
+        "name_ar": "سلطان السويدي",
+        "name_en": "Sultan Al-Suwaidi",
+        "category": "Historical Figure",
+        "description_ar": "من الشخصيات التي ساهمت في الحياة العامة في المحرق وبدايات العمل المؤسسي في البحرين خلال القرن العشرين.",
+        "description_en": "A figure who contributed to public life in Muharraq and the beginnings of institutional work in Bahrain during the 20th century.",
+        "notable_for": "Social History, Public Service",
+        "image_url": "/public/figures/sultan-al-suwaidi.jpg"
+    },
+    {
+        "id": 127,
+        "name_ar": "خميس الرميحي",
+        "name_en": "Khamis Al-Rumaihi",
+        "category": "Political Leader",
+        "description_ar": "برلماني بحريني سابق وشخصية اجتماعية، نشط في المطالبة بحقوق المواطنين وتطوير القرى والمناطق المحلية.",
+        "description_en": "A former Bahraini parliamentarian and social figure, active in advocating for citizens' rights and developing local villages and areas.",
+        "notable_for": "Politics, Community Advocacy",
+        "image_url": "/public/figures/khamis-al-rumaihi.jpg"
+    },
+    {
+        "id": 128,
+        "name_ar": "علاء الناير",
+        "name_en": "Alaa Al-Nayer",
+        "category": "Artist (Photographer)",
+        "description_ar": "مصور فوتوغرافي بحريني عالمي، وثق جماليات الحياة في البحرين وحصل على جوائز دولية في فن التصوير الضوئي.",
+        "description_en": "A world-class Bahraini photographer, documenting the aesthetics of life in Bahrain and winning international awards in photography art.",
+        "notable_for": "Photography, Visual Arts, International Awards",
+        "image_url": "/public/figures/alaa-al-nayer.jpg"
+    },
+    {
+        "id": 129,
+        "name_ar": "أحمد الشملان",
+        "name_en": "Ahmed Al-Shamlan",
+        "category": "Political Activist & Lawyer",
+        "description_ar": "محامي وناشط سياسي بحريني بارز، كان صوتاً قوياً للمطالبة بالإصلاحات والحريات، وله دور تاريخي في الحركة الوطنية.",
+        "description_en": "A prominent Bahraini lawyer and political activist, a strong voice for reforms and freedoms, with a historical role in the national movement.",
+        "notable_for": "Political Rights, Law, Activism",
+        "image_url": "/public/figures/ahmed-al-shamlan.jpg"
+    },
+    {
+        "id": 130,
+        "name_ar": "عبد الله جناحي",
+        "name_en": "Abdulla Janahi",
+        "category": "Academic & Activist",
+        "description_ar": "أكاديمي وناشط في المجتمع المدني، اهتم بقضايا العمل والعمال والتنمية البشرية في البحرين.",
+        "description_en": "An academic and civil society activist, interested in labor issues, workers' rights, and human development in Bahrain.",
+        "notable_for": "Civil Society, Labor Rights, Academic Research",
+        "image_url": "/public/figures/abdulla-janahi.jpg"
+    },
+    {
+        "id": 131,
+        "name_ar": "إبراهيم كمال",
+        "name_en": "Ebrahim Kamal",
+        "category": "Artist (Musician)",
+        "description_ar": "من كبار عازفي الكمان والملحنين في البحرين، ساهم في تشكيل الهوية الموسيقية الحديثة ورافق كبار المطربين.",
+        "description_en": "One of the greatest violinists and composers in Bahrain, contributing to shaping the modern musical identity and accompanying top singers.",
+        "notable_for": "Music, Violin Performance, Composition",
+        "image_url": "/public/figures/ebrahim-kamal.jpg"
+    },
+    {
+        "id": 132,
+        "name_ar": "سعدي الملا",
+        "name_en": "Saadi Al-Mulla",
+        "category": "Artist (Singer)",
+        "description_ar": "مطرب بحريني اشتهر بتقديم الألوان الغنائية الخليجية بلمسة بحرينية فريدة، وله شعبية كبيرة في فترات السبعينيات والثمانينيات.",
+        "description_en": "A Bahraini singer famous for presenting Gulf musical styles with a unique Bahraini touch, enjoying great popularity in the 70s and 80s.",
+        "notable_for": "Music, Gulf Song, Popularity",
+        "image_url": "/public/figures/saadi-al-mulla.jpg"
+    },
+    {
+        "id": 133,
+        "name_ar": "حسن بوعلي",
+        "name_en": "Hassan Buali",
+        "category": "Business Leader",
+        "description_ar": "رجل أعمال ومؤسس لشركات تجارية هامة، ساهم في نشاط القطاع الخاص وتعزيز الروابط التجارية مع الخارج.",
+        "description_en": "A businessman and founder of important commercial companies, contributing to private sector activity and enhancing foreign trade links.",
+        "notable_for": "Commerce, Entrepreneurship, Economy",
+        "image_url": "/public/figures/hassan-buali.jpg"
+    },
+    {
+        "id": 134,
+        "name_ar": "محمد خليل المؤيد",
+        "name_en": "Mohammed Khalil Almoayyed",
+        "category": "Business Leader",
+        "description_ar": "من الرواد في قطاع التجارة والمقاولات، ساهمت عائلته ومجموعته التجارية في بناء العديد من المشاريع الحيوية في المملكة.",
+        "description_en": "A pioneer in the trade and contracting sector, his family and business group contributed to building many vital projects in the Kingdom.",
+        "notable_for": "Business, Construction, Economic Growth",
+        "image_url": "/public/figures/mohammed-almoayyed.jpg"
+    },
+    {
+        "id": 135,
+        "name_ar": "الشيخ يحيى المتوج البحراني",
+        "name_en": "Sheikh Yahya Al-Mutawaj Al-Bahrani",
+        "category": "Historical Religious Scholar",
+        "description_ar": "عالم دين وفقيه بحريني تاريخي، يُعد من رموز الحوزة العلمية في البحرين خلال القرون الماضية وله مؤلفات فقهية قيمة.",
+        "description_en": "A historical Bahraini religious scholar and jurist, considered one of the symbols of the religious seminary in Bahrain in past centuries with valuable jurisprudential works.",
+        "notable_for": "Islamic Jurisprudence, Religious Scholarship, History",
+        "image_url": "/public/figures/yahya-al-mutawaj.jpg"
+    },
+    {
+        "id": 136,
+        "name_ar": "السيد عدنان الموسوي",
+        "name_en": "Sayyid Adnan Al-Musawi",
+        "category": "Religious Scholar",
+        "description_ar": "عالم دين وخطيب متميز، عُرف بدوره في نشر الوعي الديني والاجتماعي في منطقة القرى، ويحظى باحترام كبير.",
+        "description_en": "A distinguished religious scholar and orator, known for his role in spreading religious and social awareness in the village areas, holding great respect.",
+        "notable_for": "Oratory, Religious Guidance, Social Work",
+        "image_url": "/public/figures/adnan-al-musawi.jpg"
+    },
+    {
+        "id": 137,
+        "name_ar": "الشيخ منصور الستري",
+        "name_en": "Sheikh Mansoor Al-Sitri",
+        "category": "Religious Scholar & Judge",
+        "description_ar": "عالم دين وقاضٍ شرعي في المحكمة الجعفرية، ساهم في تطوير القضاء الشرعي وله حضور اجتماعي وازن.",
+        "description_en": "A religious scholar and Sharia judge in the Jaafari court, contributing to the development of Sharia judiciary with a significant social presence.",
+        "notable_for": "Judiciary, Religious Knowledge, Social Leadership",
+        "image_url": "/public/figures/mansoor-al-sitri.jpg"
+    },
+    {
+        "id": 138,
+        "name_ar": "أحمد يتيم",
+        "name_en": "Ahmed Yateem",
+        "category": "Business Leader",
+        "description_ar": "من رجالات الأعمال الأوائل في المنامة، ساهمت عائلته في تأسيس العديد من الأنشطة التجارية والخدمية في العاصمة.",
+        "description_en": "One of the early businessmen in Manama, his family contributed to establishing many commercial and service activities in the capital.",
+        "notable_for": "Manama Business, Trade History",
+        "image_url": "/public/figures/ahmed-yateem.jpg"
+    },
+    {
+        "id": 139,
+        "name_ar": "عبد الله بو جيري",
+        "name_en": "Abdulla Bojiri",
+        "category": "Traditional Builder & Craftsman",
+        "description_ar": "أحد أساتذة البناء التقليدي في البحرين، أشرف على ترميم وبناء العديد من البيوت التراثية والقلاع التاريخية.",
+        "description_en": "One of the masters of traditional construction in Bahrain, supervising the restoration and building of many heritage houses and historical forts.",
+        "notable_for": "Heritage Building, Restoration, Craftsmanship",
+        "image_url": "/public/figures/abdulla-bojiri.jpg"
+    },
+    {
+        "id": 140,
+        "name_ar": "يوسف قاسم",
+        "name_en": "Yousif Qasim",
+        "category": "Artist",
+        "description_ar": "فنان تشكيلي بحريني ركز في لوحاته على مظاهر الحياة القديمة والأسواق الشعبية، وله أسلوب توثيقي متميز.",
+        "description_en": "A Bahraini fine artist who focused in his paintings on aspects of old life and popular markets, with a distinct documentary style.",
+        "notable_for": "Documentary Art, Traditional Life Painting",
+        "image_url": "/public/figures/yousif-qasim.jpg"
+    },
+    {
+        "id": 141,
+        "name_ar": "نبيل صويط",
+        "name_en": "Nabeel Swait",
+        "category": "Athlete",
+        "description_ar": "مدرب ولاعب كرة يد بحريني سابق، ساهم في وضع اللبنات الأولى لتميز كرة اليد البحرينية على المستوى الإقليمي.",
+        "description_en": "A former Bahraini handball player and coach, contributing to laying the foundations for Bahraini handball excellence at the regional level.",
+        "notable_for": "Handball, Coaching, Sports Development",
+        "image_url": "/public/figures/nabeel-swait.jpg"
+    },
+    {
+        "id": 142,
+        "name_ar": "فؤاد بوشهري",
+        "name_en": "Fouad Bushiri",
+        "category": "Artist (Singer)",
+        "description_ar": "فنان بحريني تميز بأدائه للأغاني الهادئة والرومانسية، وله حضور في المهرجانات الموسيقية المحلية.",
+        "description_en": "A Bahraini artist distinguished by his performance of calm and romantic songs, with a presence in local music festivals.",
+        "notable_for": "Music, Romantic Song",
+        "image_url": "/public/figures/fouad-bushiri.jpg"
+    },
+    {
+        "id": 143,
+        "name_ar": "خليل زباري",
+        "name_en": "Khalil Zubari",
+        "category": "Writer & Intellectual",
+        "description_ar": "أديب وباحث بحريني، اهتم بدراسة الأدب المقارن والترجمة، وله مساهمات في إثراء المكتبة الثقافية البحرينية.",
+        "description_en": "A Bahraini writer and researcher, interested in comparative literature and translation, contributing to enriching the Bahraini cultural library.",
+        "notable_for": "Literature, Translation, Research",
+        "image_url": "/public/figures/khalil-zubari.jpg"
+    },
+    {
+        "id": 144,
+        "name_ar": "إلهام علي",
+        "name_en": "Elham Ali",
+        "category": "Artist (Actress)",
+        "description_ar": "ممثلة بحرينية من الجيل الشاب، حققت نجاحات كبيرة في الدراما الخليجية وتعتبر من الوجوه الفنية المؤثرة حالياً.",
+        "description_en": "A Bahraini actress from the young generation, achieving great success in Gulf drama and considered one of the influential artistic faces currently.",
+        "notable_for": "Drama, Modern Media, Acting",
+        "image_url": "/public/figures/elham-ali.jpg"
+    },
+    {
+        "id": 145,
+        "name_ar": "شيماء سبت",
+        "name_en": "Shaima Sabt",
+        "category": "Artist (Actress)",
+        "description_ar": "فنانة بحرينية بارزة، شاركت في مئات الأعمال الدرامية والمسرحية، وتنتمي لعائلة فنية بحرينية معروفة.",
+        "description_en": "A prominent Bahraini artist, participating in hundreds of drama and theater works, belonging to a well-known Bahraini artistic family.",
+        "notable_for": "Drama, Theater, TV Production",
+        "image_url": "/public/figures/shaima-sabt.jpg"
+    },
+    {
+        "id": 146,
+        "name_ar": "هيفاء حسين",
+        "name_en": "Haifa Hussain",
+        "category": "Artist (Actress)",
+        "description_ar": "ممثلة بحرينية شهيرة، تميزت بأدوارها الهادئة والرزينة في الدراما الخليجية، وحصلت على العديد من الجوائز التقديرية.",
+        "description_en": "A famous Bahraini actress, distinguished by her calm and dignified roles in Gulf drama, receiving numerous appreciation awards.",
+        "notable_for": "Drama, Gulf Cinema, Acting Excellence",
+        "image_url": "/public/figures/haifa-hussain.jpg"
+    },
+    {
+        "id": 147,
+        "name_ar": "محمد ياسين (بابا ياسين)",
+        "name_en": "Mohammed Yassin (Baba Yassin)",
+        "category": "Artist & Educator",
+        "description_ar": "فنان بحريني ارتبط اسمه ببرامج الأطفال والتوجيه التربوي، ويُعد شخصية محبوبة لأجيال متعاقبة من البحرينيين.",
+        "description_en": "A Bahraini artist whose name is associated with children's programs and educational guidance, considered a beloved figure for successive generations of Bahrainis.",
+        "notable_for": "Children's Media, Education, Theater",
+        "image_url": "/public/figures/mohammed-yassin.jpg"
+    },
+    {
+        "id": 148,
+        "name_ar": "جاسم النبهان (أصول بحرينية)",
+        "name_en": "Jassim Al-Nabhan",
+        "category": "Artist (Actor)",
+        "description_ar": "فنان قدير تعود أصوله للبحرين، ويُعد من أعمدة الفن في الخليج بمسيرة حافلة في المسرح والتلفزيون والسينما.",
+        "description_en": "A veteran artist with roots in Bahrain, considered one of the pillars of art in the Gulf with a career full of achievements in theater, TV, and cinema.",
+        "notable_for": "Acting Mastery, Drama, Cultural Links",
+        "image_url": "/public/figures/jassim-al-nabhan.jpg"
+    },
+    {
+        "id": 149,
+        "name_ar": "محمد باقر المجلسي (بحريني المنشأ)",
+        "name_en": "Mohammed Baqir Al-Majlisi",
+        "category": "Historical Scholar",
+        "description_ar": "رغم شهرته لاحقاً، إلا أن العديد من المصادر تشير إلى روابط عائلية وعلمية وثيقة بالبحرين التي كانت مركزاً للعلم في منطقته.",
+        "description_en": "Despite his later fame, many sources point to close family and scholarly links to Bahrain, which was a center of learning in his region.",
+        "notable_for": "Islamic Scholarship, History, Religious Writing",
+        "image_url": "/public/figures/baqir-al-majlisi.jpg"
+    },
+    {
+        "id": 150,
+        "name_ar": "خليل إبراهيم كانو",
+        "name_en": "Khalil Ibrahim Kanoo",
+        "category": "Business Leader",
+        "description_ar": "من الشخصيات الرائدة في عائلة كانو، ساهم في توسيع الأنشطة التجارية والملاحية للمجموعة في القرن العشرين.",
+        "description_en": "One of the leading figures in the Kanoo family, contributing to expanding the group's trade and shipping activities in the 20th century.",
+        "notable_for": "Business Expansion, Shipping, Economic History",
+        "image_url": "/public/figures/khalil-kanoo.jpg"
+    },
+    {
+        "id": 151,
+        "name_ar": "محمد بن جاسم كانو",
+        "name_en": "Mohammed bin Jasim Kanoo",
+        "category": "Business Leader",
+        "description_ar": "شخصية اقتصادية مرموقة من عائلة كانو، ساهم في تعزيز الروابط التجارية الدولية للبحرين وإدارة المشاريع الاقتصادية الكبرى.",
+        "description_en": "A prestigious economic figure from the Kanoo family, contributing to enhancing Bahrain's international trade links and managing major economic projects.",
+        "notable_for": "Global Trade, Economic Leadership, Business Management",
+        "image_url": "/public/figures/mohammed-jasim-kanoo.jpg"
+    },
+    {
+        "id": 152,
+        "name_ar": "الدكتور عبد اللطيف جاسم كانو",
+        "name_en": "Dr. Abdul Latif Jassim Kanoo",
+        "category": "Cultural Leader & Engineer",
+        "description_ar": "مؤسس 'بيت القرآن'، وهو صرح ثقافي إسلامي عالمي في البحرين، ومهندس ساهم في نهضة العمران الحديثة بالمملكة.",
+        "description_en": "Founder of 'Beit Al Quran', a global Islamic cultural landmark in Bahrain, and an engineer who contributed to the modern urban renaissance in the Kingdom.",
+        "notable_for": "Beit Al Quran, Islamic Heritage, Engineering",
+        "image_url": "/public/figures/abdul-latif-kanoo.jpg"
+    },
+    {
+        "id": 153,
+        "name_ar": "الدكتور فيصل الموسوي",
+        "name_en": "Dr. Faisal Al-Musawi",
+        "category": "Political & Medical Leader",
+        "description_ar": "طبيب جراح بارز، شغل منصب وزير الصحة ورئيس مجلس الشورى الأسبق، وله بصمات واضحة في تطوير النظام الصحي.",
+        "description_en": "A prominent surgeon, who served as Minister of Health and former President of the Shura Council, with clear marks on the development of the health system.",
+        "notable_for": "Medicine, Shura Council Leadership, Health Reforms",
+        "image_url": "/public/figures/faisal-al-musawi.jpg"
+    },
+    {
+        "id": 154,
+        "name_ar": "الشيخ عيسى بن راشد آل خليفة",
+        "name_en": "Sheikh Isa bin Rashid Al Khalifa",
+        "category": "Sports & Cultural Icon",
+        "description_ar": "هامة رياضية وثقافية خليجية، عُرف بلقب 'هرم الرياضة البحرينية' وشاعر غنائي أصيل وثق للتراث بكلماته العذبة.",
+        "description_en": "A prominent Gulf sports and cultural figure, known as the 'Pyramid of Bahraini Sports' and an authentic lyric poet who documented heritage with his sweet words.",
+        "notable_for": "Sports Management, Poetry, GCC Sports Legacy",
+        "image_url": "/public/figures/isa-bin-rashid.jpg"
+    },
+    {
+        "id": 155,
+        "name_ar": "الشيخ سلمان بن إبراهيم آل خليفة",
+        "name_en": "Sheikh Salman bin Ibrahim Al Khalifa",
+        "category": "Sports Leader",
+        "description_ar": "رئيس الاتحاد الآسيوي لكرة القدم ونائب رئيس الاتحاد الدولي (فيفا)، يقود كرة القدم في أكبر قارات العالم من مملكة البحرين.",
+        "description_en": "President of the Asian Football Confederation (AFC) and Vice President of FIFA, leading football in the world's largest continent from the Kingdom of Bahrain.",
+        "notable_for": "Asian Football Leadership, FIFA, Sports Diplomacy",
+        "image_url": "/public/figures/salman-bin-ibrahim-afc.jpg"
+    },
+    {
+        "id": 156,
+        "name_ar": "الدكتورة سبيكة النجار",
+        "name_en": "Dr. Sabika Al-Najjar",
+        "category": "Medical Pioneer & Activist",
+        "description_ar": "طبيبة بحرينية رائدة وناشطة في مجال حقوق الإنسان والعمل الاجتماعي، ساهمت في تأسيس العديد من الجمعيات المهنية والنسائية.",
+        "description_en": "A pioneering Bahraini doctor and human rights activist, she contributed to founding many professional and women's associations.",
+        "notable_for": "Medicine, Human Rights, Social Activism",
+        "image_url": "/public/figures/sabika-al-najjar.jpg"
+    },
+    {
+        "id": 157,
+        "name_ar": "لؤلؤة العوضي",
+        "name_en": "Lulwa Al-Awadhi",
+        "category": "Legal & Social Leader",
+        "description_ar": "أول أمينة عامة للمجلس الأعلى للمرأة ومستشارة قانونية بارزة، لها دور جوهري في صياغة التشريعات الداعمة للمرأة.",
+        "description_en": "The first Secretary General of the Supreme Council for Women and a prominent legal advisor, playing a fundamental role in drafting legislation supporting women.",
+        "notable_for": "Law, Women's Rights, Public Service",
+        "image_url": "/public/figures/lulwa-al-awadhi.jpg"
+    },
+    {
+        "id": 158,
+        "name_ar": "غادة جمشير",
+        "name_en": "Ghada Jamshir",
+        "category": "Social Activist",
+        "description_ar": "ناشطة حقوقية عُرفت بدفاعها المستميت عن حقوق المرأة البحرينية والمطالبة بإصلاح القضاء الشرعي وقانون الأسرة.",
+        "description_en": "A human rights activist known for her fierce defense of Bahraini women's rights and advocacy for reforming the Sharia judiciary and family law.",
+        "notable_for": "Women's Rights, Family Law Advocacy, Activism",
+        "image_url": "/public/figures/ghada-jamshir.jpg"
+    },
+    {
+        "id": 159,
+        "name_ar": "نبيل رجب",
+        "name_en": "Nabeel Rajab",
+        "category": "Human Rights Activist",
+        "description_ar": "ناشط حقوقي بحريني دولي، رئيس مركز البحرين لحقوق الإنسان، عُرف بنشاطه الواسع في توثيق الحريات العامة.",
+        "description_en": "An international Bahraini human rights activist, president of the Bahrain Center for Human Rights, known for his extensive activity in documenting public freedoms.",
+        "notable_for": "Human Rights Documentation, International Advocacy",
+        "image_url": "/public/figures/nabeel-rajab.jpg"
+    },
+    {
+        "id": 160,
+        "name_ar": "عبد الهادي الخواجة",
+        "name_en": "Abdulhadi Al-Khawaja",
+        "category": "Human Rights Activist",
+        "description_ar": "ناشط حقوقي ومؤسس للعديد من المنظمات الحقوقية، كان له دور بارز في الدفاع عن حقوق الإنسان على المستويين المحلي والدولي.",
+        "description_en": "A human rights activist and founder of several human rights organizations, playing a prominent role in defending human rights locally and internationally.",
+        "notable_for": "Rightist Activism, International Human Rights",
+        "image_url": "/public/figures/abdulhadi-al-khawaja.jpg"
+    },
+    {
+        "id": 161,
+        "name_ar": "مريم الخواجة",
+        "name_en": "Maryam Al-Khawaja",
+        "category": "Human Rights Activist",
+        "description_ar": "ناشطة حقوقية بحرينية شابة، برزت في المحافل الدولية كصوت ينادي بالحريات وحقوق الإنسان في منطقة الخليج.",
+        "description_en": "A young Bahraini human rights activist, emerging in international forums as a voice for freedoms and human rights in the Gulf region.",
+        "notable_for": "International Human Rights Advocacy, Youth Leadership",
+        "image_url": "/public/figures/maryam-al-khawaja.jpg"
+    },
+    {
+        "id": 162,
+        "name_ar": "فاطمة أبو إدريس",
+        "name_en": "Fatima Abo Idris",
+        "category": "Journalist & Researcher",
+        "description_ar": "صحفية وباحثة بحرينية، اهتمت بتوثيق القضايا الاجتماعية والسياسية والحقوقية في المملكة من خلال تحقيقاتها الصحفية.",
+        "description_en": "A Bahraini journalist and researcher, interested in documenting social, political, and human rights issues in the Kingdom through her journalistic investigations.",
+        "notable_for": "Journalism, Research, Documentation",
+        "image_url": "/public/figures/fatima-abo-idris.jpg"
+    },
+    {
+        "id": 163,
+        "name_ar": "منصور العريض",
+        "name_en": "Mansoor Al-Arrayedh",
+        "category": "Business Leader (Historical)",
+        "description_ar": "من أبرز تجار البحرين في القرن العشرين، عُرف بريادته في قطاعات التجارة والعقار وكان له دور اجتماعي مؤثر.",
+        "description_en": "One of Bahrain's most prominent merchants in the 20th century, known for his leadership in the trade and real estate sectors and his influential social role.",
+        "notable_for": "Trade, Real Estate, Social Influence",
+        "image_url": "/public/figures/mansoor-al-arrayedh.jpg"
+    },
+    {
+        "id": 164,
+        "name_ar": "راشد الزياني",
+        "name_en": "Rashid Al-Zayani",
+        "category": "Industrialist & Business Leader",
+        "description_ar": "أحد مؤسسي 'الزياني للاستثمارات'، ساهم بشكل كبير في النهضة الصناعية وتوطين وكالات السيارات العالمية في البحرين.",
+        "description_en": "One of the founders of 'Al-Zayani Investments', contributing significantly to the industrial renaissance and localizing international car agencies in Bahrain.",
+        "notable_for": "Industrial Development, Business Investment",
+        "image_url": "/public/figures/rashid-al-zayani.jpg"
+    },
+    {
+        "id": 165,
+        "name_ar": "حمود سلطان",
+        "name_en": "Hamood Sultan",
+        "category": "Athlete (Football Legend)",
+        "description_ar": "حارس مرمى تاريخي للمنتخب البحريني ونادي المحرق، عُرف بمهاراته الفائقة وشخصيته كقائد في الملعب ويُعتبر أسطورة الحراسة الخليجية.",
+        "description_en": "A historical goalkeeper for the Bahrain national team and Muharraq Club, known for his superb skills and leadership personality on the pitch, considered a Gulf goalkeeping legend.",
+        "notable_for": "Football, Goalkeeping Mastery, GCC Sports Legend",
+        "image_url": "/public/figures/hamood-sultan.jpg"
+    },
+    {
+        "id": 166,
+        "name_ar": "أحمد تازهدينوف",
+        "name_en": "Ahmed Tazhudinov",
+        "category": "Athlete (Olympic Champion)",
+        "description_ar": "بطل أولمبي بحريني، حقق الميدالية الذهبية في المصارعة الحرة في أولمبياد باريس 2024، واضعاً اسم البحرين في قمة الرياضة العالمية.",
+        "description_en": "A Bahraini Olympic champion, winning the gold medal in freestyle wrestling at the Paris 2024 Olympics, putting Bahrain's name at the top of world sports.",
+        "notable_for": "Olympic Gold Medal, Wrestling, Sports Excellence",
+        "image_url": "/public/figures/ahmed-tazhudinov.jpg"
+    },
+    {
+        "id": 167,
+        "name_ar": "غور ميناسيان",
+        "name_en": "Gor Minasyan",
+        "category": "Athlete (Olympic Medalist)",
+        "description_ar": "رباع بحريني عالمي، حقق الميدالية البرونزية في وزن الثقيل في أولمبياد باريس 2024 والعديد من الألقاب العالمية للمملكة.",
+        "description_en": "A world-class Bahraini weightlifter, winning the bronze medal in the heavyweight category at the Paris 2024 Olympics and many world titles for the Kingdom.",
+        "notable_for": "Olympic Medalist, Weightlifting, International Achievements",
+        "image_url": "/public/figures/gor-minasyan.jpg"
+    },
+    {
+        "id": 168,
+        "name_ar": "علي منفردي",
+        "name_en": "Ali Monfaradi",
+        "category": "Athlete (Jiu-Jitsu Champion)",
+        "description_ar": "بطل العالم في رياضة الجوجيتسو، حقق العديد من الميداليات الذهبية للبحرين في مختلف القارات ويُعد سفيراً لهذه الرياضة.",
+        "description_en": "A world champion in Jiu-Jitsu, winning numerous gold medals for Bahrain across various continents, considered an ambassador for this sport.",
+        "notable_for": "Jiu-Jitsu, World Gold Medals, Martial Arts",
+        "image_url": "/public/figures/ali-monfaradi.jpg"
+    },
+    {
+        "id": 169,
+        "name_ar": "آدم باتيروف",
+        "name_en": "Adam Batirov",
+        "category": "Athlete (Wrestling)",
+        "description_ar": "مصارع بحريني بارز حقق الميدالية الذهبية في بطولة آسيا والميدالية الفضية في بطولة العالم، مساهماً في تميز المصارعة البحرينية.",
+        "description_en": "A prominent Bahraini wrestler who won the gold medal in the Asian Championship and the silver in the World Championship, contributing to Bahraini wrestling excellence.",
+        "notable_for": "Wrestling, Asian Gold, World Medalist",
+        "image_url": "/public/figures/adam-batirov.jpg"
+    },
+    {
+        "id": 170,
+        "name_ar": "مريم المشعل",
+        "name_en": "Maryam Al-Mishal",
+        "category": "Legal Pioneer",
+        "description_ar": "من أوائل القانونيات البحرينيات اللاتي اشتغلن في السلك القانوني والقضائي، وساهمت في تعزيز دور المرأة في العدالة.",
+        "description_en": "One of the first Bahraini legal professionals to work in the legal and judicial fields, contributing to enhancing women's roles in justice.",
+        "notable_for": "Law, Judiciary, Women Empowerment",
+        "image_url": "/public/figures/maryam-al-mishal.jpg"
+    },
+    {
+        "id": 171,
+        "name_ar": "دلال الزايد",
+        "name_en": "Dalal Al-Zayed",
+        "category": "Political Leader & Legislator",
+        "description_ar": "عضو مجلس الشورى البحريني ورئيسة لجنة الشؤون التشريعية والقانونية، خبيرة في صياغة القوانين وحقوق المرأة.",
+        "description_en": "Member of the Bahraini Shura Council and Chairperson of the Legislative and Legal Affairs Committee, an expert in law drafting and women's rights.",
+        "notable_for": "Legislation, Shura Council, Law",
+        "image_url": "/public/figures/dalal-al-zayed.jpg"
+    },
+    {
+        "id": 172,
+        "name_ar": "جميلة سلمان",
+        "name_en": "Jamila Salman",
+        "category": "Academic & Political Leader",
+        "description_ar": "أكاديمية وعضو مجلس الشورى، تساهم في تطوير السياسات التعليمية والتشريعية في المملكة ولها دور في لجان الشؤون الخارجية.",
+        "description_en": "An academic and Shura Council member, contributing to the development of educational and legislative policies in the Kingdom and playing a role in foreign affairs committees.",
+        "notable_for": "Education, Legislation, Public Service",
+        "image_url": "/public/figures/jamila-salman.jpg"
+    },
+    {
+        "id": 173,
+        "name_ar": "هالة الأنصاري",
+        "name_en": "Hala Al-Ansari",
+        "category": "Social & Administrative Leader",
+        "description_ar": "الأمين العام للمجلس الأعلى للمرأة، تقود تنفيذ الخطة الوطنية لنهوض المرأة البحرينية وتحقيق تكافؤ الفرص.",
+        "description_en": "Secretary General of the Supreme Council for Women, leading the implementation of the National Plan for the Advancement of Bahraini Women and achieving equal opportunities.",
+        "notable_for": "Women's Advancement, State Administration, Social Policy",
+        "image_url": "/public/figures/hala-al-ansari.jpg"
+    },
+    {
+        "id": 174,
+        "name_ar": "أحلام الزياني",
+        "name_en": "Ahlam Al-Zayani",
+        "category": "Business Leader",
+        "description_ar": "رائدة أعمال بحرينية، تشغل مناصب قيادية في قطاع السياحة والفنادق وتساهم في تعزيز دور المرأة في القطاع الخاص.",
+        "description_en": "A Bahraini entrepreneur, holding leadership positions in the tourism and hotel sector and contributing to enhancing women's roles in the private sector.",
+        "notable_for": "Tourism Industry, Entrepreneurship, Business Leadership",
+        "image_url": "/public/figures/ahlam-al-zayani.jpg"
+    },
+    {
+        "id": 175,
+        "name_ar": "أفنان الزياني",
+        "name_en": "Afnan Al-Zayani",
+        "category": "Business Leader & Culinary Expert",
+        "description_ar": "سيدة أعمال بحرينية بارزة، أول امرأة ترأست جمعية سيدات الأعمال البحرينية ولها إسهامات كبيرة في فن الطبخ والكتب التراثية.",
+        "description_en": "A prominent Bahraini businesswoman, the first woman to head the Bahrain Businesswomen's Society, with significant contributions to the culinary arts and heritage books.",
+        "notable_for": "Business, Culinary Arts, Women Leadership",
+        "image_url": "/public/figures/afnan-al-zayani.jpg"
+    },
+    {
+        "id": 176,
+        "name_ar": "هدى الماجد",
+        "name_en": "Huda Al-Majed",
+        "category": "Educationist",
+        "description_ar": "تربوية بحرينية ساهمت في تطوير مناهج التعليم والعمل الاجتماعي والخيري المرتبط بالأسرة والطفل.",
+        "description_en": "A Bahraini educator who contributed to the development of educational curricula and social and charitable work related to the family and child.",
+        "notable_for": "Education, Social Work, Family Welfare",
+        "image_url": "/public/figures/huda-al-majed.jpg"
+    },
+    {
+        "id": 177,
+        "name_ar": "الدكتورة بهيجة الديلمي",
+        "name_en": "Dr. Baheeja Al-Daylami",
+        "category": "Sociologist & Academic",
+        "description_ar": "أكاديمية وباحثة اجتماعية متخصصة، لها دراسات موسعة حول البنية الاجتماعية للمجتمع البحريني والتحولات الثقافية.",
+        "description_en": "A specialized academic and social researcher, with extensive studies on the social structure of Bahraini society and cultural transformations.",
+        "notable_for": "Sociology, Academic Research, Social Policy",
+        "image_url": "/public/figures/baheeja-al-daylami.jpg"
+    },
+    {
+        "id": 178,
+        "name_ar": "الدكتور شوقي الدلال",
+        "name_en": "Dr. Shawqi Al-Dallal",
+        "category": "Scientist & Academic",
+        "description_ar": "عالم فيزياء وفلك بحريني، له بحوث منشورة عالمياً في علوم الفضاء والطاقة والفيزياء النظرية.",
+        "description_en": "A Bahraini physicist and astronomer, with globally published research in space science, energy, and theoretical physics.",
+        "notable_for": "Astrophysics, Physics Research, Science",
+        "image_url": "/public/figures/shawqi-al-dallal.jpg"
+    },
+    {
+        "id": 179,
+        "name_ar": "علي بهزاد",
+        "name_en": "Ali Bahzad",
+        "category": "Journalist & Documentarian",
+        "description_ar": "إعلامي وباحث وثق الكثير من ملامح التاريخ والتراث البحريني من خلال الأفلام الوثائقية والكتابات الصحفية.",
+        "description_en": "A media person and researcher who documented many features of Bahraini history and heritage through documentaries and journalistic writings.",
+        "notable_for": "Documentary, Journalism, Heritage Documentation",
+        "image_url": "/public/figures/ali-bahzad.jpg"
+    },
+    {
+        "id": 180,
+        "name_ar": "جاسم سند",
+        "name_en": "Jassim Sanad",
+        "category": "Folk Artist",
+        "description_ar": "فنان شعبي ساهم في الحفاظ على فنون العرضة والموال وغيرها من الموروثات الشعبية البحرينية الأصيلة.",
+        "description_en": "A folk artist who contributed to preserving the arts of Ardah, Mawal, and other authentic Bahraini folk heritages.",
+        "notable_for": "Folk Arts, Cultural Heritage, Traditional Performance",
+        "image_url": "/public/figures/jassim-sanad-folk.jpg"
+    },
+    {
+        "id": 181,
+        "name_ar": "الشيخ مبارك بن حمد آل خليفة",
+        "name_en": "Sheikh Mubarak bin Hamad Al Khalifa",
+        "category": "Historical Figure",
+        "description_ar": "من رجالات آل خليفة الذين ساهموا في إدارة الشؤون العامة وتطوير الهياكل الإدارية للدولة في منتصف القرن العشرين.",
+        "description_en": "One of the Al Khalifa men who contributed to managing public affairs and developing the state's administrative structures in the mid-20th century.",
+        "notable_for": "Administration, Public Service, History",
+        "image_url": "/public/figures/mubarak-bin-hamad.jpg"
+    },
+    {
+        "id": 182,
+        "name_ar": "الشيخ دعيج بن حمد آل خليفة",
+        "name_en": "Sheikh Daij bin Hamad Al Khalifa",
+        "category": "Historical Figure & Finance",
+        "description_ar": "مسؤول حكومي سابق لعب دوراً في تنظيم الدوائر المالية والإدارية في بدايات تشكيل المؤسسات الحكومية الحديثة.",
+        "description_en": "A former government official who played a role in organizing financial and administrative departments in the early stages of forming modern government institutions.",
+        "notable_for": "Finance, Administration, State Building",
+        "image_url": "/public/figures/daij-bin-hamad.jpg"
+    },
+    {
+        "id": 183,
+        "name_ar": "الشيخ أحمد بن سلمان آل خليفة (الرياضي)",
+        "name_en": "Sheikh Ahmed bin Salman Al Khalifa",
+        "category": "Media & Sports Leader",
+        "description_ar": "شخصية رياضية وإعلامية، أسس مؤسسات إعلامية كبرى وكان له دور رائد في دعم رياضة الفروسية والخيل عربياً وعالمياً.",
+        "description_en": "A sports and media figure, founded major media institutions and had a pioneering role in supporting equestrian and horse sports Arab-wide and globally.",
+        "notable_for": "Media, Equestrian Sports, Business",
+        "image_url": "/public/figures/ahmed-bin-salman-horses.jpg"
+    },
+    {
+        "id": 184,
+        "name_ar": "الشيخ فواز بن محمد آل خليفة",
+        "name_en": "Sheikh Fawaz bin Mohammed Al Khalifa",
+        "category": "Diplomat & Political Leader",
+        "description_ar": "دبلوماسي وسياسي، شغل منصب وزير الإعلام ورئيس المؤسسة العامة للشباب والرياضة سابقاً، وسفير البحرين الحالي لدى بريطانيا.",
+        "description_en": "A diplomat and politician, previously served as Minister of Information and President of the General Organization for Youth and Sports, currently Bahrain's Ambassador to the UK.",
+        "notable_for": "Diplomacy, Media, Sports Management",
+        "image_url": "/public/figures/fawaz-bin-mohammed.jpg"
+    },
+    {
+        "id": 185,
+        "name_ar": "الشيخ حمود بن عبد الله آل خليفة",
+        "name_en": "Sheikh Humood bin Abdulla Al Khalifa",
+        "category": "Sports & Diplomatic Leader",
+        "description_ar": "شخصية رياضية ودبلوماسية، ساهم في قيادة المؤسسات الرياضية وشغل منصب سفير البحرين لدى المملكة العربية السعودية.",
+        "description_en": "A sports and diplomatic figure, contributed to leading sports institutions and served as Bahrain's Ambassador to Saudi Arabia.",
+        "notable_for": "Sports Leadership, Diplomacy, Public Service",
+        "image_url": "/public/figures/humood-bin-abdulla.jpg"
+    },
+    {
+        "id": 186,
+        "name_ar": "عبد الله الرويعي",
+        "name_en": "Abdulla Al-Rowaiei",
+        "category": "Athlete",
+        "description_ar": "عداء بحريني متميز حقق إنجازات في المسافات الطويلة والمتوسطة في البطولات القارية والإقليمية.",
+        "description_en": "A distinguished Bahraini runner who achieved successes in long and middle distances at continental and regional championships.",
+        "notable_for": "Athletics, Long-distance Running",
+        "image_url": "/public/figures/abdulla-al-rowaiei.jpg"
+    },
+    {
+        "id": 187,
+        "name_ar": "فاطمة عبد الرزاق",
+        "name_en": "Fatima Abdulrazaq",
+        "category": "Athlete (Para-olympic Gold)",
+        "description_ar": "بطلة بارالمبية بحرينية حققت الميدالية الذهبية في دفع الجلة في أولمبياد ريو 2016، وهي رمز للإرادة والتحدي.",
+        "description_en": "A Bahraini Paralympic champion who won the gold medal in shot put at the Rio 2016 Olympics, a symbol of will and challenge.",
+        "notable_for": "Para-olympic Gold, Athletics, Inspiration",
+        "image_url": "/public/figures/fatima-abdulrazaq.jpg"
+    },
+    {
+        "id": 188,
+        "name_ar": "أحمد مشيمع",
+        "name_en": "Ahmed Meshaima",
+        "category": "Athlete (Para-athlete Medalist)",
+        "description_ar": "رياضي بحريني من ذوي العزيمة حقق الميدالية الفضية في الألعاب البارالمبية في دفع الجلة وله سجل حافل بالإنجازات.",
+        "description_en": "A Bahraini athlete with determination who won the silver medal at the Paralympic Games in shot put, with a record full of achievements.",
+        "notable_for": "Para-athletics, Olympic Medalist, Sportsmanship",
+        "image_url": "/public/figures/ahmed-meshaima.jpg"
+    },
+    {
+        "id": 189,
+        "name_ar": "خالد بن فلاح",
+        "name_en": "Khalid Al Binfalah",
+        "category": "Athlete (Para-athlete)",
+        "description_ar": "بطل بحريني في رياضة ذوي العزيمة، حقق نجاحات عالمية في رمي القرص والرمح وساهم في رفع راية البحرين في المحافل الدولية.",
+        "description_en": "A Bahraini champion in para-sports, achieving global successes in discus and javelin throw, contributing to raising Bahrain's flag in international forums.",
+        "notable_for": "Para-athletics, Discus & Javelin, International Sports",
+        "image_url": "/public/figures/khalid-al-binfalah.jpg"
+    },
+    {
+        "id": 190,
+        "name_ar": "الشيخ عباس المهري",
+        "name_en": "Sheikh Abbas Al-Mahri",
+        "category": "Historical Religious Scholar",
+        "description_ar": "عالم دين بحريني تاريخي عُرف بفقاهته ودوره العلمي في المنطقة، وساهم في إثراء التراث العلمي الديني.",
+        "description_en": "A historical Bahraini religious scholar known for his jurisprudence and scholarly role in the region, contributing to enriching the religious scholarly heritage.",
+        "notable_for": "Religious Scholarship, Jurisprudence, History",
+        "image_url": "/public/figures/abbas-al-mahri.jpg"
+    },
+    {
+        "id": 191,
+        "name_ar": "السيد عبد الله الغريفي",
+        "name_en": "Sayyid Abdullah Al-Ghareefi",
+        "category": "Religious Leader",
+        "description_ar": "عالم دين بحريني بارز يُعد من الرموز الدينية والاجتماعية في المملكة، له دور في الدعوة والوعي الديني والإرشاد.",
+        "description_en": "A prominent Bahraini religious scholar considered a religious and social symbol in the Kingdom, playing a role in preaching, religious awareness, and guidance.",
+        "notable_for": "Religious Guidance, Social Leadership, Scholarship",
+        "image_url": "/public/figures/abdullah-al-ghareefi.jpg"
+    },
+    {
+        "id": 192,
+        "name_ar": "الشيخ محمد صالح العباس",
+        "name_en": "Sheikh Mohammed Saleh Al-Abbas",
+        "category": "Religious Scholar",
+        "description_ar": "عالم دين بحريني عُرف ببساطته وقربه من الناس ودوره في التعليم الديني التقليدي في القرى.",
+        "description_en": "A Bahraini religious scholar known for his simplicity, proximity to the people, and role in traditional religious education in the villages.",
+        "notable_for": "Religious Teaching, Community Service",
+        "image_url": "/public/figures/mohammed-saleh-al-abbas.jpg"
+    },
+    {
+        "id": 193,
+        "name_ar": "الشيخ سليمان المدني",
+        "name_en": "Sheikh Sulaiman Al-Madani",
+        "category": "Religious Leader & Judge",
+        "description_ar": "عالم دين وفقيه، شغل منصب قاضي في المحكمة الكبرى الشرعية الجعفرية، وكان شخصية اجتماعية ودينية ذات ثقل وأثر.",
+        "description_en": "A religious scholar and jurist, who served as a judge in the High Jaafari Sharia Court, and was a social and religious figure of weight and impact.",
+        "notable_for": "Judiciary, Religious Authority, Social Harmony",
+        "image_url": "/public/figures/sulaiman-al-madani.jpg"
+    },
+    {
+        "id": 194,
+        "name_ar": "الدكتور محمد الخزاعي",
+        "name_en": "Dr. Mohammed Al-Khozai",
+        "category": "Translator & Researcher",
+        "description_ar": "أكاديمي ومترجم وباحث بحريني، له اسهامات كبيرة في ترجمة الأدب والفكر، ويُعد من أبرز القامات الثقافية في المملكة.",
+        "description_en": "A Bahraini academic, translator, and researcher, with significant contributions in translating literature and thought, considered one of the most prominent cultural figures in the Kingdom.",
+        "notable_for": "Translation, Academic Research, Culture",
+        "image_url": "/public/figures/mohammed-al-khozai.jpg"
+    },
+    {
+        "id": 195,
+        "name_ar": "حسين الصباغ",
+        "name_en": "Hussain Al-Sabbagh",
+        "category": "Athlete & sports leader",
+        "description_ar": "لاعب تنیس بحريني دولي سابق، ساهم في نهضة اللعبة في المملكة وشغل مناصب إدارية في الاتحادات الرياضية.",
+        "description_en": "A former international Bahraini tennis player, contributing to the rise of the game in the Kingdom and holding administrative positions in sports associations.",
+        "notable_for": "Tennis, Sports Management, Player",
+        "image_url": "/public/figures/hussain-al-sabbagh.jpg"
+    },
+    {
+        "id": 196,
+        "name_ar": "أحمد الفردان (الرياضي)",
+        "name_en": "Ahmed Al-Fardan (Athlete)",
+        "category": "Sports Leader",
+        "description_ar": "شخصية رياضية بحرينية، ساهم في إدارة الأندية والاتحادات الرياضية وله دور في تطوير كرة القدم المحلية.",
+        "description_en": "A Bahraini sports figure, contributed to managing sports clubs and associations and played a role in developing local football.",
+        "notable_for": "Sports Management, Football Development",
+        "image_url": "/public/figures/ahmed-al-fardan-sports.jpg"
+    },
+    {
+        "id": 197,
+        "name_ar": "مروان عيد",
+        "name_en": "Marjan Eid",
+        "category": "Athlete (Coach)",
+        "description_ar": "لاعب كرة قدم ومدرب وطني بحريني سابق، قاد المنتخب في فترات هامة ويُعد من الكوادر الفنية الوطنية الخبيرة.",
+        "description_en": "A former national Bahraini football player and coach, leading the national team during important periods and considered one of the expert national technical cadres.",
+        "notable_for": "Football Coaching, National Team, Player",
+        "image_url": "/public/figures/marjan-eid.jpg"
+    },
+    {
+        "id": 198,
+        "name_ar": "سلمان عيسى",
+        "name_en": "Salman Isa",
+        "category": "Athlete",
+        "description_ar": "لاعب منتخب البحرين لكرة القدم السابق، اشتهر بسرعته الفائقة على الجناح وقدراته التهديفية، ويُعتبر من أبرز نجوم عصره.",
+        "description_en": "A former player for the Bahrain national football team, famous for his extreme speed on the wing and scoring abilities, considered one of the most prominent stars of his era.",
+        "notable_for": "Football, Speed, National Team",
+        "image_url": "/public/figures/salman-isa-footballer.jpg"
+    },
+    {
+        "id": 199,
+        "name_ar": "حسين بابا",
+        "name_en": "Hussain Baba",
+        "category": "Athlete",
+        "description_ar": "لاعب كرة قدم بحريني دولي سابق، صخرة الدفاع في المنتخب لسنوات طويلة، خاض تجارب احترافية واسعة في الدوريات الخليجية.",
+        "description_en": "A former international Bahraini footballer, the rock of the national team's defense for many years, with extensive professional experiments in Gulf leagues.",
+        "notable_for": "Football Defense, Professionalism, Career Success",
+        "image_url": "/public/figures/hussain-baba.jpg"
+    },
+    {
+        "id": 200,
+        "name_ar": "محمود عبد الرحمن (رينغو)",
+        "name_en": "Mahmood Abdulrahman (Ringo)",
+        "category": "Athlete",
+        "description_ar": "لاعب كرة قدم بحريني متميز، اشتهر بلقب 'رينغو' وبتسديداته القوية المتقنة، ومثل البحرين في أهم البطولات القارية.",
+        "description_en": "A distinguished Bahraini footballer, famous for the nickname 'Ringo' and his powerful, precise shots, representing Bahrain in the most important continental championships.",
+        "notable_for": "Football, Long-range Shots, National Team",
+        "image_url": "/public/figures/mahmood-Abdulrahman-ringo.jpg"
+    }
+]
