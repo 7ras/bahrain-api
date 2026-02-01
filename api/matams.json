@@ -1698,5 +1698,2555 @@
         "images": [
             "/public/matams/matam_suqaiya.jpg"
         ]
+    },
+    {
+        "id": 101,
+        "name_ar": "مأتم حسن محمود (المنامة)",
+        "name_en": "Matam Hassan Mahmoud",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2335,
+            "lng": 50.5745
+        },
+        "description_ar": "يقع في فريج المخارقة بالمنامة، ويعد من المآتم العائلية القديمة التي تساهم في النسيج الاجتماعي للعاصمة.",
+        "description_en": "Located in Fareeq Al-Makharqa, Manama, one of the old family matams contributing to the capital's social fabric.",
+        "history": "A long-standing religious site in the heart of old Manama.",
+        "images": [
+            "/public/matams/matam_hassan_mahmoud.jpg"
+        ]
+    },
+    {
+        "id": 102,
+        "name_ar": "مأتم أبوعقلين",
+        "name_en": "Matam Abu Aqleen",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2342,
+            "lng": 50.5752
+        },
+        "description_ar": "من مآتم المنامة التاريخية في حي المخارقة، يشتهر بعراقته ودوره في تنظيم الشعائر الدينية المركزية.",
+        "description_en": "A historic Manama matam in Al-Makharqa, known for its antiquity and role in central religious rituals.",
+        "history": "Deeply embedded in the mourning traditions of the capital.",
+        "images": [
+            "/public/matams/matam_abu_aqleen.jpg"
+        ]
+    },
+    {
+        "id": 103,
+        "name_ar": "مأتم الأغتم",
+        "name_en": "Matam Al-Aghtam",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2318,
+            "lng": 50.5735
+        },
+        "description_ar": "مأتم عريق في المنامة يتبع لإحدى عوائلها القديمة، ويساهم في الحفاظ على الموروث الديني للحي.",
+        "description_en": "A historic Manama matam belonging to one of its old families, helping preserve the neighborhood's religious heritage.",
+        "history": "Associated with the early merchant families of the city.",
+        "images": [
+            "/public/matams/matam_aghtam.jpg"
+        ]
+    },
+    {
+        "id": 104,
+        "name_ar": "مأتم الرسول الأعظم (المنامة)",
+        "name_en": "Matam Al-Rasoul Al-A'atham",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2305,
+            "lng": 50.5715
+        },
+        "description_ar": "مأتم مخصص لإحياء ذكرى النبي المصطفى وأهل بيته، ويعد مركزاً لالتقاء المؤمنين في المناسبات الكبرى في العاصمة.",
+        "description_en": "A matam dedicated to the Prophet and his progeny, serving as a gathering center for major occasions in the capital.",
+        "history": "Established to host central religious events in Manama.",
+        "images": [
+            "/public/matams/matam_rasoul_atham_manama.jpg"
+        ]
+    },
+    {
+        "id": 105,
+        "name_ar": "مأتم الساكن",
+        "name_en": "Matam Al-Sakin",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2325,
+            "lng": 50.5772
+        },
+        "description_ar": "أحد مآتم المنامة القديمة في فريج المخارقة، يمثل جزءاً من الذاكرة العزائية لأهالي الحي والمنطقة المحيطة.",
+        "description_en": "One of old Manama's matams in Al-Makharqa, representing part of the neighborhood's collective mourning memory.",
+        "history": "A key coordinate in the historical mourning network of Manama.",
+        "images": [
+            "/public/matams/matam_sakin.jpg"
+        ]
+    },
+    {
+        "id": 106,
+        "name_ar": "مأتم سيد جعفر",
+        "name_en": "Matam Sayyid Ja'afar",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2338,
+            "lng": 50.5785
+        },
+        "description_ar": "مأتم عريق في المنامة، يشتهر بكونه من المراكز الروحية التي تجمع أهالي الفريج في المناسبات الدينية.",
+        "description_en": "A historic matam in Manama, known as one of the spiritual centers gathering neighborhood residents.",
+        "history": "Associated with the scholarly and Sayyid families of old Manama.",
+        "images": [
+            "/public/matams/matam_sayyid_jaafar.jpg"
+        ]
+    },
+    {
+        "id": 107,
+        "name_ar": "مأتم السماكين",
+        "name_en": "Matam Al-Samakin",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2312,
+            "lng": 50.5765
+        },
+        "description_ar": "مأتم تاريخي في المنامة ارتبط في بداياته بمهنة السماكين، ويعد رمزاً للتلاحم الاجتماعي والمهني في العاصمة.",
+        "description_en": "A historic Manama matam originally linked to the fishmonger profession, symbolizing social and professional cohesion in the capital.",
+        "history": "Shows the historical link between professional guilds and religious institutions in Bahrain.",
+        "images": [
+            "/public/matams/matam_samakin.jpg"
+        ]
+    },
+    {
+        "id": 108,
+        "name_ar": "مأتم دار الحسين (الخارجية)",
+        "name_en": "Matam Dar Al-Hussain",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1555,
+            "lng": 50.6095
+        },
+        "description_ar": "يقع في قرية الخارجية بجزيرة سترة، ويمثل مركزاً حيوياً للأنشطة الدينية والاجتماعية لأهالي المنطقة.",
+        "description_en": "Located in Al-Kharijiya village on Sitra Island, acting as a vital center for religious and social activities.",
+        "history": "Expanded to meet the spiritual needs of the growing population in Sitra.",
+        "images": [
+            "/public/matams/matam_dar_hussain_sitra.jpg"
+        ]
+    },
+    {
+        "id": 109,
+        "name_ar": "مأتم الإصلاح (سترة)",
+        "name_en": "Matam Al-Islah",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1522,
+            "lng": 50.6055
+        },
+        "description_ar": "يخدم أهالي منطقة القرية في سترة، ويشتهر بدوره في تعزيز القيم التربوية والدينية في المجتمع المحلي.",
+        "description_en": "Serves the Al-Qariya area in Sitra, known for its role in promoting religious and educational values.",
+        "history": "A center for local reformist and social initiatives in the village.",
+        "images": [
+            "/public/matams/matam_islah_sitra.jpg"
+        ]
+    },
+    {
+        "id": 110,
+        "name_ar": "مأتم الجنوبي (سفالة)",
+        "name_en": "Matam Al-Janubi (Sufala)",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.1485,
+            "lng": 50.6125
+        },
+        "description_ar": "من مآتم قرية سفالة العريقة في سترة، يمثل مركزاً تجمعياً هاماً للجهة الجنوبية من الجزيرة.",
+        "description_en": "One of the historic matams in Sufala village, Sitra, serving as an important gathering center for the south of the island.",
+        "history": "Established in 1956 to serve the expanding residential area of Sufala.",
+        "images": [
+            "/public/matams/matam_eker_south_sufala.jpg"
+        ]
+    },
+    {
+        "id": 111,
+        "name_ar": "مأتم الشباب (سفالة)",
+        "name_en": "Matam Al-Shabab (Sufala)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1472,
+            "lng": 50.6135
+        },
+        "description_ar": "مأتم مخصص لشباب قرية سفالة في سترة، يركز على إشراك الأجيال الصاعدة في إحياء الشعائر الدينية.",
+        "description_en": "A matam dedicated to the youth of Sufala village in Sitra, focusing on involving younger generations in rituals.",
+        "history": "Founded as part of a youth-driven movement to modernize religious outreach in the 20th century.",
+        "images": [
+            "/public/matams/matam_shabab_sufala.jpg"
+        ]
+    },
+    {
+        "id": 112,
+        "name_ar": "مأتم آل فرحان (سترة)",
+        "name_en": "Matam Aal Farhan",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1585,
+            "lng": 50.6155
+        },
+        "description_ar": "يقع في قرية مهزة بجزيرة سترة، ويتبع لعائلة آل فرحان الكريمة ويخدم تجمعاً سكانياً واسعاً.",
+        "description_en": "Located in Mahazza village on Sitra Island, belonging to the Aal Farhan family and serving a large residential area.",
+        "history": "A family-based institution that has become a communal hub in Sitra.",
+        "images": [
+            "/public/matams/matam_aal_farhan.jpg"
+        ]
+    },
+    {
+        "id": 113,
+        "name_ar": "مأتم آل رضي (مركوبان)",
+        "name_en": "Matam Aal Radhi",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.1612,
+            "lng": 50.6185
+        },
+        "description_ar": "من أقدم المآتم في جزيرة سترة، يقع في مركوبان ويعود تاريخ تأسيسه إلى مطلع القرن التاسع عشر.",
+        "description_en": "One of the oldest matams on Sitra Island, located in Markuban and dating back to the early 19th century.",
+        "history": "Founded around 1806, representing the depth of religious institutions in Sitra.",
+        "images": [
+            "/public/matams/matam_aal_radhi.jpg"
+        ]
+    },
+    {
+        "id": 114,
+        "name_ar": "مأتم العطار (مركوبان)",
+        "name_en": "Matam Al-Attar",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.1625,
+            "lng": 50.6195
+        },
+        "description_ar": "مأتم تاريخي آخر في مركوبان بسترة، يشتهر بعراقته التي تتجاوز القرنين من الزمان ودوره في النسيج الاجتماعي.",
+        "description_en": "Another historical matam in Markuban, Sitra, famous for its antiquity spanning over two centuries.",
+        "history": "Established in 1806, parallel to Matam Aal Radhi, serving the local families.",
+        "images": [
+            "/public/matams/matam_attar.jpg"
+        ]
+    },
+    {
+        "id": 115,
+        "name_ar": "مأتم الموسوي (جدحفص)",
+        "name_en": "Matam Al-Mosawi",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2235,
+            "lng": 50.5425
+        },
+        "description_ar": "من مآتم جدحفص البارزة، يجمع أهالي المنطقة المحيطة ويشتهر بمجالسه الحسينية العامرة طوال العام.",
+        "description_en": "A prominent matam in Jidhafs, gathering residents and known for its year-round religious gatherings.",
+        "history": "Associated with the prominent cleric families of Jidhafs.",
+        "images": [
+            "/public/matams/matam_mosawi_jidhafs.jpg"
+        ]
+    },
+    {
+        "id": 116,
+        "name_ar": "مأتم الكويتي (جدحفص)",
+        "name_en": "Matam Al-Kuweiti",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2242,
+            "lng": 50.5435
+        },
+        "description_ar": "يخدم أهالي فريج الكويتي في مدينة جدحفص، واشتهر باسمه نسبة إلى عوائل بحرينية لها امتداد تاريخي.",
+        "description_en": "Serves the Al-Kuweiti district in Jidhafs city, named after families with deep historical roots.",
+        "history": "A testament to the diverse family-based neighborhoods in old Jidhafs.",
+        "images": [
+            "/public/matams/matam_kuweiti.jpg"
+        ]
+    },
+    {
+        "id": 117,
+        "name_ar": "مأتم العالي (جدحفص)",
+        "name_en": "Matam Al-Aali (Jidhafs)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2252,
+            "lng": 50.5445
+        },
+        "description_ar": "مأتم يخدم شريحة واسعة من أهالي جدحفص، ويشكل ركيزة للأنشطة والاحتفالات الدينية في المدينة.",
+        "description_en": "Serves a wide segment of Jidhafs residents, acting as a pillar for religious activities and celebrations.",
+        "history": "Founded to accommodate the growing population of central Jidhafs.",
+        "images": [
+            "/public/matams/matam_aali_jidhafs.jpg"
+        ]
+    },
+    {
+        "id": 118,
+        "name_ar": "مأتم الصديقي (جدحفص)",
+        "name_en": "Matam Al-Siddiqi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2262,
+            "lng": 50.5455
+        },
+        "description_ar": "من المآتم النشطة في مدينة جدحفص، يساهم في إحياء المناسبات الدينية برؤية اجتماعية وتربوية.",
+        "description_en": "An active matam in Jidhafs city, contributing to religious commemorations with a social and educational vision.",
+        "history": "Named after the Siddiqi family who played a role in the city's spiritual life.",
+        "images": [
+            "/public/matams/matam_siddiqi.jpg"
+        ]
+    },
+    {
+        "id": 119,
+        "name_ar": "مأتم القريشي (جدحفص)",
+        "name_en": "Matam Al-Quraishi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2272,
+            "lng": 50.5465
+        },
+        "description_ar": "يخدم تجمعاً سكنياً في مدينة جدحفص، ويعد مركزاً لالتقاء الأهالي في الأفراح والأحزان والمناسبات الدينية.",
+        "description_en": "Serves a residential cluster in Jidhafs, acting as a gathering center for both joyful and solemn occasions.",
+        "history": "Reflects the traditional communal bonding of old Bahraini cities.",
+        "images": [
+            "/public/matams/matam_quraishi.jpg"
+        ]
+    },
+    {
+        "id": 120,
+        "name_ar": "مأتم الكبازية (جدحفص)",
+        "name_en": "Matam Al-Kabbaziya",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2282,
+            "lng": 50.5475
+        },
+        "description_ar": "مأتم عريق في جدحفص يرتبط تاريخياً باسم مهنة أو عائلة قديمة بالمنطقة، ويحافظ على تقاليده العزائية.",
+        "description_en": "A historic matam in Jidhafs historically linked to a local trade or family, preserving its mourning traditions.",
+        "history": "A long-standing landmark in the northern alleys of Jidhafs.",
+        "images": [
+            "/public/matams/matam_kabbaziya.jpg"
+        ]
+    },
+    {
+        "id": 121,
+        "name_ar": "مأتم السناقيس (جدحفص)",
+        "name_en": "Matam Al-Sanaqis",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2292,
+            "lng": 50.5485
+        },
+        "description_ar": "يخدم أهالي حي السناقيس في جدحفص، وهو من مآتم المنطقة التي تشتهر بحضورها القوي في المواكب.",
+        "description_en": "Serves the Al-Sanaqis neighborhood in Jidhafs, known for its strong presence in religious processions.",
+        "history": "Deeply integrated into the localized mourning fabric of the city.",
+        "images": [
+            "/public/matams/matam_sanaqis.jpg"
+        ]
+    },
+    {
+        "id": 122,
+        "name_ar": "مأتم الحاج منصور (جدحفص)",
+        "name_en": "Matam Haji Mansoor",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2238,
+            "lng": 50.5405
+        },
+        "description_ar": "مأتم عائلي يخدم منطقة واسعة في جدحفص، أسسه الوجيه الحاج منصور ليكون مقصداً للمؤمنين في المدينة.",
+        "description_en": "A family-founded matam serving a wide area in Jidhafs, established by Haji Mansoor as a spiritual destination.",
+        "history": "Representative of the personal endowments for communal religious service.",
+        "images": [
+            "/public/matams/matam_haji_mansoor.jpg"
+        ]
+    },
+    {
+        "id": 123,
+        "name_ar": "مأتم النور (جدحفص)",
+        "name_en": "Matam Al-Noor",
+        "type": "Matam",
+        "category": "Modern Community House",
+        "location": {
+            "lat": 26.2248,
+            "lng": 50.5415
+        },
+        "description_ar": "مأتم حديث في جدحفص، يتميز بتنظيمه للفعاليات الثقافية والتربوية ويسعى لاستقطاب جيل الشباب.",
+        "description_en": "A modern matam in Jidhafs, characterized by organizing cultural and educational events aimed at youth.",
+        "history": "Established in recent decades to expand the religious infrastructure of Jidhafs.",
+        "images": [
+            "/public/matams/matam_noor.jpg"
+        ]
+    },
+    {
+        "id": 124,
+        "name_ar": "مأتم الإمام الباقر (جدحفص)",
+        "name_en": "Matam Al-Imam Al-Baqir",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2258,
+            "lng": 50.5425
+        },
+        "description_ar": "يخدم أهالي منطقة جدحفص والسهلة، ويعد مركزاً مهماً لإحياء ذكريات أئمة أهل البيت عليهم السلام.",
+        "description_en": "Serves the Jidhafs and Sehla area, acting as an important center for commemorating the Imams.",
+        "history": "Named after the Fifth Imam, reflecting the scholarly emphasis of the area.",
+        "images": [
+            "/public/matams/matam_baqir_jidhafs.jpg"
+        ]
+    },
+    {
+        "id": 125,
+        "name_ar": "مأتم قلالي الشرقي",
+        "name_en": "Matam Galali Al-Sharqi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2785,
+            "lng": 50.6455
+        },
+        "description_ar": "يقع في الجهة الشرقية من قرية قلالي، ويخدم أهالي المنطقة المحيطة في أقصى شمال جزيرة المحرق.",
+        "description_en": "Located in eastern Galali village, serving residents in the far north of Muharraq Island.",
+        "history": "Historically significant as the primary religious center for the coastal community of Galali.",
+        "images": [
+            "/public/matams/matam_galali_east.jpg"
+        ]
+    },
+    {
+        "id": 126,
+        "name_ar": "مأتم قلالي الغربي",
+        "name_en": "Matam Galali Al-Gharbi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2792,
+            "lng": 50.6405
+        },
+        "description_ar": "المركز الديني لأهالي الجهة الغربية من قلالي، ويعد صرحاً إيمانياً يجمع أبناء القرية الصغير والمترابطة.",
+        "description_en": "The religious center for the western side of Galali, acting as a spiritual edifice for the close-knit village.",
+        "history": "Complementary to the eastern matam in serving the expanded village population.",
+        "images": [
+            "/public/matams/matam_galali_west.jpg"
+        ]
+    },
+    {
+        "id": 127,
+        "name_ar": "مأتم الحد الشمالي",
+        "name_en": "Matam Al-Hidd Al-Shamali",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2555,
+            "lng": 50.6585
+        },
+        "description_ar": "يقع في مدينة الحد العريقة، ويخدم أهالي المنطقة الشمالية من المدينة التي تمتاز بتراثها البحري والأصيل.",
+        "description_en": "Located in the historic city of Hidd, serving the northern part of the city known for its maritime heritage.",
+        "history": "A long-standing marker of the religious and social presence in Hidd.",
+        "images": [
+            "/public/matams/matam_hidd_north.jpg"
+        ]
+    },
+    {
+        "id": 128,
+        "name_ar": "مأتم الحد الجنوبي",
+        "name_en": "Matam Al-Hidd Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2485,
+            "lng": 50.6615
+        },
+        "description_ar": "يخدم الجهة الجنوبية من مدينة الحد، ويمثل ركيزة للأنشطة واللقاءات الاجتماعية لأهالي تلك المنطقة الحيوية.",
+        "description_en": "Serves the southern side of Hidd city, acting as a pillar for social activities and meetings in that vital area.",
+        "history": "Built as Hidd expanded southward to accommodate new residents.",
+        "images": [
+            "/public/matams/matam_hidd_south.jpg"
+        ]
+    },
+    {
+        "id": 129,
+        "name_ar": "مأتم عراد الكبير",
+        "name_en": "Matam Arad Al-Kabeer",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2585,
+            "lng": 50.6352
+        },
+        "description_ar": "المركز الرئيسي والجامع للفعاليات الدينية في منطقة عراد الكبيرة، يشتهر بنشاطاته المتنوعة وحضوره القوي.",
+        "description_en": "The main and collective center for religious events in the large Arad area, known for its diverse activities.",
+        "history": "A centrally located institution serving one of Muharraq's most populous districts.",
+        "images": [
+            "/public/matams/matam_arad_kabeer.jpg"
+        ]
+    },
+    {
+        "id": 130,
+        "name_ar": "مأتم عراد القديم",
+        "name_en": "Matam Arad Al-Qadeem",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2552,
+            "lng": 50.6322
+        },
+        "description_ar": "يقع في قلب حي عراد التاريخي بالقرب من القلعة، ويمتاز بعراقته وارتباطه بذاكرة أهالي القرية القدماء.",
+        "description_en": "Located in the heart of historic Arad near the fort, distinguished by its antiquity and link to the village's ancestors.",
+        "history": "A spiritual link to the medieval and agricultural history of Arad.",
+        "images": [
+            "/public/matams/matam_arad_old.jpg"
+        ]
+    },
+    {
+        "id": 131,
+        "name_ar": "مأتم البسيتين",
+        "name_en": "Matam Busaiteen",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2685,
+            "lng": 50.6055
+        },
+        "description_ar": "يخدم أهالي منطقة البسيتين في محافظة المحرق، ويعد مركزاً لالتقاء الأهالي وإحياء المناسبات الدينية في الحي الحديث.",
+        "description_en": "Serves the Busaiteen area in Muharraq, acting as a gathering center for local residents in the modern district.",
+        "history": "Established to provide a local religious space for the residents of northern Muharraq.",
+        "images": [
+            "/public/matams/matam_busaiteen.jpg"
+        ]
+    },
+    {
+        "id": 132,
+        "name_ar": "مأتم البرهامة",
+        "name_en": "Matam Al-Burhama",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2155,
+            "lng": 50.5525
+        },
+        "description_ar": "يخدم أهالي قرية البرهامة الصغيرة في ضواحي المنامة، ويعد ركيزة أساسية للعمل الاجتماعي والديني في القرية.",
+        "description_en": "Serves the small village of Al-Burhama on the outskirts of Manama, acting as a primary pillar for social and religious work.",
+        "history": "Maintains the close-knit community identity of Al-Burhama.",
+        "images": [
+            "/public/matams/matam_burhama.jpg"
+        ]
+    },
+    {
+        "id": 133,
+        "name_ar": "مأتم المنال (البرهامة)",
+        "name_en": "Matam Al-Manal",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2165,
+            "lng": 50.5545
+        },
+        "description_ar": "مأتم يخدم تجمعاً سكنياً في منطقة البرهامة، ويساهم في تنويع الأنشطة الدينية والتربوية لأهالي المنطقة.",
+        "description_en": "A matam serving a residential cluster in the Burhama area, diversifying religious and educational activities.",
+        "history": "Founded to expand the communal spaces in the developing district.",
+        "images": [
+            "/public/matams/matam_manal.jpg"
+        ]
+    },
+    {
+        "id": 134,
+        "name_ar": "مأتم النعيم (البرهامة)",
+        "name_en": "Matam Al-Naim (Burhama)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2145,
+            "lng": 50.5515
+        },
+        "description_ar": "يخدم أهالي فريج النعيم في البرهامة، ويعتبر من المراكز النشطة في إقامة الشعائر الدينية الموسمية.",
+        "description_en": "Serves the Naeem neighborhood within Burhama, considered an active center for seasonal rituals.",
+        "history": "Deeply linked to families originally from Naeem district residing in Burhama.",
+        "images": [
+            "/public/matams/matam_naim_burhama.jpg"
+        ]
+    },
+    {
+        "id": 135,
+        "name_ar": "مأتم كرزكان الجنوبي",
+        "name_en": "Matam Karzakan Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1255,
+            "lng": 50.4825
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية كرزكان الكبيرة، ويعد معلماً اجتماعياً يجمع أهالي المنطقة الغربية.",
+        "description_en": "Serves the southern part of the large Karzakan village, acting as a social landmark for the western region.",
+        "history": "Integral to the social cohesion of the southern districts of Karzakan.",
+        "images": [
+            "/public/matams/matam_karzakan_south.jpg"
+        ]
+    },
+    {
+        "id": 136,
+        "name_ar": "مأتم كرزكان الشمالي",
+        "name_en": "Matam Karzakan Al-Shamali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1305,
+            "lng": 50.4885
+        },
+        "description_ar": "المركز الديني لأهالي الجهة الشمالية من كرزكان، يساهم بفعالية في تنظيم المواكب العزائية والفعاليات التربوية.",
+        "description_en": "The religious center for the northern part of Karzakan, effectively organizing processions and educational events.",
+        "history": "Reflects the geographic spread and communal needs of the village.",
+        "images": [
+            "/public/matams/matam_karzakan_north.jpg"
+        ]
+    },
+    {
+        "id": 137,
+        "name_ar": "مأتم المالكية الشمالي",
+        "name_en": "Matam Al-Malkiya Al-Shamali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1115,
+            "lng": 50.4815
+        },
+        "description_ar": "يقع في الجهة الشمالية من قرية المالكية الساحلية، ويعد صرحاً إيمانياً يجمع أهالي القرية في مختلف المناسبات.",
+        "description_en": "Located in the northern part of coastal Malkiya village, acting as a spiritual edifice for the village.",
+        "history": "Key site for communal bonding in the northern residential clusters of Malkiya.",
+        "images": [
+            "/public/matams/matam_malkiya_north.jpg"
+        ]
+    },
+    {
+        "id": 138,
+        "name_ar": "مأتم المالكية الجنوبي",
+        "name_en": "Matam Al-Malkiya Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1055,
+            "lng": 50.4755
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية المالكية، ويرتبط بتاريخ القرية الزراعي والبحري القديم عبر أجيال متلاحقة.",
+        "description_en": "Serves the southern side of Malkiya village, linked to the village's agricultural and maritime history.",
+        "history": "Reflects the long traditions of the Malkiya community.",
+        "images": [
+            "/public/matams/matam_malkiya_south.jpg"
+        ]
+    },
+    {
+        "id": 139,
+        "name_ar": "مأتم السداد",
+        "name_en": "Matam Al-Sadad",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.0955,
+            "lng": 50.4855
+        },
+        "description_ar": "المأتم الوحيد والرئيسي في قرية السداد، يمثل المركز الوجداني والاجتماعي الجامع لأهالي القرية الصغير والمترابطة.",
+        "description_en": "The unique and primary matam in Sadad village, representing the collective social and emotional center for the village.",
+        "history": "Historically the main gathering spot for the Sadad community.",
+        "images": [
+            "/public/matams/matam_sadad.jpg"
+        ]
+    },
+    {
+        "id": 140,
+        "name_ar": "مأتم شهركان الغربي",
+        "name_en": "Matam Shahrakkan Al-Gharbi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1112,
+            "lng": 50.4805
+        },
+        "description_ar": "يخدم الجهة الغربية من قرية شهركان، ويساهم في توطيد الأواصر الاجتماعية من خلال المناسبات الدينية واللقاءات العامة.",
+        "description_en": "Serves the western part of Shahrakkan village, helping consolidate social bonds through religious events.",
+        "history": "Parallel to the central matam, serving the expanding western side of the village.",
+        "images": [
+            "/public/matams/matam_shahrakkan_west.jpg"
+        ]
+    },
+    {
+        "id": 141,
+        "name_ar": "مأتم الهملة الشرقي",
+        "name_en": "Matam Al-Hamala Al-Sharqi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1555,
+            "lng": 50.4755
+        },
+        "description_ar": "يخدم أهالي الجهة الشرقية من قرية الهملة، ويعد مركزاً لالتقاء المؤمنين وإقامة الشعائر الدينية المختلفة بالمنطقة.",
+        "description_en": "Serves the eastern part of Hamala village, acting as a gathering center for rituals.",
+        "history": "Built as Hamala expanded towards the east to serve new residential blocks.",
+        "images": [
+            "/public/matams/matam_hamala_east.jpg"
+        ]
+    },
+    {
+        "id": 142,
+        "name_ar": "مأتم بوري الجنوبي",
+        "name_en": "Matam Al-Buri Al-Janubi",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.1655,
+            "lng": 50.4955
+        },
+        "description_ar": "يقع في قرية بوري العريقة، ويخدم الجهة الجنوبية ويمجّد بساطة وقيم المجتمع القروي البحريني الأصيل.",
+        "description_en": "Located in the historic village of Buri, serving the southern side and honoring traditional Bahraini village values.",
+        "history": "Deeply linked to the agricultural past of Buri.",
+        "images": [
+            "/public/matams/matam_buri_south.jpg"
+        ]
+    },
+    {
+        "id": 143,
+        "name_ar": "مأتم بوري الشمالي",
+        "name_en": "Matam Al-Buri Al-Shamali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1712,
+            "lng": 50.4985
+        },
+        "description_ar": "يخدم الجهة الشمالية من بوري، ويعد من المآتم الناشطة التي تحافظ على الترابط الاجتماعي والديني لأهالي القرية.",
+        "description_en": "Serves the northern side of Buri, an active matam preserving the social and religious cohesion of the village.",
+        "history": "Associated with the development of northern Buri as a residential area.",
+        "images": [
+            "/public/matams/matam_buri_north.jpg"
+        ]
+    },
+    {
+        "id": 144,
+        "name_ar": "مأتم سلماباد الكبير",
+        "name_en": "Matam Salmabad Al-Kabeer",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1625,
+            "lng": 50.5355
+        },
+        "description_ar": "المأتم الرئيسي في قرية سلماباد، يتميز بموقعه الاستراتيجي في وسط البحرين ودوره في جمع أهالي المنطقة.",
+        "description_en": "The primary matam in Salmabad village, distinguished by its strategic location in central Bahrain.",
+        "history": "A key node for religious services in the central governorate.",
+        "images": [
+            "/public/matams/matam_salmabad_kabeer.jpg"
+        ]
+    },
+    {
+        "id": 145,
+        "name_ar": "مأتم السيف",
+        "name_en": "Matam Al-Seef",
+        "type": "Matam",
+        "category": "Modern Community House",
+        "location": {
+            "lat": 26.2412,
+            "lng": 50.5415
+        },
+        "description_ar": "مأتم يخدم القاطنين والموظفين في منطقة السيف الحديثة، ويمثل واحة روحية وسط النهضة العمرانية والتجارية.",
+        "description_en": "A matam serving residents and employees in the modern Seef area, representing a spiritual oasis amidst development.",
+        "history": "Established to provide religious services in the new commercial district.",
+        "images": [
+            "/public/matams/matam_seef.jpg"
+        ]
+    },
+    {
+        "id": 146,
+        "name_ar": "مأتم الحورة",
+        "name_en": "Matam Al-Hoora",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2352,
+            "lng": 50.5885
+        },
+        "description_ar": "من مآتم المنامة العريقة في حي الحورة، يشتهر بتنوع رواده وعلاقاته القوية مع أهالي النبك والمناطق المجاورة بالعاصمة.",
+        "description_en": "One of Manama's historic matams in the Hoora district, known for its diverse visitors and strong ties to neighboring capital areas.",
+        "history": "A long-standing representative of the multicultural fabric of Hoora.",
+        "images": [
+            "/public/matams/matam_hoora.jpg"
+        ]
+    },
+    {
+        "id": 147,
+        "name_ar": "مأتم القضيبية",
+        "name_en": "Matam Al-Qudaibiya",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2225,
+            "lng": 50.5855
+        },
+        "description_ar": "المأتم الرئيسي لمنطقة القضيبية بالمنامة، يخدم أهالي الحي ويوفر مكاناً للالتقاء في مختلف المناسبات الدينية والوطنية.",
+        "description_en": "The main matam for the Qudaibiya area in Manama, serving residents and providing a meeting space for all occasions.",
+        "history": "Integral to the social life of the historic Qudaibiya district.",
+        "images": [
+            "/public/matams/matam_qudaibiya.jpg"
+        ]
+    },
+    {
+        "id": 148,
+        "name_ar": "مأتم الغدير (القضيبية)",
+        "name_en": "Matam Al-Ghadir",
+        "type": "Matam",
+        "category": "Modern Community House",
+        "location": {
+            "lat": 26.2215,
+            "lng": 50.5845
+        },
+        "description_ar": "مأتم ناشط في منطقة القضيبية، يركز على إحياء ذكرى عيد الغدير الأغر ومختلف مناسبات أهل البيت بروح عصرية.",
+        "description_en": "An active matam in Qudaibiya, focusing on commemorating Eid Al-Ghadir and various Imamate occasions.",
+        "history": "A newer addition to the religious services in central Manama.",
+        "images": [
+            "/public/matams/matam_ghadir_qudaibiya.jpg"
+        ]
+    },
+    {
+        "id": 149,
+        "name_ar": "مأتم السقية الجنوبي",
+        "name_en": "Matam Al-Seqaya Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2165,
+            "lng": 50.5705
+        },
+        "description_ar": "يخدم الجهة الجنوبية من منطقة السقية بالعاصمة، ويعد ركيزة أساسية للأنشطة واللقاءات الدينية في الحي.",
+        "description_en": "Serves the southern side of the Seqaya district in the capital, acting as a primary pillar for neighborhood religious work.",
+        "history": "Reflects the residential growth of the Seqaya area.",
+        "images": [
+            "/public/matams/matam_seqaya_south.jpg"
+        ]
+    },
+    {
+        "id": 150,
+        "name_ar": "مأتم السهلة الغربي",
+        "name_en": "Matam Al-Sehla Al-Gharbi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2055,
+            "lng": 50.5255
+        },
+        "description_ar": "يخدم الجهة الغربية من منطقة السهلة، ويعد مركزاً لالتقاء المؤمنين وإقامة الشعائر الدينية الموسمية لأهالي القرى المحيطة.",
+        "description_en": "Serves the western part of the Sehla area, acting as a gathering center for seasonal rituals for surrounding villages.",
+        "history": "Built to serve the expanding residential needs of the western Sehla district.",
+        "images": [
+            "/public/matams/matam_sehla_west.jpg"
+        ]
+    },
+    {
+        "id": 151,
+        "name_ar": "مأتم الصادق (جدحفص)",
+        "name_en": "Matam Al-Sadiq (Jidhafs)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2245,
+            "lng": 50.5432
+        },
+        "description_ar": "يخدم أهالي مدينة جدحفص، ويركز على الأنشطة الثقافية والمحاضرات الدينية التوعوية.",
+        "description_en": "Serves residents of Jidhafs, focusing on cultural activities and educational religious lectures.",
+        "history": "A modern center for discourse in the heart of Jidhafs.",
+        "images": [
+            "/public/matams/matam_sadiq_jidhafs.jpg"
+        ]
+    },
+    {
+        "id": 152,
+        "name_ar": "مأتم الإمام الهادي (جدحفص)",
+        "name_en": "Matam Al-Imam Al-Hadi (Jidhafs)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2255,
+            "lng": 50.5442
+        },
+        "description_ar": "مركز ديني في جدحفص يحيي مناسبات أهل البيت بمشاركة واسعة من أهالي المدينة والقرى المجاورة.",
+        "description_en": "A religious center in Jidhafs commemorating Imamate occasions with broad participation.",
+        "history": "Deeply integrated into the spiritual network of the Jidhafs district.",
+        "images": [
+            "/public/matams/matam_hadi_jidhafs.jpg"
+        ]
+    },
+    {
+        "id": 153,
+        "name_ar": "مأتم الزهراء (جدحفص)",
+        "name_en": "Matam Al-Zahra (Jidhafs)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2265,
+            "lng": 50.5452
+        },
+        "description_ar": "من المآتم النشطة في مدينة جدحفص، يشتهر ببرامجه المخصصة للنساء والناشئة.",
+        "description_en": "An active Jidhafs matam known for programs dedicated to women and children.",
+        "history": "Founded to provide specialized religious services in the central city.",
+        "images": [
+            "/public/matams/matam_zahra_jidhafs.jpg"
+        ]
+    },
+    {
+        "id": 154,
+        "name_ar": "مأتم المجتبى (جدحفص)",
+        "name_en": "Matam Al-Mujtaba (Jidhafs)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2275,
+            "lng": 50.5462
+        },
+        "description_ar": "يخدم فريج المجتبى في جدحفص، ويعد ركيزة لدعم التواصل الجماعي بين أهالي الحي.",
+        "description_en": "Serves Al-Mujtaba neighborhood in Jidhafs, acting as a pillar for community bonding.",
+        "history": "Established during the city's residential expansion in the late 20th century.",
+        "images": [
+            "/public/matams/matam_mujtaba_jidhafs.jpg"
+        ]
+    },
+    {
+        "id": 155,
+        "name_ar": "مأتم الحسن (جدحفص)",
+        "name_en": "Matam Al-Hassan (Jidhafs)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.5472
+        },
+        "description_ar": "يقع في الضواحي الشمالية لجدحفص، ويوفر مساحة لإقامة المجالس الحسينية والأنشطة التربوية.",
+        "description_en": "Located in Jidhafs' northern outskirts, providing space for religious gatherings and educational activities.",
+        "history": "Part of the expanding religious infrastructure of the Greater Jidhafs area.",
+        "images": [
+            "/public/matams/matam_hassan_jidhafs.jpg"
+        ]
+    },
+    {
+        "id": 156,
+        "name_ar": "مأتم المضيفة (السنابس)",
+        "name_en": "Matam Al-Maudifa (Sanabis)",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2282,
+            "lng": 50.5512
+        },
+        "description_ar": "من مآتم السنابس العريقة، يشتهر بضيافته الكبيرة وحرصه على إحياء التراث العزائي الأصيل للقرية.",
+        "description_en": "A historic Sanabis matam known for its hospitality and commitment to traditional mourning heritage.",
+        "history": "A staple of the Sanabis central religious route for decades.",
+        "images": [
+            "/public/matams/matam_maudifa_sanabis.jpg"
+        ]
+    },
+    {
+        "id": 157,
+        "name_ar": "مأتم الإمام العالي (السنابس)",
+        "name_en": "Matam Al-Imam Al-Aali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2275,
+            "lng": 50.5525
+        },
+        "description_ar": "يخدم أهالي منطقة السنابس، ويتميز بنشاطه الثقافي الواسع ومساهماته في العمل الاجتماعي.",
+        "description_en": "Serves the Sanabis area, known for its broad cultural activity and social contributions.",
+        "history": "A vital meeting point for the residents of central Sanabis.",
+        "images": [
+            "/public/matams/matam_imam_aali_sanabis.jpg"
+        ]
+    },
+    {
+        "id": 158,
+        "name_ar": "مأتم الحواج (السنابس)",
+        "name_en": "Matam Al-Hawaj (Sanabis)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2268,
+            "lng": 50.5535
+        },
+        "description_ar": "مأتم عائلي يخدم منطقة واسعة في السنابس، أسسته عائلة الحواج الكريمة وله دور مشهود في القرية.",
+        "description_en": "A family-founded matam serving a wide area in Sanabis, with a notable role in the village.",
+        "history": "Reflects the family values and religious charity in old Sanabis.",
+        "images": [
+            "/public/matams/matam_hawaj_sanabis.jpg"
+        ]
+    },
+    {
+        "id": 159,
+        "name_ar": "مأتم الكرار (السنابس)",
+        "name_en": "Matam Al-Karrar (Sanabis)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2255,
+            "lng": 50.5545
+        },
+        "description_ar": "يخدم أهالي حي الإسكان في السنابس، ويعد مركزاً للتجمع العائلي والديني في الحي الحديث.",
+        "description_en": "Serves the housing district in Sanabis, acting as a center for family and religious gathering.",
+        "history": "Built as part of the residential expansion to provide local religious services.",
+        "images": [
+            "/public/matams/matam_karrar_sanabis.jpg"
+        ]
+    },
+    {
+        "id": 160,
+        "name_ar": "مأتم الصالحين (السنابس)",
+        "name_en": "Matam Al-Saliheen",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2245,
+            "lng": 50.5555
+        },
+        "description_ar": "يقع في جنوب السنابس، ويتميز بروحانيته وبساطته وقوة ترابط أعضائه من أهالي الحي.",
+        "description_en": "Located in southern Sanabis, characterized by its spirituality, simplicity, and member cohesion.",
+        "history": "A localized spiritual hub in the southern outskirts of Sanabis.",
+        "images": [
+            "/public/matams/matam_saliheen_sanabis.jpg"
+        ]
+    },
+    {
+        "id": 161,
+        "name_ar": "مأتم الإمام الكاظم (الديه)",
+        "name_en": "Matam Al-Imam Al-Kadhim (Daih)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2265,
+            "lng": 50.5465
+        },
+        "description_ar": "يخدم أهالي فريج الكاظم في قرية الديه، ويعد من المآتم الناشطة في تنظيم الفعاليات الدينية.",
+        "description_en": "Serves Al-Kadhim neighborhood in Daih village, an active center for religious events.",
+        "history": "Named after the Seventh Imam, serving the devout community of Daih.",
+        "images": [
+            "/public/matams/matam_kadhim_daih.jpg"
+        ]
+    },
+    {
+        "id": 162,
+        "name_ar": "مأتم الإمام الجواد (الديه)",
+        "name_en": "Matam Al-Imam Al-Jawad (Daih)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2255,
+            "lng": 50.5475
+        },
+        "description_ar": "مركز لالتقاء الشباب في قرية الديه، يركز على إحياء المناسبات الدينية بأساليب تعليمية ملهمة.",
+        "description_en": "A youth gathering center in Daih village, focusing on educational and inspirational commemorations.",
+        "history": "Established to bridge the generational gap in religious education.",
+        "images": [
+            "/public/matams/matam_jawad_daih.jpg"
+        ]
+    },
+    {
+        "id": 163,
+        "name_ar": "مأتم الرضا (الديه)",
+        "name_en": "Matam Al-Redha (Daih)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2245,
+            "lng": 50.5485
+        },
+        "description_ar": "يخدم تجمعاً سكنياً في جنوب قرية الديه، ويساهم في الحفاظ على الهوية الدينية والاجتماعية للقرية.",
+        "description_en": "Serves a residential cluster in southern Daih, helping preserve the village's identity.",
+        "history": "Founded to meet the needs of the expanding residential area of Daih.",
+        "images": [
+            "/public/matams/matam_redha_daih.jpg"
+        ]
+    },
+    {
+        "id": 164,
+        "name_ar": "مأتم كرانة الجنوبي",
+        "name_en": "Matam Karrana Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.5172
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية كرانة، ويعد مركزاً لالتقاء الأهالي وتعزيز الترابط المجتمعي بالقرية.",
+        "description_en": "Serves the southern side of Karrana village, acting as a community bonding center.",
+        "history": "A long-standing pillar of the agricultural and residential life in Karrana.",
+        "images": [
+            "/public/matams/matam_karana_south.jpg"
+        ]
+    },
+    {
+        "id": 165,
+        "name_ar": "مأتم الفاطمية (كرانة)",
+        "name_en": "Matam Al-Fatimiyya",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2295,
+            "lng": 50.5192
+        },
+        "description_ar": "مأتم متخصص يحيي ذكريات الصديقة الطاهرة، ويقدم برامج ثقافية واجتماعية لأهالي كرانة.",
+        "description_en": "A specialized matam commemorating Lady Fatimah, offering programs for the Karrana community.",
+        "history": "Established with a focus on Lady Fatimah's legacy and teachings.",
+        "images": [
+            "/public/matams/matam_fatimiyya_karana.jpg"
+        ]
+    },
+    {
+        "id": 166,
+        "name_ar": "مأتم الروضة (سترة)",
+        "name_en": "Matam Al-Rawda (Sitra)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1555,
+            "lng": 50.6025
+        },
+        "description_ar": "يقع في قرية القرية بجزيرة سترة، ويعد صرحاً إيمانياً يجمع أهالي الحي في المناسبات المختلفة.",
+        "description_en": "Located in Al-Qariya village on Sitra Island, acting as a spiritual edifice for neighborhood gatherings.",
+        "history": "Founded to serve the spiritual needs of the western district of Sitra Island.",
+        "images": [
+            "/public/matams/matam_rawda_sitra.jpg"
+        ]
+    },
+    {
+        "id": 167,
+        "name_ar": "مأتم الغريب (سترة)",
+        "name_en": "Matam Al-Ghareeb (Sitra)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1545,
+            "lng": 50.6035
+        },
+        "description_ar": "يخدم أهالي منطقة سفالة في سترة، ويتميز ببساطته وقوة تلاحم رواده من قدماء أهالي الجزيرة.",
+        "description_en": "Serves the Sufala area in Sitra, characterized by its simplicity and the cohesion of long-time residents.",
+        "history": "Deeply linked to the maritime heritage of the Sufala community.",
+        "images": [
+            "/public/matams/matam_ghareeb_sitra.jpg"
+        ]
+    },
+    {
+        "id": 168,
+        "name_ar": "مأتم الإمام علي (سترة)",
+        "name_en": "Matam Al-Imam Ali (Sitra)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1535,
+            "lng": 50.6045
+        },
+        "description_ar": "مركز ديني في سترة يركز على إحياء سيرة أمير المؤمنين عليه السلام ونشر الوعي الديني بالجزيرة.",
+        "description_en": "A religious center in Sitra focusing on the legacy of Imam Ali and religious awareness.",
+        "history": "Founded as a hub for theological discourse and community service.",
+        "images": [
+            "/public/matams/matam_imam_ali_sitra.jpg"
+        ]
+    },
+    {
+        "id": 169,
+        "name_ar": "مأتم الإمام الحسين (سترة)",
+        "name_en": "Matam Al-Imam Hussain",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1525,
+            "lng": 50.6055
+        },
+        "description_ar": "أحد مآتم سترة النشطة في إقامة الشعائر الحسينية المركزية واستقطاب الخطباء المتميزين.",
+        "description_en": "An active Sitra matam in central mourning rituals and hosting distinguished orators.",
+        "history": "A staple of the island's religious calendar for many years.",
+        "images": [
+            "/public/matams/matam_hussain_sitra.jpg"
+        ]
+    },
+    {
+        "id": 170,
+        "name_ar": "مأتم أبوالفضل (سترة)",
+        "name_en": "Matam Al-Abul-Fadhel",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1515,
+            "lng": 50.6065
+        },
+        "description_ar": "يخدم أهالي قرية واديان في سترة، ويعد ركيزة أساسية للعمل الاجتماعي والديني في الحي.",
+        "description_en": "Serves Wadyan village in Sitra, acting as a primary pillar for local social and religious work.",
+        "history": "Named after Al-Abbas, symbolizing loyalty and service in the Sitra community.",
+        "images": [
+            "/public/matams/matam_abul_fadhel_sitra.jpg"
+        ]
+    },
+    {
+        "id": 171,
+        "name_ar": "مأتم عسكر الكبيرة",
+        "name_en": "Matam Askar Al-Kabeer",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.0455,
+            "lng": 50.6212
+        },
+        "description_ar": "المأتم الرئيسي في قرية عسكر بالمنطقة الجنوبية، يجمع أهالي القرية في مختلف المناسبات الدينية.",
+        "description_en": "The main matam in Askar village, Southern region, gathering residents for religious occasions.",
+        "history": "Historically significant as the central religious site of the coastal village.",
+        "images": [
+            "/public/matams/matam_askar_kabeer.jpg"
+        ]
+    },
+    {
+        "id": 172,
+        "name_ar": "مأتم جو الكبيرة",
+        "name_en": "Matam Jaww Al-Kabeer",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.0012,
+            "lng": 50.6255
+        },
+        "description_ar": "المركز الديني لأهالي قرية جو، يمثل واحة إيمانية في المنطقة الجنوبية المترامية الأطراف.",
+        "description_en": "The religious center for Jaww village, acting as a spiritual oasis in the vast Southern area.",
+        "history": "Deeply linked to the maritime and nomadic history of the region.",
+        "images": [
+            "/public/matams/matam_jaww_kabeer.jpg"
+        ]
+    },
+    {
+        "id": 173,
+        "name_ar": "مأتم الدور الجنوبي",
+        "name_en": "Matam Al-Dur Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 25.9655,
+            "lng": 50.6155
+        },
+        "description_ar": "يخدم أهالي منطقة الدور في المنطقة الجنوبية، ويعد من المآتم التي تحافظ على التقاليد الدينية بالمنطقة.",
+        "description_en": "Serves the Dur area in the Southern region, preserving localized religious traditions.",
+        "history": "Reflects the spiritual needs of the southern coastal communities.",
+        "images": [
+            "/public/matams/matam_dur_south.jpg"
+        ]
+    },
+    {
+        "id": 174,
+        "name_ar": "مأتم الزلاق",
+        "name_en": "Matam Al-Zallaq",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.0555,
+            "lng": 50.4855
+        },
+        "description_ar": "يخدم أهالي قرية الزلاق والمناطق المجاورة في المحافظة الجنوبية، وله دور اجتماعي وتواصلي بارز.",
+        "description_en": "Serves Zallaq village and surrounding areas, holding a prominent social role.",
+        "history": "A key landmark in the coastal village of Zallaq.",
+        "images": [
+            "/public/matams/matam_zallaq.jpg"
+        ]
+    },
+    {
+        "id": 175,
+        "name_ar": "مأتم دار كليب الشمالي",
+        "name_en": "Matam Dar Kulaib Al-Shamali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.0825,
+            "lng": 50.5015
+        },
+        "description_ar": "يخدم أهالي الجهة الشمالية من قرية دار كليب، ويساهم في تعزيز الروابط الاجتماعية والدينية للقرية.",
+        "description_en": "Serves the northern part of Dar Kulaib village, strengthening social and religious ties.",
+        "history": "Established with the growth of the northern residential blocks of Dar Kulaib.",
+        "images": [
+            "/public/matams/matam_dar_kulaib_north.jpg"
+        ]
+    },
+    {
+        "id": 176,
+        "name_ar": "مأتم السجاد (مدينة حمد)",
+        "name_en": "Matam Al-Sajjad",
+        "type": "Matam",
+        "category": "Modern Community House",
+        "location": {
+            "lat": 26.1155,
+            "lng": 50.5055
+        },
+        "description_ar": "يقع في مدينة حمد بوسط البحرين، ويتميز بمرافقه الحديثة وبرامجه الموجهة لمختلف الفئات العمرية.",
+        "description_en": "Located in Hamad Town, featuring modern facilities and programs for all ages.",
+        "history": "Named after the Fourth Imam, reflecting the spiritual growth of the modern city.",
+        "images": [
+            "/public/matams/matam_sajjad_hamad_town.jpg"
+        ]
+    },
+    {
+        "id": 177,
+        "name_ar": "مأتم الباقر (مدينة حمد)",
+        "name_en": "Matam Al-Baqir",
+        "type": "Matam",
+        "category": "Modern Community House",
+        "location": {
+            "lat": 26.1215,
+            "lng": 50.5115
+        },
+        "description_ar": "مركز ديني ناشط في مدينة حمد، يساهم في إحياء المناسبات الدينية برؤية تربوية معاصرة.",
+        "description_en": "An active religious center in Hamad Town, commemorating events with a contemporary educational vision.",
+        "history": "Part of the city's infrastructure to meet the spiritual needs of its residents.",
+        "images": [
+            "/public/matams/matam_baqir_hamad_town.jpg"
+        ]
+    },
+    {
+        "id": 178,
+        "name_ar": "مأتم الصادق (مدينة حمد)",
+        "name_en": "Matam Al-Sadiq (Hamad Town)",
+        "type": "Matam",
+        "category": "Modern Community House",
+        "location": {
+            "lat": 26.1265,
+            "lng": 50.5165
+        },
+        "description_ar": "يخدم أهالي مدينة حمد الدوارات الوسطى، ويعد مركزاً للتجمع واللقاءات الاجتماعية لأهالي تلك الدوارات.",
+        "description_en": "Serves the central roundabouts of Hamad Town, acting as a gathering center for residents.",
+        "history": "Strategically located to serve several vital residential blocks.",
+        "images": [
+            "/public/matams/matam_sadiq_hamad_town.jpg"
+        ]
+    },
+    {
+        "id": 179,
+        "name_ar": "مأتم الكاظم (مدينة حمد)",
+        "name_en": "Matam Al-Kadhim (Hamad Town)",
+        "type": "Matam",
+        "category": "Modern Community House",
+        "location": {
+            "lat": 26.1315,
+            "lng": 50.5215
+        },
+        "description_ar": "مركز إيماني متميز في مدينة حمد، يشتهر بدقة تنظيمه للمناسبات الكبرى وحضوره الاجتماعي القوي.",
+        "description_en": "A distinguished spiritual center in Hamad Town, known for its organized events and social presence.",
+        "history": "Reflects the commitment of city residents to religious and communal life.",
+        "images": [
+            "/public/matams/matam_kadhim_hamad_town.jpg"
+        ]
+    },
+    {
+        "id": 180,
+        "name_ar": "مأتم الزهراء (مدينة حمد)",
+        "name_en": "Matam Al-Zahra (Hamad Town)",
+        "type": "Matam",
+        "category": "Modern Community House",
+        "location": {
+            "lat": 26.1365,
+            "lng": 50.5265
+        },
+        "description_ar": "يخدم شريحة واسعة من أهالي مدينة حمد، ويركز على إحياء سيرة السيدة فاطمة الزهراء عليها السلام.",
+        "description_en": "Serves a wide segment of Hamad Town residents, focusing on the legacy of Lady Fatimah.",
+        "history": "One of the most visited matams in the modern city due to its central role.",
+        "images": [
+            "/public/matams/matam_zahra_hamad_town.jpg"
+        ]
+    },
+    {
+        "id": 181,
+        "name_ar": "مأتم المصطفى (مدينة عيسى)",
+        "name_en": "Matam Al-Mustafa",
+        "type": "Matam",
+        "category": "Modern Community House",
+        "location": {
+            "lat": 26.1755,
+            "lng": 50.5565
+        },
+        "description_ar": "يخدم أهالي مدينة عيسى القديمة، ويعد مركزاً لالتقاء المؤمنين وإحياء الشعائر الدينية الموسمية بالمدينة.",
+        "description_en": "Serves the old Isa Town area, acting as a gathering center for seasonal rituals.",
+        "history": "A key coordinate in the religious life of Bahrain's first modern housing city.",
+        "images": [
+            "/public/matams/matam_mustafa_isa_town.jpg"
+        ]
+    },
+    {
+        "id": 182,
+        "name_ar": "مأتم الكوثر (مدينة عيسى)",
+        "name_en": "Matam Al-Kawthar",
+        "type": "Matam",
+        "category": "Modern Community House",
+        "location": {
+            "lat": 26.1785,
+            "lng": 50.5585
+        },
+        "description_ar": "مركز ديني ناشط في مدينة عيسى، يساهم في إحياء المناسبات الدينية برؤية اجتماعية وتربوية متميزة.",
+        "description_en": "An active religious center in Isa Town, contributing to events with a social and educational vision.",
+        "history": "Reflects the ongoing development of community services in the city.",
+        "images": [
+            "/public/matams/matam_kawthar_isa_town.jpg"
+        ]
+    },
+    {
+        "id": 183,
+        "name_ar": "مأتم الإمام الهادي (النبيه صالح)",
+        "name_en": "Matam Al-Hadi (Nabih Saleh)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1882,
+            "lng": 50.5875
+        },
+        "description_ar": "يخدم أهالي جزيرة النبيه صالح، ويساهم في تنظيم الفعاليات الدينية التي تجمع أبناء الجزيرة طوال العام.",
+        "description_en": "Serves Nabih Saleh Island, helping organize religious events connecting islanders year-round.",
+        "history": "Part of the cluster of religious structures around the holy shrine on the island.",
+        "images": [
+            "/public/matams/matam_hadi_nabih_saleh.jpg"
+        ]
+    },
+    {
+        "id": 184,
+        "name_ar": "مأتم الزينبية (النبيه صالح)",
+        "name_en": "Matam Al-Zainabiyya",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1895,
+            "lng": 50.5855
+        },
+        "description_ar": "مأتم مخصص للنساء والفعاليات النسائية في جزيرة النبيه صالح، وله دور اجتماعي وتواصلي هام بالجزيرة.",
+        "description_en": "A matam dedicated to women and female events on Nabih Saleh Island, with an important social role.",
+        "history": "A testament to the active role of women in the island's spiritual life.",
+        "images": [
+            "/public/matams/matam_zainabiyya_nabih_saleh.jpg"
+        ]
+    },
+    {
+        "id": 185,
+        "name_ar": "مأتم الهادي (فريج الحطب)",
+        "name_en": "Matam Al-Hadi (Manama)",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2302,
+            "lng": 50.5735
+        },
+        "description_ar": "من مآتم المنامة العريقة في فريج الحطب، يشتهر بعراقته وارتباطه بتاريخ الأحياء القديمة للعاصمة.",
+        "description_en": "A historic Manama matam in Fareeq Al-Hatab, known for its antiquity and link to the capital's old neighborhoods.",
+        "history": "A long-standing center for morning rituals in the heart of old Manama.",
+        "images": [
+            "/public/matams/matam_hadi_hatab.jpg"
+        ]
+    },
+    {
+        "id": 186,
+        "name_ar": "مأتم الموعود (المنامة)",
+        "name_en": "Matam Al-Mawed",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2315,
+            "lng": 50.5755
+        },
+        "description_ar": "مأتم يخدم تجمعاً سكانياً في قلب المنامة، ويمثل ركيزة للأنشطة والاحتفالات الدينية في العاصمة.",
+        "description_en": "Serves a residential cluster in central Manama, acting as a pillar for religious activities in the capital.",
+        "history": "Established with the modernization of old city blocks.",
+        "images": [
+            "/public/matams/matam_mawed.jpg"
+        ]
+    },
+    {
+        "id": 187,
+        "name_ar": "مأتم الأنوار (المنامة)",
+        "name_en": "Matam Al-Anwar",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2325,
+            "lng": 50.5765
+        },
+        "description_ar": "مركز ديني ناشط في المنامة، يركز على إحياء المناسبات الدينية واستضافة الخطباء المتميزين.",
+        "description_en": "An active religious center in Manama, focusing on commemorations and hosting distinguished orators.",
+        "history": "Known for its commitment to high-level religious discourse.",
+        "images": [
+            "/public/matams/matam_anwar_manama.jpg"
+        ]
+    },
+    {
+        "id": 188,
+        "name_ar": "مأتم الأمير (الزنج)",
+        "name_en": "Matam Al-Amir (Zinj)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2125,
+            "lng": 50.5745
+        },
+        "description_ar": "مأتم يخدم أهالي منطقة الزنج، ويعد من المآتم العريقة التي حافظت على تقاليدها في وجه التمدد الحديث.",
+        "description_en": "Serves the Zinj area, one of the historic matams that preserved its traditions amidst modernization.",
+        "history": "A long-standing gathering point for families in central Zinj.",
+        "images": [
+            "/public/matams/matam_amir_zinj.jpg"
+        ]
+    },
+    {
+        "id": 189,
+        "name_ar": "مأتم السادة (الزنج)",
+        "name_en": "Matam Al-Sada (Zinj)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2135,
+            "lng": 50.5755
+        },
+        "description_ar": "يجمع السادة المقيمين في منطقة الزنج والماحوز، ويتميز ببرامجه الدينية والثقافية المتميزة طوال العام.",
+        "description_en": "Gathers Sayyid families in Zinj and Mahooz, known for its distinguished religious and cultural programs.",
+        "history": "A spiritual home for many of the island's distinguished Sayyid families.",
+        "images": [
+            "/public/matams/matam_sada_zinj.jpg"
+        ]
+    },
+    {
+        "id": 190,
+        "name_ar": "مأتم البلاد القديم الشرقي",
+        "name_en": "Matam Al-Bilad Al-Sharqi",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2055,
+            "lng": 50.5585
+        },
+        "description_ar": "يخدم الجهة الشرقية من منطقة البلاد القديم، ويتميز بعراقته وارتباطه بتراث العاصمة القديمة للبحرين.",
+        "description_en": "Serves the eastern side of Bilad Al-Qadeem, characterized by its antiquity and link to Bahrain's ancient capital.",
+        "history": "One of multiple pillars supporting the rich spiritual life of the historic district.",
+        "images": [
+            "/public/matams/matam_bilad_east.jpg"
+        ]
+    },
+    {
+        "id": 191,
+        "name_ar": "مأتم الدراز الجنوبي",
+        "name_en": "Matam Al-Diraz Al-Janubi",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2155,
+            "lng": 50.4712
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية الدراز، ويتميز بعراقته ومساهمته في الفعاليات الدينية والمواكب العزائية الكبرى.",
+        "description_en": "Serves the southern part of Diraz village, known for its antiquity and contribution to major processions.",
+        "history": "Integral to the legacy of central religious authority in Diraz.",
+        "images": [
+            "/public/matams/matam_diraz_south.jpg"
+        ]
+    },
+    {
+        "id": 192,
+        "name_ar": "مأتم الدراز الشمالي",
+        "name_en": "Matam Al-Diraz Al-Shamali",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2222,
+            "lng": 50.4755
+        },
+        "description_ar": "يخدم الجهة الشمالية والقريبة من البحر من قرية الدراز، وله دور تاريخي في حياة الأهالي والعمل الاجتماعي.",
+        "description_en": "Serves the northern and coastal side of Diraz village, with a long history in social work.",
+        "history": "Deeply linked to the maritime origins of the Diraz community.",
+        "images": [
+            "/public/matams/matam_diraz_north.jpg"
+        ]
+    },
+    {
+        "id": 193,
+        "name_ar": "مأتم الدراز الشرقي",
+        "name_en": "Matam Al-Diraz Al-Sharqi",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2185,
+            "lng": 50.4785
+        },
+        "description_ar": "يخدم التجمعات السكنية في الجهة الشرقية من الدراز، ويعد من المآتم العريقة التي صمدت لقرون في المنطقة.",
+        "description_en": "Serves the eastern residential clusters in Diraz, one of the long-standing matams in the region.",
+        "history": "Preserves a traditional style of mourning and religious discourse in Diraz.",
+        "images": [
+            "/public/matams/matam_diraz_east.jpg"
+        ]
+    },
+    {
+        "id": 194,
+        "name_ar": "مأتم بني جمرة الجنوبي",
+        "name_en": "Matam Bani Jamra Al-Janubi",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2125,
+            "lng": 50.4685
+        },
+        "description_ar": "المأتم الرئيسي لجنوب قرية بني جمرة المتميزة بصناعة النسيج التقليدية، ويرتبط بتاريخ حياك القرية.",
+        "description_en": "The main matam for south Bani Jamra, known for its weaving heritage and linked to the village's weavers.",
+        "history": "A focal point for the artisans and scholars of Bani Jamra.",
+        "images": [
+            "/public/matams/matam_bani_jamra_south.jpg"
+        ]
+    },
+    {
+        "id": 195,
+        "name_ar": "مأتم بني جمرة الغربي",
+        "name_en": "Matam Bani Jamra Al-Gharbi",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2145,
+            "lng": 50.4655
+        },
+        "description_ar": "يخدم الجهة الغربية من بني جمرة، ويعد معلماً اجتماعياً هاماً يحافظ على الهوية القروية الأصيلة للقرية.",
+        "description_en": "Serves the western side of Bani Jamra, acting as an important social landmark preserving village identity.",
+        "history": "Historically significant as the gathering spot for the western agricultural community.",
+        "images": [
+            "/public/matams/matam_bani_jamra_west.jpg"
+        ]
+    },
+    {
+        "id": 196,
+        "name_ar": "مأتم المرخ الجنوبي",
+        "name_en": "Matam Al-Markh Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1955,
+            "lng": 50.4905
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية المرخ الهادئة، ويوفر مكاناً لالتقاء الأهالي وإحياء المناسبات الدينية في الحي التاريخي.",
+        "description_en": "Serves the southern part of the quiet Markh village, providing a meeting space for residents.",
+        "history": "Built as Part of the expansion of the traditional residential areas of Markh.",
+        "images": [
+            "/public/matams/matam_markh_south.jpg"
+        ]
+    },
+    {
+        "id": 197,
+        "name_ar": "مأتم باربار الجنوبي",
+        "name_en": "Matam Barbar Al-Janubi",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2185,
+            "lng": 50.4855
+        },
+        "description_ar": "يقع في قرية باربار التاريخية، ويخدم الجهة الجنوبية ويتميز بمشاركته الفعالة في المواكب العزائية بالمحافظة الشمالية.",
+        "description_en": "Located in historic Barbar village, serving the southern side and known for its participation in regional processions.",
+        "history": "A link to the ancient heritage and spiritual life of the Barbar community.",
+        "images": [
+            "/public/matams/matam_barbar_south.jpg"
+        ]
+    },
+    {
+        "id": 198,
+        "name_ar": "مأتم باربار الشمالي",
+        "name_en": "Matam Barbar Al-Shamali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2255,
+            "lng": 50.4912
+        },
+        "description_ar": "يخدم الجهة الشمالية من باربار القريبة من المعبد والقلاع القديمة، ويعد مركزاً لالتقاء المؤمنين طوال العام.",
+        "description_en": "Serves northern Barbar near the ancient temple and forts, acting as a gathering center year-round.",
+        "history": "Associated with the newer residential developments in northern Barbar.",
+        "images": [
+            "/public/matams/matam_barbar_north.jpg"
+        ]
+    },
+    {
+        "id": 199,
+        "name_ar": "مأتم الشاخورة الشمالي",
+        "name_en": "Matam Al-Shakhoora Al-Shamali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2055,
+            "lng": 50.5112
+        },
+        "description_ar": "يخدم الجهة الشمالية من قرية الشاخورة، ويتميز بروحه الاجتماعية وعلاقاته القوية مع القرى المجاورة في المحافظة الشمالية.",
+        "description_en": "Serves the northern part of Shakhoora village, known for its social spirit and ties to neighboring villages.",
+        "history": "Part of the traditional social network of the central-northern villages.",
+        "images": [
+            "/public/matams/matam_shakhura_north.jpg"
+        ]
+    },
+    {
+        "id": 200,
+        "name_ar": "مأتم الشاخورة الجنوبي",
+        "name_en": "Matam Al-Shakhoora Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2012,
+            "lng": 50.5055
+        },
+        "description_ar": "المركز الديني لأهالي الجهة الجنوبية من الشاخورة، يساهم بفعالية في تعزيز الأواصر الأسرية والاجتماعية بالقرية.",
+        "description_en": "The religious center for southern Shakhoora, effectively strengthening family and social bonds.",
+        "history": "Reflects the long traditions of the agricultural and residential Shakhoora area.",
+        "images": [
+            "/public/matams/matam_shakhura_south.jpg"
+        ]
+    },
+    {
+        "id": 201,
+        "name_ar": "مأتم محمود (المنامة)",
+        "name_en": "Matam Mahmoud",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2332,
+            "lng": 50.5752
+        },
+        "description_ar": "من مآتم المنامة العريقة، يقع في فريج المخارقة ويشتهر بدوره في إحياء الشعائر الدينية المركزية.",
+        "description_en": "A historic Manama matam in Al-Makharqa, known for its role in central religious rituals.",
+        "history": "Deeply embedded in the 19th-century religious fabric of the capital.",
+        "images": [
+            "/public/matams/matam_mahmoud_manama.jpg"
+        ]
+    },
+    {
+        "id": 202,
+        "name_ar": "مأتم العريض (المنامة)",
+        "name_en": "Matam Al-Arrayedh",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2345,
+            "lng": 50.5765
+        },
+        "description_ar": "مأتم تاريخي يتبع لعائلة العريض الكريمة في المنامة، ويمثل رمزاً للتراث الديني والعائلي للعاصمة.",
+        "description_en": "A historic matam belonging to the Al-Arrayedh family, symbolizing the capital's religious and family heritage.",
+        "history": "Associated with the leading scholarly and merchant families of Manama.",
+        "images": [
+            "/public/matams/matam_arrayedh.jpg"
+        ]
+    },
+    {
+        "id": 203,
+        "name_ar": "مأتم العالي (المنامة)",
+        "name_en": "Matam Al-Aali (Manama)",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2322,
+            "lng": 50.5725
+        },
+        "description_ar": "يخدم أهالي منطقة المنامة بوسط المدينة، ويتميز بنشاطه المستمر طوال العام وإحيائه للمناسبات الكبرى.",
+        "description_en": "Serves central Manama, known for its year-round activity and major commemorations.",
+        "history": "A key coordinate in the mourning processions of old Manama.",
+        "images": [
+            "/public/matams/matam_aali_manama.jpg"
+        ]
+    },
+    {
+        "id": 204,
+        "name_ar": "مأتم الإمام (المنامة)",
+        "name_en": "Matam Al-Imam (Manama)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2305,
+            "lng": 50.5702
+        },
+        "description_ar": "مركز ديني في قلب العاصمة، يركز على إحياء سيرة الأئمة عليهم السلام ونشر الوعي الثقافي والروحي.",
+        "description_en": "A religious center in the heart of the capital, focusing on the Imams' legacy and spiritual awareness.",
+        "history": "Established to diversify the religious services in central Manama districts.",
+        "images": [
+            "/public/matams/matam_imam_manama.jpg"
+        ]
+    },
+    {
+        "id": 205,
+        "name_ar": "مأتم الصفار (المنامة)",
+        "name_en": "Matam Al-Saffar",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2312,
+            "lng": 50.5742
+        },
+        "description_ar": "مأتم عريق في المنامة يرتبط بمهنة أو عائلة الصفار التاريخية، ويحافظ على هويته العزائية الفريدة.",
+        "description_en": "A historic Manama matam linked to the Al-Saffar family or trade, preserving its unique mourning identity.",
+        "history": "Representative of the guild-based religious institutions in old Bahrain.",
+        "images": [
+            "/public/matams/matam_saffar.jpg"
+        ]
+    },
+    {
+        "id": 206,
+        "name_ar": "مأتم الزين (المنامة)",
+        "name_en": "Matam Al-Zain",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2295,
+            "lng": 50.5715
+        },
+        "description_ar": "يخدم أهالي فريج الزين في المنامة، ويعد من المراكز الروحية الهامة التي تجمع أهالي الحي القديم.",
+        "description_en": "Serves Al-Zain neighborhood in Manama, acting as an important spiritual center for the old district.",
+        "history": "A testament to the neighborhood-based communal bonding in the capital.",
+        "images": [
+            "/public/matams/matam_zain.jpg"
+        ]
+    },
+    {
+        "id": 207,
+        "name_ar": "مأتم القصاب (للنساء)",
+        "name_en": "Matam Al-Qassab (Women)",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2338,
+            "lng": 50.5745
+        },
+        "description_ar": "مأتم تاريخي مخصص للنساء في المنامة، يتبع لمأتم القصاب العريق ويخدم الفعاليات النسائية الدينية.",
+        "description_en": "A historic women's matam in Manama, affiliated with the Al-Qassab matam and serving female religious events.",
+        "history": "A pioneer in providing dedicated religious spaces for women in the city.",
+        "images": [
+            "/public/matams/matam_qassab_women.jpg"
+        ]
+    },
+    {
+        "id": 208,
+        "name_ar": "مأتم البقالي (المنامة)",
+        "name_en": "Matam Al-Baqali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2325,
+            "lng": 50.5775
+        },
+        "description_ar": "يخدم منطقة واسعة في المنامة، وله دور ملحوظ في تعزيز العمل الاجتماعي والخيري المرتبط بالمنبر.",
+        "description_en": "Serves a wide area in Manama, playing a notable role in social and charitable work.",
+        "history": "Founded by local benefactors to serve the central residential blocks.",
+        "images": [
+            "/public/matams/matam_baqali.jpg"
+        ]
+    },
+    {
+        "id": 209,
+        "name_ar": "مأتم الحواج (المنامة)",
+        "name_en": "Matam Al-Hawaj (Manama)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2315,
+            "lng": 50.5785
+        },
+        "description_ar": "مأتم عائلي يقع في المنامة، أسسته عائلة الحواج ويعد مقصداً للمؤمنين في المناسبات الدينية المختلفة.",
+        "description_en": "A family-founded matam in Manama, serving as a destination for believers during religious occasions.",
+        "history": "Shows the extension of family religious endowments across different city districts.",
+        "images": [
+            "/public/matams/matam_hawaj_manama.jpg"
+        ]
+    },
+    {
+        "id": 210,
+        "name_ar": "مأتم الشرف (المنامة)",
+        "name_en": "Matam Al-Sharaf",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2302,
+            "lng": 50.5795
+        },
+        "description_ar": "من المآتم القديمة في المنامة، يشتهر بكونه صرحاً إيمانياً يحافظ على التقاليد العزائية لأهالي الفريج.",
+        "description_en": "One of old Manama's matams, known as a spiritual edifice preserving neighborhood mourning traditions.",
+        "history": "A long-standing marker of religious continuity in the capital's alleys.",
+        "images": [
+            "/public/matams/matam_sharaf.jpg"
+        ]
+    },
+    {
+        "id": 211,
+        "name_ar": "مأتم المحرق الجنوبي",
+        "name_en": "Matam Al-Muharraq Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2425,
+            "lng": 50.6112
+        },
+        "description_ar": "يخدم الجهة الجنوبية من مدينة المحرق التاريخية، ويعد مركزاً لالتقاء الأهالي وإحياء المناسبات الدينية.",
+        "description_en": "Serves the southern part of historic Muharraq, acting as a gathering center for religious occasions.",
+        "history": "Reflects the localized religious structure of old Muharraq neighborhoods.",
+        "images": [
+            "/public/matams/matam_muharraq_south.jpg"
+        ]
+    },
+    {
+        "id": 212,
+        "name_ar": "مأتم السيدة زينب (المحرق)",
+        "name_en": "Matam Al-Sayyida Zainab",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2445,
+            "lng": 50.6135
+        },
+        "description_ar": "مأتم يركز على إحياء ذكرى السيدة زينب عليها السلام، ويقدم برامج ثقافية واجتماعية لأهالي المحرق.",
+        "description_en": "A matam focusing on commemorating Lady Zainab, offering cultural programs for Muharraq residents.",
+        "history": "Established to highlight the role of Lady Zainab in the religious narrative.",
+        "images": [
+            "/public/matams/matam_zainab_muharraq.jpg"
+        ]
+    },
+    {
+        "id": 213,
+        "name_ar": "مأتم الإمام الحسن (المحرق)",
+        "name_en": "Matam Al-Imam Al-Hassan",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2465,
+            "lng": 50.6155
+        },
+        "description_ar": "يخدم تجمعاً سكانياً في مدينة المحرق، ويعد ركيزة أساسية للأنشطة واللقاءات الدينية في الحي.",
+        "description_en": "Serves a residential cluster in Muharraq, acting as a primary pillar for neighborhood religious work.",
+        "history": "Founded to expand the spiritual services in the heart of Muharraq.",
+        "images": [
+            "/public/matams/matam_hassan_muharraq.jpg"
+        ]
+    },
+    {
+        "id": 214,
+        "name_ar": "مأتم الهادي (المحرق)",
+        "name_en": "Matam Al-Hadi (Muharraq)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2485,
+            "lng": 50.6175
+        },
+        "description_ar": "مركز ديني في المحرق يحيي مناسبات أهل البيت، ويساهم في تعزيز الترابط الاجتماعي بين أهالي المدينة.",
+        "description_en": "A religious center in Muharraq commemorating Imamate occasions and strengthening social bonds.",
+        "history": "Part of the network of private and communal matams in old Muharraq.",
+        "images": [
+            "/public/matams/matam_hadi_muharraq.jpg"
+        ]
+    },
+    {
+        "id": 215,
+        "name_ar": "مأتم القدم الشمالي",
+        "name_en": "Matam Al-Qadam Al-Shamali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2155,
+            "lng": 50.5285
+        },
+        "description_ar": "يخدم الجهة الشمالية من قرية القدم، ويتميز بروح المحبة والتواصل بين أهالي القرية الصغير والمترابطة.",
+        "description_en": "Serves the northern side of Al-Qadam village, known for its community spirit and cohesion.",
+        "history": "The primary gathering spot for the northern families of the village.",
+        "images": [
+            "/public/matams/matam_qadam_north.jpg"
+        ]
+    },
+    {
+        "id": 216,
+        "name_ar": "مأتم القدم الجنوبي",
+        "name_en": "Matam Al-Qadam Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2112,
+            "lng": 50.5255
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية القدم، ويساهم بفعالية في تنظيم الفعاليات الدينية والمواكب بالمحافظة الشمالية.",
+        "description_en": "Serves the southern side of Al-Qadam village, effectively organizing religious events and processions.",
+        "history": "Established to complement the village's religious infrastructure as it grew southward.",
+        "images": [
+            "/public/matams/matam_qadam_south.jpg"
+        ]
+    },
+    {
+        "id": 217,
+        "name_ar": "مأتم الحجر الكبير",
+        "name_en": "Matam Al-Hajar Al-Kabeer",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2185,
+            "lng": 50.5212
+        },
+        "description_ar": "المأتم الرئيسي لقرية الحجر، يشتهر بعراقته ودوره المركزي في جمع أهالي القرى المجاورة في المناسبات الكبرى.",
+        "description_en": "The main matam of Al-Hajar village, known for its antiquity and central role in gathering neighboring villagers.",
+        "history": "Historically significant as a hub for the central-northern villages' mourning routes.",
+        "images": [
+            "/public/matams/matam_hajar_kabeer.jpg"
+        ]
+    },
+    {
+        "id": 218,
+        "name_ar": "مأتم الحجر الجنوبي",
+        "name_en": "Matam Al-Hajar Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2145,
+            "lng": 50.5185
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية الحجر، ويعد معلماً اجتماعياً يحافظ على الهوية القروية الأصيلة للقرية.",
+        "description_en": "Serves the southern side of Al-Hajar village, acting as a social landmark preserving village identity.",
+        "history": "Reflects the geographic spread of the Al-Hajar community.",
+        "images": [
+            "/public/matams/matam_hajar_south.jpg"
+        ]
+    },
+    {
+        "id": 219,
+        "name_ar": "مأتم أبوصيبع الشمالي",
+        "name_en": "Matam Abu Saiba Al-Shamali",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2225,
+            "lng": 50.5085
+        },
+        "description_ar": "يخدم الجهة الشمالية من قرية أبوصيبع العريقة، ويتميز بنشاطه الثقافي والخطابي الواسع بالمنطقة.",
+        "description_en": "Serves the northern side of historic Abu Saiba village, known for its broad cultural and oratorical activity.",
+        "history": "A long-standing pillar of the agricultural and religious life in Abu Saiba.",
+        "images": [
+            "/public/matams/matam_abu_saiba_north.jpg"
+        ]
+    },
+    {
+        "id": 220,
+        "name_ar": "مأتم أبوصيبع الجنوبي",
+        "name_en": "Matam Abu Saiba Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2185,
+            "lng": 50.5055
+        },
+        "description_ar": "يخدم الجهة الجنوبية من أبوصيبع، ويعد مركزاً لالتقاء المؤمنين وتوطيد الأواصر الاجتماعية بالقرية.",
+        "description_en": "Serves the southern side of Abu Saiba, acting as a center for gathering and social bonding.",
+        "history": "Integral to the social cohesion of the southern districts of Abu Saiba.",
+        "images": [
+            "/public/matams/matam_abu_saiba_south.jpg"
+        ]
+    },
+    {
+        "id": 221,
+        "name_ar": "مأتم مقابة الكبير",
+        "name_en": "Matam Maqaba Al-Kabeer",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2125,
+            "lng": 50.4985
+        },
+        "description_ar": "المركز الرئيسي والجامع للفعاليات الدينية في منطقة مقابة، يجمع أهالي القرية والمنطقة المحيطة.",
+        "description_en": "The main and collective center for religious events in Maqaba, gathering village residents.",
+        "history": "Historically the unique religious center for the Maqaba community.",
+        "images": [
+            "/public/matams/matam_maqaba_kabeer.jpg"
+        ]
+    },
+    {
+        "id": 222,
+        "name_ar": "مأتم مقابة الجنوبي",
+        "name_en": "Matam Maqaba Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2085,
+            "lng": 50.4955
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية مقابة، ويساهم في تنويع الأنشطة الدينية والتربوية لأهالي المنطقة.",
+        "description_en": "Serves the southern part of Maqaba village, diversifying religious and educational activities.",
+        "history": "Built as part of the residential expansion to accommodate new residents of Maqaba.",
+        "images": [
+            "/public/matams/matam_maqaba_south.jpg"
+        ]
+    },
+    {
+        "id": 223,
+        "name_ar": "مأتم المقشاع الشمالي",
+        "name_en": "Matam Al-Maqsha Al-Shamali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2225,
+            "lng": 50.5185
+        },
+        "description_ar": "يخدم الجهة الشمالية من قرية المقشاع، ويعد مركزاً لالتقاء الأهالي وإقامة الشعائر الدينية الموسمية.",
+        "description_en": "Serves the northern part of Al-Maqsha village, acting as a gathering center for seasonal rituals.",
+        "history": "A key coordinate in the religious life of the small coastal village.",
+        "images": [
+            "/public/matams/matam_maqsha_north.jpg"
+        ]
+    },
+    {
+        "id": 224,
+        "name_ar": "مأتم المقشاع الجنوبي",
+        "name_en": "Matam Al-Maqsha Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2185,
+            "lng": 50.5155
+        },
+        "description_ar": "يخدم الجهة الجنوبية من المقشاع، ويمثل ركيزة للأنشطة واللقاءات الاجتماعية لأهالي تلك المنطقة.",
+        "description_en": "Serves the southern side of Al-Maqsha, acting as a pillar for social activities and meetings.",
+        "history": "Built as Al-Maqsha expanded southward to serve new residential blocks.",
+        "images": [
+            "/public/matams/matam_maqsha_south.jpg"
+        ]
+    },
+    {
+        "id": 225,
+        "name_ar": "مأتم دمستان الكبير",
+        "name_en": "Matam Dumistan Al-Kabeer",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.1385,
+            "lng": 50.4812
+        },
+        "description_ar": "المأتم الرئيسي لقرية دمستان بالمنطقة الغربية، يشتهر بمجالسه الحسينية العامرة وحضوره القوي في المواكب.",
+        "description_en": "The main matam of Dumistan village, known for its year-round gatherings and strong presence in processions.",
+        "history": "Historically the spiritual heart of the coastal Dumistan village.",
+        "images": [
+            "/public/matams/matam_dumistan_kabeer.jpg"
+        ]
+    },
+    {
+        "id": 226,
+        "name_ar": "مأتم دمستان الجنوبي",
+        "name_en": "Matam Dumistan Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1345,
+            "lng": 50.4785
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية دمستان، ويعد صرحاً إيمانياً يجمع أهالي الحي في مختلف المناسبات.",
+        "description_en": "Serves the southern side of Dumistan village, acting as a spiritual edifice for neighborhood gatherings.",
+        "history": "Established to meet the spiritual needs of the western district of the village.",
+        "images": [
+            "/public/matams/matam_dumistan_south.jpg"
+        ]
+    },
+    {
+        "id": 227,
+        "name_ar": "مأتم كرزكان الغربي",
+        "name_en": "Matam Karzakan Al-Gharbi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1285,
+            "lng": 50.4785
+        },
+        "description_ar": "يخدم الجهة الغربية والقريبة من الساحل لقرية كرزكان، ويعد ركيزة أساسية للعمل الاجتماعي في الحي.",
+        "description_en": "Serves the western and coastal side of Karzakan village, acting as a primary pillar for social work.",
+        "history": "Deeply linked to the maritime origins of the Karzakan community.",
+        "images": [
+            "/public/matams/matam_karzakan_west_coastal.jpg"
+        ]
+    },
+    {
+        "id": 228,
+        "name_ar": "مأتم الهملة الغربي",
+        "name_en": "Matam Al-Hamala Al-Gharbi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1512,
+            "lng": 50.4705
+        },
+        "description_ar": "يخدم الجهة الغربية من قرية الهملة، ويتميز بعراقته ومساهمته في الفعاليات الدينية والمواكب العزائية بالقرية.",
+        "description_en": "Serves the western part of Hamala village, known for its antiquity and contribution to religious events.",
+        "history": "A long-standing marker of the religious and social presence in western Hamala.",
+        "images": [
+            "/public/matams/matam_hamala_west.jpg"
+        ]
+    },
+    {
+        "id": 229,
+        "name_ar": "مأتم الجنوبي (الهملة)",
+        "name_en": "Matam Al-Janubiyya (Hamala)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1485,
+            "lng": 50.4725
+        },
+        "description_ar": "يخدم التجمع السكاني الجنوبي في الهملة، ويمثل مركزاً للتجمع واللقاءات الاجتماعية لأهالي الحي.",
+        "description_en": "Serves the southern residential cluster in Hamala, acting as a gathering center for residents.",
+        "history": "Built as Hamala expanded southward to accommodate new residential needs.",
+        "images": [
+            "/public/matams/matam_hamala_south.jpg"
+        ]
+    },
+    {
+        "id": 230,
+        "name_ar": "مأتم الصادق (بوري)",
+        "name_en": "Matam Al-Sadiq (Buri)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1685,
+            "lng": 50.4975
+        },
+        "description_ar": "من مآتم قرية بوري النشطة، ويركز على إحياء سيرة الإمام الصادق عليه السلام ونشر الوعي الديني بين الشباب.",
+        "description_en": "An active Buri matam focusing on the legacy of Imam Al-Sadiq and religious awareness among youth.",
+        "history": "Founded as a hub for theological discourse and community service in Buri.",
+        "images": [
+            "/public/matams/matam_sadiq_buri.jpg"
+        ]
+    },
+    {
+        "id": 231,
+        "name_ar": "مأتم توبلي الشمالي",
+        "name_en": "Matam Tubli Al-Shamali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1885,
+            "lng": 50.5525
+        },
+        "description_ar": "يخدم الجهة الشمالية من منطقة توبلي، ويعد مركزاً لالتقاء المؤمنين وإقامة الشعائر الدينية الموسمية بالحي.",
+        "description_en": "Serves the northern part of Tubli area, acting as a gathering center for seasonal rituals.",
+        "history": "Reflects the geographic spread and communal needs of the expanding Tubli district.",
+        "images": [
+            "/public/matams/matam_tubli_north.jpg"
+        ]
+    },
+    {
+        "id": 232,
+        "name_ar": "مأتم توبلي الجنوبي",
+        "name_en": "Matam Tubli Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1822,
+            "lng": 50.5555
+        },
+        "description_ar": "يخدم أهالي توبلي الجنوبي والمنطقة المحيطة بالخليج، ويتميز بروح المحبة والتواصل بين أهالي الحي.",
+        "description_en": "Serves southern Tubli and surrounding coastal area, known for its community spirit.",
+        "history": "Deeply linked to the rural and maritime origins of the Tubli community.",
+        "images": [
+            "/public/matams/matam_tubli_south.jpg"
+        ]
+    },
+    {
+        "id": 233,
+        "name_ar": "مأتم الكواري (توبلي)",
+        "name_en": "Matam Al-Kawari",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1855,
+            "lng": 50.5585
+        },
+        "description_ar": "مأتم يخدم تجمعاً سكنياً في منطقة توبلي، ويساهم بفعالية في تنظيم الفعاليات الدينية والمواكب واللقاءات العامة.",
+        "description_en": "Serves a residential cluster in Tubli, effectively organizing religious events and meetings.",
+        "history": "Part of the network of private and communal matams in central Tubli.",
+        "images": [
+            "/public/matams/matam_kawari_tubli.jpg"
+        ]
+    },
+    {
+        "id": 234,
+        "name_ar": "مأتم الجد (توبلي)",
+        "name_en": "Matam Al-Jid (Tubli)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1865,
+            "lng": 50.5515
+        },
+        "description_ar": "من مآتم توبلي العريقة، يشتهر بكونه صرحاً إيمانياً يحافظ على التقاليد العزائية لأهالي المنطقة القدامى.",
+        "description_en": "A historic Tubli matam, known as a spiritual edifice preserving old neighborhood mourning traditions.",
+        "history": "A long-standing marker of religious continuity in the heart of old Tubli.",
+        "images": [
+            "/public/matams/matam_jid_tubli.jpg"
+        ]
+    },
+    {
+        "id": 235,
+        "name_ar": "مأتم جرداب الكبير",
+        "name_en": "Matam Jurdab Al-Kabeer",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1755,
+            "lng": 50.5755
+        },
+        "description_ar": "المأتم الرئيسي لقرية جرداب، يجمع أهالي القرية والمناطق المجاورة في مختلف المناسبات الدينية.",
+        "description_en": "The main matam of Jurdab village, gathering residents for various religious occasions.",
+        "history": "Historically significant as the central religious site of the coastal Jurdab community.",
+        "images": [
+            "/public/matams/matam_jurdab_kabeer.jpg"
+        ]
+    },
+    {
+        "id": 236,
+        "name_ar": "مأتم جرداب الجنوبي",
+        "name_en": "Matam Jurdab Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1712,
+            "lng": 50.5725
+        },
+        "description_ar": "يخدم الجهة الجنوبية من جرداب، ويمثل ركيزة للأنشطة واللقاءات الاجتماعية لأهالي تلك المنطقة.",
+        "description_en": "Serves the southern side of Jurdab, acting as a pillar for social activities and meetings.",
+        "history": "Built as Jurdab expanded southward to meet the spiritual needs of its residents.",
+        "images": [
+            "/public/matams/matam_jurdab_south.jpg"
+        ]
+    },
+    {
+        "id": 237,
+        "name_ar": "مأتم سند الشمالي",
+        "name_en": "Matam Sanad Al-Shamali",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1655,
+            "lng": 50.5855
+        },
+        "description_ar": "يخدم الجهة الشمالية من منطقة سند، ويعد مركزاً لالتقاء المؤمنين وإقامة الشعائر الدينية الموسمية بالحي.",
+        "description_en": "Serves the northern part of Sanad area, acting as a gathering center for seasonal rituals.",
+        "history": "A testament to the spiritual growth of the Sanad district in recent decades.",
+        "images": [
+            "/public/matams/matam_sanad_north.jpg"
+        ]
+    },
+    {
+        "id": 238,
+        "name_ar": "مأتم سند الجنوبي",
+        "name_en": "Matam Sanad Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1585,
+            "lng": 50.5885
+        },
+        "description_ar": "يخدم أهالي سند الجنوبي والمنطقة المحيطة، ويتميز بروح المحبة والتواصل بين أهالي الحي.",
+        "description_en": "Serves southern Sanad and surrounding area, known for its community spirit and cohesion.",
+        "history": "Part of the network of religious structures serving the expanding Sandad community.",
+        "images": [
+            "/public/matams/matam_sanad_south.jpg"
+        ]
+    },
+    {
+        "id": 239,
+        "name_ar": "مأتم العباس (مركوبان)",
+        "name_en": "Matam Al-Abbas (Sitra)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1622,
+            "lng": 50.6195
+        },
+        "description_ar": "يخدم منطقة مركوبان في سترة، ويعد من المآتم العريقة التي تشتهر بقوة حضورها في المواكب العزائية بالجزيرة.",
+        "description_en": "Serves Markuban in Sitra, one of the historic matams famous for its presence in religious processions.",
+        "history": "Named after Al-Abbas, symbolizing courage and devotion in the Sitra community.",
+        "images": [
+            "/public/matams/matam_abbas_markuban.jpg"
+        ]
+    },
+    {
+        "id": 240,
+        "name_ar": "مأتم الصالحين (مركوبان)",
+        "name_en": "Matam Al-Saliheen (Sitra)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1635,
+            "lng": 50.6212
+        },
+        "description_ar": "مأتم يخدم تجمعاً سكانياً في مركوبان بسترة، ويساهم بفعالية في تنظيم الفعاليات الدينية واللقاءات العامة.",
+        "description_en": "Serves a residential cluster in Markuban, Sitra, organizing religious events and meetings.",
+        "history": "Established to provide additional spiritual services in the heart of Markuban.",
+        "images": [
+            "/public/matams/matam_saliheen_markuban.jpg"
+        ]
+    },
+    {
+        "id": 241,
+        "name_ar": "مأتم الهادي (مهزة)",
+        "name_en": "Matam Al-Hadi (Mahazza)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1585,
+            "lng": 50.6165
+        },
+        "description_ar": "يخدم منطقة مهزة في سترة، ويعد صرحاً إيمانياً يجمع أهالي الحي في المناسبات المختلفة.",
+        "description_en": "Serves Mahazza in Sitra, acting as a spiritual edifice for neighborhood gatherings.",
+        "history": "Part of the religious fabric of one of Sitra's oldest villages.",
+        "images": [
+            "/public/matams/matam_hadi_mahazza.jpg"
+        ]
+    },
+    {
+        "id": 242,
+        "name_ar": "مأتم المجتبى (مهزة)",
+        "name_en": "Matam Al-Mujtaba (Mahazza)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1595,
+            "lng": 50.6185
+        },
+        "description_ar": "مركز ديني في مهزة يركز على إحياء سيرة الإمام المجتبى عليه السلام ونشر الوعي الديني بالجزيرة.",
+        "description_en": "A religious center in Mahazza focusing on the legacy of Imam Al-Mujtaba and religious awareness.",
+        "history": "Founded to meet the growing spiritual needs of the Mahazza community.",
+        "images": [
+            "/public/matams/matam_mujtaba_mahazza.jpg"
+        ]
+    },
+    {
+        "id": 243,
+        "name_ar": "مأتم اليتيم (الخارجية)",
+        "name_en": "Matam Al-Yateem",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1555,
+            "lng": 50.6112
+        },
+        "description_ar": "يخدم أهالي منطقة الخارجية في سترة، ويعد من مآتم المنطقة التي تشتهر بنشاطها الاجتماعي والخيري.",
+        "description_en": "Serves Al-Kharijiya area in Sitra, known for its social and charitable activity.",
+        "history": "Reflects the commitment of Sitra residents to supporting communal needs.",
+        "images": [
+            "/public/matams/matam_yateem_kharijiya.jpg"
+        ]
+    },
+    {
+        "id": 244,
+        "name_ar": "مأتم السادة (الخارجية)",
+        "name_en": "Matam Al-Sada (Sitra)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1565,
+            "lng": 50.6135
+        },
+        "description_ar": "يجمع عائلات السادة في منطقة الخارجية بسترة، ويتميز ببرامجه الدينية المتميزة طوال العام.",
+        "description_en": "Gathers Sayyid families in Al-Kharijiya, Sitra, featuring distinguished religious programs.",
+        "history": "A spiritual home for the distinguished Sayyid families of Sitra Island.",
+        "images": [
+            "/public/matams/matam_sada_kharijiya.jpg"
+        ]
+    },
+    {
+        "id": 245,
+        "name_ar": "مأتم المقشاع الوسطي",
+        "name_en": "Matam Al-Maqsha Al-Wasat",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2205,
+            "lng": 50.5165
+        },
+        "description_ar": "يخدم قلب قرية المقشاع، ويمثل ركيزة للأنشطة واللقاءات الاجتماعية لأهالي وسط القرية.",
+        "description_en": "Serves the heart of Al-Maqsha village, acting as a pillar for social activities in the village center.",
+        "history": "Strategically located to serve the main residential block of Al-Maqsha.",
+        "images": [
+            "/public/matams/matam_maqsha_wasti.jpg"
+        ]
+    },
+    {
+        "id": 246,
+        "name_ar": "مأتم جنوسان الشمالي",
+        "name_en": "Matam Janusan Al-Shamali",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2312,
+            "lng": 50.5015
+        },
+        "description_ar": "يخدم الجهة الشمالية من قرية جنوسان الساحلية، ويرتبط تاريخياً بحياة أهالي القرية البحرية والزراعية.",
+        "description_en": "Serves the northern side of coastal Janusan village, historically linked to the maritime and agricultural life.",
+        "history": "A long-standing marker of the religious and social presence in Janusan.",
+        "images": [
+            "/public/matams/matam_janusan_north.jpg"
+        ]
+    },
+    {
+        "id": 247,
+        "name_ar": "مأتم جنوسان الجنوبي",
+        "name_en": "Matam Janusan Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2275,
+            "lng": 50.4985
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية جنوسان، ويعد مركزاً لالتقاء المؤمنين وإقامة الشعائر الدينية الموسمية بالحي.",
+        "description_en": "Serves the southern side of Janusan village, acting as a gathering center for seasonal rituals.",
+        "history": "Established to complement the village's religious infrastructure as it expanded.",
+        "images": [
+            "/public/matams/matam_janusan_south.jpg"
+        ]
+    },
+    {
+        "id": 248,
+        "name_ar": "مأتم كرانة الوسطي",
+        "name_en": "Matam Karrana Al-Wasat",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2292,
+            "lng": 50.5185
+        },
+        "description_ar": "يخدم قلب قرية كرانة العريقة، ويعد صرحاً إيمانياً يجمع أهالي وسط القرية في مختلف المناسبات.",
+        "description_en": "Serves the heart of historic Karrana village, acting as a spiritual edifice for the village center.",
+        "history": "Historically significant as the central gathering spot for the Karrana community.",
+        "images": [
+            "/public/matams/matam_karana_wasti.jpg"
+        ]
+    },
+    {
+        "id": 249,
+        "name_ar": "مأتم جد الحاج الكبير",
+        "name_en": "Matam Jid Al-Haj Al-Kabeer",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2355,
+            "lng": 50.4912
+        },
+        "description_ar": "المأتم الرئيسي لقرية جد الحاج، يجمع أهالي القرية والمناطق المجاورة في مختلف المناسبات الدينية.",
+        "description_en": "The main matam of Jid Al-Haj village, gathering residents for various religious occasions.",
+        "history": "Historically significant as the central religious site of the small Jid Al-Haj community.",
+        "images": [
+            "/public/matams/matam_jid_haj_kabeer.jpg"
+        ]
+    },
+    {
+        "id": 250,
+        "name_ar": "مأتم جد الحاج الجنوبي",
+        "name_en": "Matam Jid Al-Haj Al-Janubi",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.2312,
+            "lng": 50.4885
+        },
+        "description_ar": "يخدم الجهة الجنوبية من قرية جد الحاج، ويمثل ركيزة للأنشطة واللقاءات الاجتماعية لأهالي تلك المنطقة.",
+        "description_en": "Serves the southern side of Jid Al-Haj, acting as a pillar for social activities and meetings.",
+        "history": "Built as Jid Al-Haj expanded southward to meet the spiritual needs of its residents.",
+        "images": [
+            "/public/matams/matam_jid_haj_south.jpg"
+        ]
     }
 ]
