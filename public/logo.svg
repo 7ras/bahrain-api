@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="120" fill="url(#paint0_linear)"/>
+  <path d="M512 160L464 128L512 96V160Z" fill="white" fill-opacity="0.2"/>
+  <path d="M0 352L48 384L0 416V352Z" fill="white" fill-opacity="0.2"/>
+  
+  <!-- Stylized Pearling Boat / Traditional Symbol -->
+  <path d="M150 350C150 350 180 380 256 380C332 380 362 350 362 350V330H150V350Z" fill="white"/>
+  <path d="M256 120V330" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <path d="M256 140L340 280H256V140Z" fill="white"/>
+  <path d="M256 160L200 260H256V160Z" fill="white" fill-opacity="0.7"/>
+  
+  <!-- Serrated edge like Bahrain Flag -->
+  <path d="M0 120L40 144L0 168L40 192L0 216L40 240L0 264L40 288L0 312L40 336L0 360" stroke="white" stroke-width="8" stroke-linejoin="round"/>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CE1126"/>
+      <stop offset="1" stop-color="#8E0C1A"/>
+    </linearGradient>
+  </defs>
+</svg>

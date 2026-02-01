@@ -1,4 +1,4 @@
-# 🇧🇭 Old Bahrain API | واجهة برمجة تطبيقات تراث البحرين
+# <img src="public/logo.svg" width="48" height="48" valign="middle"> 🇧🇭 Old Bahrain API | واجهة برمجة تطبيقات تراث البحرين
 
 Old Bahrain API is an open-source project dedicated to digitally archiving the history of Bahrain. It provides a free, static API containing structured data about Bahraini villages, historical currencies, and rare photographs.
 
