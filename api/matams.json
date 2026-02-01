@@ -10623,5 +10623,39 @@
         "images": [
             "/public/matams/matam_maameer_qibli_branch.jpg"
         ]
+    },
+    {
+        "id": 626,
+        "name_ar": "مأتم الخضر (بني جمرة)",
+        "name_en": "Matam Al-Khader (Bani Jamrah)",
+        "type": "Matam",
+        "category": "Historical Community House",
+        "location": {
+            "lat": 26.2155,
+            "lng": 50.4555
+        },
+        "description_ar": "أحد مآتم قرية بني جمرة العريقة، يشتهر بإحيائه الشعائر الدينية ودوره في النسيج الاجتماعي للقرية.",
+        "description_en": "One of the historic matams in Bani Jamrah, known for its religious commemorations.",
+        "history": "A long-standing religious landmark in the heart of Bani Jamrah.",
+        "images": [
+            "/public/matams/matam_khader_bnijamrah.jpg"
+        ]
+    },
+    {
+        "id": 627,
+        "name_ar": "مأتم عبدالخضر (سترة)",
+        "name_en": "Matam Abdul-Khader (Sitra)",
+        "type": "Matam",
+        "category": "Community House",
+        "location": {
+            "lat": 26.1637,
+            "lng": 50.6259
+        },
+        "description_ar": "يقع في قرية سفاية بسترة، ويعد مركزاً لالتقاء المؤمنين وإقامة مختلف الفعاليات والمناسبات.",
+        "description_en": "Located in Sufala, Sitra, a center for believers and various social events.",
+        "history": "Established to serve the residents of the Sufala district in Sitra.",
+        "images": [
+            "/public/matams/matam_abdulkhader_sitra.jpg"
+        ]
     }
 ]
