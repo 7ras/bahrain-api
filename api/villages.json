@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name_ar": "عالي",
+        "name_en": "A'ali",
+        "category": "Village",
+        "description_ar": "تُعد قرية عالي من أهم المواقع التاريخية في البحرين، وتشتهر بتلال المدافن الأثرية التي تعود لحضارة دلمون، بالإضافة إلى صناعة الفخار التقليدية التي لا تزال مستمرة حتى اليوم.",
+        "description_en": "A'ali is one of the most important historical sites in Bahrain, famous for its Dilmun burial mounds and traditional pottery industry that continues to this day.",
+        "location": {
+            "lat": 26.1558,
+            "lng": 50.5239
+        },
+        "images": [
+            "/public/villages/aali-pottery.jpg",
+            "/public/villages/aali-mounds.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name_ar": "المحرق",
+        "name_en": "Muharraq",
+        "category": "Historical City",
+        "description_ar": "العاصمة القديمة للبحرين، ومركز الغوص على اللؤلؤ. تتميز ببيوتها التاريخية الجميلة مثل بيت الشيخ عيسى بن علي وبيت سيادي، وهي مدرجة ضمن قائمة التراث العالمي لليونسكو.",
+        "description_en": "The former capital of Bahrain and the center for pearl diving. It is characterized by its beautiful historical houses like Sheikh Isa bin Ali House and Siyadi House, and is listed as a UNESCO World Heritage site.",
+        "location": {
+            "lat": 26.2558,
+            "lng": 50.6067
+        },
+        "images": [
+            "/public/villages/muharraq-house.jpg",
+            "/public/villages/muharraq-market.jpg"
+        ]
+    }
+]

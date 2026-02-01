@@ -1,0 +1,24 @@
+[
+    {
+        "id": 201,
+        "title_ar": "سوق المنامة في الخمسينيات",
+        "title_en": "Manama Souq in the 1950s",
+        "description_ar": "صورة نادرة تظهر الحركة التجارية والنشاط في قلب سوق المنامة القديم.",
+        "description_en": "A rare photo showing commercial activity and life in the heart of old Manama Souq.",
+        "year": 1950,
+        "category_ar": "أسواق",
+        "category_en": "Markets",
+        "image_url": "/public/history/manama-market-1950.jpg"
+    },
+    {
+        "id": 202,
+        "title_ar": "باب البحرين",
+        "title_en": "Bab Al Bahrain",
+        "description_ar": "صورة لباب البحرين، المدخل الرئيسي للمنامة، التقطت في منتصف الأربعينيات.",
+        "description_en": "A photo of Bab Al Bahrain, the main gateway to Manama, taken in the mid-1940s.",
+        "year": 1945,
+        "category_ar": "معالم",
+        "category_en": "Landmarks",
+        "image_url": "/public/history/bab-al-bahrain-1945.jpg"
+    }
+]

@@ -1,1 +1,81 @@
-# old-bahrian-api
+# 🇧🇭 Old Bahrain API | واجهة برمجة تطبيقات تراث البحرين
+
+Old Bahrain API is an open-source project dedicated to digitally archiving the history of Bahrain. It provides a free, static API containing structured data about Bahraini villages, historical currencies, and rare photographs.
+
+Old Bahrain API هو مشروع مفتوح المصدر يهدف لتوثيق تاريخ البحرين رقمياً. يوفر المشروع واجهة برمجية (API) مجانية تحتوي على بيانات مهيكلة حول قرى البحرين، العملات التاريخية، وصور نادرة من الماضي.
+
+---
+
+## 🚀 How to Use | طريقة الاستخدام
+
+Since this is a static API hosted on GitHub Pages, you can fetch data directly using `GET` requests.
+بما أن الـ API مستضاف كملفات ثابتة، يمكنك جلب البيانات مباشرة باستخدام طلبات `GET`.
+
+### 📍 Base URL | الرابط الأساسي
+`https://7ras.github.io/old-bahrain-api`
+
+### 🔗 Available Endpoints | الروابط المتاحة
+
+| Data Type | Endpoint | Description | الوصف |
+| :--- | :--- | :--- | :--- |
+| **Villages** | `/api/villages.json` | List of villages, history, and location. | قائمة القرى، تاريخها، ومواقعها. |
+| **Currencies** | `/api/currencies.json` | Old currencies used in Bahrain. | العملات القديمة المستخدمة في البحرين. |
+| **Photos** | `/api/historical_photos.json` | Archive of general historical photos. | أرشيف الصور التاريخية العامة. |
+
+---
+
+## 📦 Data Structure Example | نموذج هيكلة البيانات
+
+### 🏘️ Villages (القرى)
+```json
+{
+  "id": 1,
+  "name_ar": "البلاد القديم",
+  "name_en": "Bilad Al Qadeem",
+  "category": "Historical Capital",
+  "description_ar": "كانت عاصمة البحرين القديمة وتشتهر بمسجد الخميس...",
+  "description_en": "It was the old capital of Bahrain, famous for Al Khamis Mosque...",
+  "location": {
+    "lat": 26.2056,
+    "lng": 50.5539
+  },
+  "images": ["/public/villages/bilad-old.jpg"]
+}
+```
+
+### 🪙 Currencies (العملات)
+```json
+{
+  "id": 101,
+  "name_ar": "روبية خليجية",
+  "name_en": "Gulf Rupee",
+  "year": 1959,
+  "era": "Pre-Independence",
+  "images": {
+    "front": "/public/currencies/rupee_1_front.jpg",
+    "back": "/public/currencies/rupee_1_back.jpg"
+  }
+}
+```
+
+---
+
+## 🤝 Contribution | المساهمة
+
+We welcome contributions from the community! If you have historical photos, corrections, or new data about a village:
+نرحب بمساهمات المجتمع! إذا كان لديك صور تاريخية، تصحيحات، أو معلومات إضافية عن قرية معينة:
+
+1. **Fork** the repository.
+2. **Add** your data to the relevant `.json` file in the `api/` folder.
+3. **Upload** images to the `public/` folder.
+4. **Submit** a Pull Request.
+
+---
+
+## 📜 License | الترخيص
+
+This project is licensed under the **MIT License**.
+Images are property of their respective owners and used for educational/archival purposes.
+
+هذا المشروع مرخص تحت رخصة **MIT**.
+الصور تعود ملكيتها لأصحابها وتستخدم هنا لأغراض تعليمية وتوثيقية.

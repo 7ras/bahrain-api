@@ -1,0 +1,30 @@
+[
+    {
+        "id": 101,
+        "name_ar": "دينار بحريني واحد - إصدار 1965",
+        "name_en": "One Bahraini Dinar - 1965 Issue",
+        "year": 1965,
+        "era": "Post-Independence",
+        "value": "1 BHD",
+        "images": {
+            "front": "/public/currencies/bhd-1-1965-front.jpg",
+            "back": "/public/currencies/bhd-1-1965-back.jpg"
+        },
+        "description_ar": "أول إصدار للدينار البحريني بعد استبدال روبية الخليج.",
+        "description_en": "The first issue of the Bahraini Dinar after replacing the Gulf Rupee."
+    },
+    {
+        "id": 102,
+        "name_ar": "روبية خليجية",
+        "name_en": "Gulf Rupee",
+        "year": 1959,
+        "era": "Pre-Independence",
+        "value": "1 Rupee",
+        "images": {
+            "front": "/public/currencies/gulf-rupee-front.jpg",
+            "back": "/public/currencies/gulf-rupee-back.jpg"
+        },
+        "description_ar": "العملة التي كانت مستخدمة في البحرين ودول الخليج قبل إصدار العملات الوطنية.",
+        "description_en": "The currency used in Bahrain and the Gulf states before the issuance of national currencies."
+    }
+]
